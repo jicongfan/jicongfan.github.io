@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tommy W.S. Chow | Jicong Fan</title>
+    <link>https://jicongfan.github.io/authors/tommy-w.s.-chow/</link>
+      <atom:link href="https://jicongfan.github.io/authors/tommy-w.s.-chow/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tommy W.S. Chow</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jicongfan.github.io/img/icon-192.png</url>
+      <title>Tommy W.S. Chow</title>
+      <link>https://jicongfan.github.io/authors/tommy-w.s.-chow/</link>
+    </image>
+    
+    <item>
+      <title>Exactly robust kernel principal component analysis</title>
+      <link>https://jicongfan.github.io/publication/journal-article/rkpca_tnnls2018/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://jicongfan.github.io/publication/journal-article/rkpca_tnnls2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fault Detection for Rolling-Element Bearings Using Multivariate Statistical Process Control Methods</title>
+      <link>https://jicongfan.github.io/publication/journal-article/fd_tim2019/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://jicongfan.github.io/publication/journal-article/fd_tim2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matrix completion via sparse factorization solved by accelerated proximal alternating linearized minimization</title>
+      <link>https://jicongfan.github.io/publication/journal-article/sfmc_tbd2019/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://jicongfan.github.io/publication/journal-article/sfmc_tbd2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nonlinear Dimensionality Reduction for Data with Disconnected Neighborhood Graph</title>
+      <link>https://jicongfan.github.io/publication/journal-article/nldr_npl2018/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://jicongfan.github.io/publication/journal-article/nldr_npl2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matrix completion by least-square, low-rank, and sparse self-representations</title>
+      <link>https://jicongfan.github.io/publication/journal-article/srmc_pr2017/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://jicongfan.github.io/publication/journal-article/srmc_pr2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

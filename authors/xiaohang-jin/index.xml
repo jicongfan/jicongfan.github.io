@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xiaohang Jin | Jicong Fan</title>
+    <link>https://jicongfan.github.io/authors/xiaohang-jin/</link>
+      <atom:link href="https://jicongfan.github.io/authors/xiaohang-jin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xiaohang Jin</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jicongfan.github.io/img/icon-192.png</url>
+      <title>Xiaohang Jin</title>
+      <link>https://jicongfan.github.io/authors/xiaohang-jin/</link>
+    </image>
+    
+    <item>
+      <title>Fault Detection for Rolling-Element Bearings Using Multivariate Statistical Process Control Methods</title>
+      <link>https://jicongfan.github.io/publication/journal-article/fd_tim2019/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://jicongfan.github.io/publication/journal-article/fd_tim2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jieyu cheng | Jicong Fan</title>
+    <link>https://jicongfan.github.io/authors/jieyu-cheng/</link>
+      <atom:link href="https://jicongfan.github.io/authors/jieyu-cheng/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jieyu cheng</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jicongfan.github.io/img/icon-192.png</url>
+      <title>Jieyu cheng</title>
+      <link>https://jicongfan.github.io/authors/jieyu-cheng/</link>
+    </image>
+    
+    <item>
+      <title>Matrix completion by deep matrix factorization</title>
+      <link>https://jicongfan.github.io/publication/journal-article/dmfmc_nn2018/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://jicongfan.github.io/publication/journal-article/dmfmc_nn2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

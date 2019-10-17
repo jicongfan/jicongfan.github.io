@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Madeleine Udell | Jicong Fan</title>
+    <link>https://jicongfan.github.io/authors/madeleine-udell/</link>
+      <atom:link href="https://jicongfan.github.io/authors/madeleine-udell/index.xml" rel="self" type="application/rss+xml" />
+    <description>Madeleine Udell</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jicongfan.github.io/img/icon-192.png</url>
+      <title>Madeleine Udell</title>
+      <link>https://jicongfan.github.io/authors/madeleine-udell/</link>
+    </image>
+    
+    <item>
+      <title>Factor group sparse regularization for efficient low-rank matrix recovery</title>
+      <link>https://jicongfan.github.io/publication/conference-paper/fgsr_neurips2019/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://jicongfan.github.io/publication/conference-paper/fgsr_neurips2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online high-rank matrix completion</title>
+      <link>https://jicongfan.github.io/publication/conference-paper/olhrmc_cvpr2019/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://jicongfan.github.io/publication/conference-paper/olhrmc_cvpr2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

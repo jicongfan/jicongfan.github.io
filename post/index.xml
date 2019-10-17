@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts1 | Jicong Fan</title>
+    <link>https://jicongfan.github.io/post/</link>
+      <atom:link href="https://jicongfan.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts1</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://jicongfan.github.io/img/icon-192.png</url>
+      <title>Posts1</title>
+      <link>https://jicongfan.github.io/post/</link>
+    </image>
+    
+  </channel>
+</rss>

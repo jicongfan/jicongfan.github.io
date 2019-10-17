@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tommy WS Chow | Jicong Fan</title>
+    <link>https://jicongfan.github.io/authors/tommy-ws-chow/</link>
+      <atom:link href="https://jicongfan.github.io/authors/tommy-ws-chow/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tommy WS Chow</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jicongfan.github.io/img/icon-192.png</url>
+      <title>Tommy WS Chow</title>
+      <link>https://jicongfan.github.io/authors/tommy-ws-chow/</link>
+    </image>
+    
+    <item>
+      <title>Accelerated low-rank representation for subspace clustering and semi-supervised classification on large-scale data</title>
+      <link>https://jicongfan.github.io/publication/journal-article/alrr_nn2018/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://jicongfan.github.io/publication/journal-article/alrr_nn2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
