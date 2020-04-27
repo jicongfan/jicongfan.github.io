@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Source Themes | Jicong Fan</title>
-    <link>https://jicongfan.github.io/tags/source-themes/</link>
-      <atom:link href="https://jicongfan.github.io/tags/source-themes/index.xml" rel="self" type="application/rss+xml" />
-    <description>Source Themes</description>
+    <title>Yuqian Zhang | Jicong Fan</title>
+    <link>https://jicongfan.github.io/authors/yuqian-zhang/</link>
+      <atom:link href="https://jicongfan.github.io/authors/yuqian-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yuqian Zhang</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 15 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jicongfan.github.io/img/icon-192.png</url>
-      <title>Source Themes</title>
-      <link>https://jicongfan.github.io/tags/source-themes/</link>
+      <title>Yuqian Zhang</title>
+      <link>https://jicongfan.github.io/authors/yuqian-zhang/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://jicongfan.github.io/publication/conference-paper/pmc_aaai2020/</link>
       <pubDate>Sun, 15 Dec 2019 00:00:00 +0000</pubDate>
       <guid>https://jicongfan.github.io/publication/conference-paper/pmc_aaai2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Factor group sparse regularization for efficient low-rank matrix recovery</title>
-      <link>https://jicongfan.github.io/publication/conference-paper/fgsr_neurips2019/</link>
-      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://jicongfan.github.io/publication/conference-paper/fgsr_neurips2019/</guid>
       <description></description>
     </item>
     
