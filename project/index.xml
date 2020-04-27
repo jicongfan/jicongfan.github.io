@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Jicong Fan</title>
+    <link>https://jicongfan.github.io/project/</link>
+      <atom:link href="https://jicongfan.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://jicongfan.github.io/img/icon-192.png</url>
+      <title>Projects</title>
+      <link>https://jicongfan.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>https://jicongfan.github.io/project/deep-learning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jicongfan.github.io/project/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kernel methods</title>
+      <link>https://jicongfan.github.io/project/kernel-methods/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jicongfan.github.io/project/kernel-methods/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matrix Completion</title>
+      <link>https://jicongfan.github.io/project/matrix-completion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jicongfan.github.io/project/matrix-completion/</guid>
+      <description>&lt;p&gt;Matrix completion aims to recover the missing entries of a partially observed matrix. Real applications include collaborative filtering, image inpainting, wireless sensor network localization, automatic machine learning, and transductive learning.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
