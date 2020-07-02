@@ -5,12 +5,20 @@
     <link>https://jicongfan.github.io/authors/lijun-ding/</link>
       <atom:link href="https://jicongfan.github.io/authors/lijun-ding/index.xml" rel="self" type="application/rss+xml" />
     <description>Lijun Ding</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 29 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jicongfan.github.io/img/icon-192.png</url>
       <title>Lijun Ding</title>
       <link>https://jicongfan.github.io/authors/lijun-ding/</link>
     </image>
+    
+    <item>
+      <title>$k$FW: A Frank-Wolfe style algorithm with stronger subproblem oracles</title>
+      <link>https://jicongfan.github.io/publication/preprint/kfw/</link>
+      <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://jicongfan.github.io/publication/preprint/kfw/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Factor group sparse regularization for efficient low-rank matrix recovery</title>

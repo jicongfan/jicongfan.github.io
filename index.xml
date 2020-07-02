@@ -5,12 +5,36 @@
     <link>https://jicongfan.github.io/</link>
       <atom:link href="https://jicongfan.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Jicong Fan</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 15 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 29 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jicongfan.github.io/img/icon-192.png</url>
       <title>Jicong Fan</title>
       <link>https://jicongfan.github.io/</link>
     </image>
+    
+    <item>
+      <title>$k$FW: A Frank-Wolfe style algorithm with stronger subproblem oracles</title>
+      <link>https://jicongfan.github.io/publication/preprint/kfw/</link>
+      <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://jicongfan.github.io/publication/preprint/kfw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient AutoML Pipeline Search with Matrix and Tensor Factorization</title>
+      <link>https://jicongfan.github.io/publication/preprint/tensor-automl/</link>
+      <pubDate>Sun, 07 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://jicongfan.github.io/publication/preprint/tensor-automl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Non-Linear Matrix Factorization for Dictionary Learning, Denoising, and Clustering</title>
+      <link>https://jicongfan.github.io/publication/preprint/rnlmf/</link>
+      <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://jicongfan.github.io/publication/preprint/rnlmf/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Polynomial Matrix Completion for Missing Data Imputation and Transductive Learning</title>
