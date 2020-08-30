@@ -134,25 +134,25 @@
     
     <item>
       <title>Deep Learning</title>
-      <link>https://jicongfan.github.io/project/deep-learning/</link>
+      <link>https://jicongfan.github.io/project-aaa/deep-learning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jicongfan.github.io/project/deep-learning/</guid>
+      <guid>https://jicongfan.github.io/project-aaa/deep-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kernel methods</title>
-      <link>https://jicongfan.github.io/project/kernel-methods/</link>
+      <link>https://jicongfan.github.io/project-aaa/kernel-methods/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jicongfan.github.io/project/kernel-methods/</guid>
+      <guid>https://jicongfan.github.io/project-aaa/kernel-methods/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Matrix Completion</title>
-      <link>https://jicongfan.github.io/project/matrix-completion/</link>
+      <link>https://jicongfan.github.io/project-aaa/matrix-completion/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jicongfan.github.io/project/matrix-completion/</guid>
+      <guid>https://jicongfan.github.io/project-aaa/matrix-completion/</guid>
       <description>&lt;p&gt;Matrix completion aims to recover the missing entries of a partially observed matrix. Real applications include collaborative filtering, image inpainting, wireless sensor network localization, automatic machine learning, and transductive learning.&lt;/p&gt;
 </description>
     </item>
