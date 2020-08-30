@@ -5,12 +5,20 @@
     <link>https://jicongfan.github.io/authors/admin/</link>
       <atom:link href="https://jicongfan.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Jicong Fan</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 29 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 23 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jicongfan.github.io/img/icon-192.png</url>
       <title>Jicong Fan</title>
       <link>https://jicongfan.github.io/authors/admin/</link>
     </image>
+    
+    <item>
+      <title>AutoML Pipeline Selection: Efficiently Navigating the Combinatorial Space</title>
+      <link>https://jicongfan.github.io/publication/conference-paper/tensor-automl-kdd/</link>
+      <pubDate>Sun, 23 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://jicongfan.github.io/publication/conference-paper/tensor-automl-kdd/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>$k$FW: A Frank-Wolfe style algorithm with stronger subproblem oracles</title>
