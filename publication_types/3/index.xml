@@ -5,12 +5,28 @@
     <link>https://jicongfan.github.io/publication_types/3/</link>
       <atom:link href="https://jicongfan.github.io/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 29 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 08 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jicongfan.github.io/img/icon-192.png</url>
       <title>3</title>
       <link>https://jicongfan.github.io/publication_types/3/</link>
     </image>
+    
+    <item>
+      <title>k-Factorization Subspace Clustering</title>
+      <link>https://jicongfan.github.io/publication/preprint/kfsc/</link>
+      <pubDate>Tue, 08 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://jicongfan.github.io/publication/preprint/kfsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low-Rank Tensor Recovery with Euclidean-Norm-Induced Schatten-p Quasi-Norm Regularization</title>
+      <link>https://jicongfan.github.io/publication/preprint/tensorsp/</link>
+      <pubDate>Mon, 07 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://jicongfan.github.io/publication/preprint/tensorsp/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>$k$FW: A Frank-Wolfe style algorithm with stronger subproblem oracles</title>
