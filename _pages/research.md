@@ -23,8 +23,8 @@ author_profile: true
 ### Tensor Decomposition
 
 <img src="/images/fig_cp.png"
-     width="80%" 
-     height="80%"
+     width="90%" 
+     height="90%"
      >
      
 ### Tensor Completion
@@ -56,7 +56,7 @@ author_profile: true
 <img src="/images/plad.png"
      alt="Markdown Monster icon">
 
-<img src="/images/do2hc.png"
+<img src="/images/do2hsc.png"
      alt="Markdown Monster icon">
      
 <img src="/images/rgp.png"
