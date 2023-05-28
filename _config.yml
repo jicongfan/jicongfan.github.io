@@ -179,13 +179,13 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  articles:
+  publications:
     output: true
     permalink: /:collection/:path/
-  expressions:
+  students:
     output: true
     permalink: /:collection/:path/
-  talks:
+  research:
     output: true
     permalink: /:collection/:path/
 
@@ -223,7 +223,7 @@ defaults:
   # _articles
   - scope:
       path: ""
-      type: articles
+      type: publications
     values:
       layout: single
       author_profile: true
@@ -232,7 +232,7 @@ defaults:
   # _expressions
   - scope:
       path: ""
-      type: expressions
+      type: students
     values:
       layout: single
       author_profile: true
@@ -241,7 +241,7 @@ defaults:
   # _talks
   - scope:
       path: ""
-      type: talks
+      type: research
     values:
       layout: talk
       author_profile: true
