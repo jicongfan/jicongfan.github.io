@@ -7,7 +7,7 @@ author_profile: true
 
 ## Matrix and Tensor Methods
 
-![Alt text](/images/lrtc.png "Tensor Completion")
+![Alt text](/images/lrtc.png "Tensor Completion" width="60%" height="30%")
 
 ![Alt text](/images/trpca.png "Tensor Robust PCA")
 
