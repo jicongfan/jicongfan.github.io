@@ -42,13 +42,24 @@ author_profile: true
      height="80%">
 
 
+## Clustering
+
+<img src="/images/edesc.png"
+     alt="Markdown Monster icon">
+     
+<img src="/images/kfsc.png"
+     alt="Markdown Monster icon">
+     
 
 ## Anomaly Detection
 
 <img src="/images/plad.png"
      alt="Markdown Monster icon">
-     
-## Clustering
 
-<img src="/images/edesc.png"
+<img src="/images/do2hc.png"
      alt="Markdown Monster icon">
+     
+<img src="/images/rgp.png"
+     alt="Markdown Monster icon">
+     
+
