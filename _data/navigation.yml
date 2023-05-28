@@ -5,11 +5,10 @@ main:
 
   - title: "Research"
     url: /research/    
-    
-  - title: "Expressions"
-    url: /expressions/
 
   - title: "Teaching"
     url: /teaching/
-        
+
+ - title: "Students"
+    url: /students/
 
