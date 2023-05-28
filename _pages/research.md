@@ -12,7 +12,7 @@ author_profile: true
 
 ![Alt text](/images/trpca.png "Tensor Robust PCA")
 
-<img src="lrtc.png"
+<img src="/images/lrtc.png"
      alt="Markdown Monster icon"
      width="60%" 
      height="30%">
