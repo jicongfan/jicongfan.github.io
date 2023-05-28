@@ -8,7 +8,7 @@ author_profile: true
 ## Matrix and Tensor Methods
 
 
-<img src="/images/lrtc.png" alt= “ ” width="60%" height="30%>
+![imaage](/images/lrtc.png "Tensor Robust PCA")
 
 ![Alt text](/images/trpca.png "Tensor Robust PCA")
 
