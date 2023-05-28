@@ -12,9 +12,10 @@ author_profile: true
 
 ![Alt text](/images/trpca.png "Tensor Robust PCA")
 
-<img src="lrtc.png.png"
+<img src="lrtc.png"
      alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />
+     width="60%" 
+     height="30%">
 
 ## Anomaly Detection
 
