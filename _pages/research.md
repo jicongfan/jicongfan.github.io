@@ -15,12 +15,16 @@ author_profile: true
 ### Missing Data Imputation
 
 <img src="/images/dnlmc.png"
+     width="50%" 
+     height="50%"
      >
 
 
 ### Tensor Decomposition
 
 <img src="/images/fig_cp.png"
+     width="70%" 
+     height="70%"
      >
      
 ### Tensor Completion
@@ -34,8 +38,8 @@ author_profile: true
 
 <img src="/images/trpca.png"
      alt="Markdown Monster icon"
-     width="50%" 
-     height="50%">
+     width="80%" 
+     height="80%">
 
 
 
