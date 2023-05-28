@@ -12,12 +12,18 @@ author_profile: true
 <img src="/images/fgsr.png"
      >
 
-### Tensor Decomposition
+### Missing Data Imputation
 
-### Tensor Completion
+<img src="/images/dnlmc.png"
+     >
+
+
+### Tensor Decomposition
 
 <img src="/images/fig_cp.png"
      >
+     
+### Tensor Completion
 
 <img src="/images/lrtc.png"
      alt="Markdown Monster icon"
@@ -35,6 +41,10 @@ author_profile: true
 
 ## Anomaly Detection
 
+<img src="/images/plad.png"
+     alt="Markdown Monster icon">
+     
 ## Clustering
 
-
+<img src="/images/edesc.png"
+     alt="Markdown Monster icon">
