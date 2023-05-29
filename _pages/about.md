@@ -27,6 +27,7 @@ My research interests include machine learning, computer vision, and optimizatio
 * process monitoring and fault diagnosis
 * machine learning for bioinformatics and healthcare
 * EEG and fMRI signal processing
+See the examples in "Resarch" page.
 
 Selectioned Publications
 ======
