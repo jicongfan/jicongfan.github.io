@@ -68,10 +68,7 @@ author_profile: true
      
 ## Automated Machine Learning
 
-<img src="/images/automl.png"
-     alt="Markdown Monster icon"
-     width="85%" 
-     height="85%>
+<img src="/images/automl.png">
 
 <img src="/images/autosc.png">
      
