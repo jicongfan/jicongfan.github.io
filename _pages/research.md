@@ -14,6 +14,10 @@ author_profile: true
 
 ### Missing Data Imputation
 
+
+<img src="/images/kfmc.png"
+     >
+     
 <img src="/images/dnlmc.png"
      width="80%" 
      height="80%"
