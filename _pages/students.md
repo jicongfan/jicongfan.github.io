@@ -21,11 +21,12 @@ author_profile: true
 	- Dazhi Fu (from UESTC)
 
 - Research assistants
+	- Yangyang Qu (from University of Chinese Academy of Sciences) 
 	- Yunhe Zhang (from Fuzhou University)
 	- Feng Xiao (from Jilin University)
 	- Haokun Zhao (CUHK-Shenzhen)
 	- Zixiao Wang (CUHK-Shenzhen)
- 	- Yangyang Qu (from University of Chinese Academy of Sciences) 
+
 
 - Graduated students
 	- Yan Sun (NUS)
