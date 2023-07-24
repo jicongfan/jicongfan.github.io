@@ -5,23 +5,26 @@ author_profile: true
 ---
 
 - PhD students
-	- Ziheng Sun
-	- Dong Qiao
+	- Ziheng Sun (from Zhejiang University)
+	- Dong Qiao (from Central South University)
+ 	- Yunhe Li (from HKUST)
+  	- Zhiyu Chen (from NUS)
 
 - Master students
-	- Wenyao He
-	- Zhenhao Jiang
+	- Wenyao He (from University of International Business and Economics)
+	- Zhenhao Jiang（from Dalian University of Technology)
 
 - Visiting students
-	- Zhihao Wu
-	- Chao Ouyang
-	- Dazhi Fu
+	- Zhihao Wu (from Fuzhou University)
+	- Chao Ouyang (from HIT-Shenzhen)
+	- Dazhi Fu (from UESTC)
 
 - Research assistants
-	- Yunhe Zhang
-	- Feng Xiao
-	- Yan Sun
-	- Haokun Zhao
-	- Zixiao Wang
+	- Yunhe Zhang (from Fuzhou University)
+	- Feng Xiao (from Jilin University)
+	- Haokun Zhao (CUHK-Shenzhen)
+	- Zixiao Wang (CUHK-Shenzhen)
 
-
+- Graduated students
+  	- Yi Han (CMU)
+  	- Yan Sun (NUS)
