@@ -10,6 +10,7 @@ author_profile: true
  	- Yunhe Li (from HKUST)
   	- Zhiyu Chen (from NUS)
 
+
 - Master students
 	- Wenyao He (from University of International Business and Economics)
 	- Zhenhao Jiang（from Dalian University of Technology)
@@ -28,5 +29,5 @@ author_profile: true
  	- Yangyang Qu (from University of Chinese Academy of Sciences) 
 
 - Graduated students
-  	- Yi Han (CMU)
-  	- Yan Sun (NUS)
+	- Yi Han (CMU)
+ 	- Yan Sun (NUS)
