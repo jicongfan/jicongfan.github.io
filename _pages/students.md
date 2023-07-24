@@ -15,10 +15,10 @@ author_profile: true
 	- Zhenhao Jiang（from Dalian University of Technology)
 
 - Visiting students
+	- Jiajun Yu (from China Agricultural University) 
 	- Zhihao Wu (from Fuzhou University)
 	- Chao Ouyang (from HIT-Shenzhen)
 	- Dazhi Fu (from UESTC)
- 	- Jiajun Yu (from China Agricultural University) 
 
 - Research assistants
 	- Yunhe Zhang (from Fuzhou University)
@@ -28,5 +28,6 @@ author_profile: true
  	- Yangyang Qu (from University of Chinese Academy of Sciences) 
 
 - Graduated students
+	- Yan Sun (NUS)
 	- Yi Han (CMU)
- 	- Yan Sun (NUS)
+ 
