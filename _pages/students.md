@@ -18,12 +18,14 @@ author_profile: true
 	- Zhihao Wu (from Fuzhou University)
 	- Chao Ouyang (from HIT-Shenzhen)
 	- Dazhi Fu (from UESTC)
+ 	- Jiajun Yu (from China Agricultural University) 
 
 - Research assistants
 	- Yunhe Zhang (from Fuzhou University)
 	- Feng Xiao (from Jilin University)
 	- Haokun Zhao (CUHK-Shenzhen)
 	- Zixiao Wang (CUHK-Shenzhen)
+ 	- Yangyang Qu (from University of Chinese Academy of Sciences) 
 
 - Graduated students
   	- Yi Han (CMU)
