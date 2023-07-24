@@ -10,7 +10,6 @@ author_profile: true
  	- Yunhe Li (from HKUST)
   	- Zhiyu Chen (from NUS)
 
-
 - Master students
 	- Wenyao He (from University of International Business and Economics)
 	- Zhenhao Jiang（from Dalian University of Technology)
