@@ -8,6 +8,7 @@ author_profile: true
 	- Ziheng Sun (from Zhejiang University)
 	- Dong Qiao (from Central South University)
  	- Yunhe Li (from HKUST)
+    
   	- Zhiyu Chen (from NUS)
 
 - Master students
