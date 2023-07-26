@@ -17,9 +17,7 @@ author_profile: true
 1. Ziheng Sun, Chris Ding*, <strong>Jicong Fan</strong>.  Feature Selection for k-means via Row-Sparse PCA using Improved ADMM. 2022. 
 	
 1. Jinyu Cai, Wenzhong Guo, <strong>Jicong Fan</strong>*. Deep Discriminative Graph Based Clustering. 2022. 	
-	
-1. Yan Sun, Yi Han, <strong>Jicong Fan</strong>*. Laplacian-based Cluster-Contractive t-SNE for High Dimensional Data Visualization. 2021. <a href="https://arxiv.org/pdf/2207.12214.pdf">arxiv preprint</a> 
-		
+			
 1. Wei Dai, <strong>Jicong Fan</strong>, Yiming Miao, Kai Hwang* . Deep Learning Model Compression with Rank Reduction in Tensor Decomposition. 2021. Submitted to IEEE TNNLS.
 	
 1.  <strong>Jicong Fan</strong>*, Rui Chen, Chris Ding. Neuron-Enhance Autoencoder based Collaborative Filtering: Theory and Practice. 2021.
@@ -33,6 +31,8 @@ author_profile: true
 	
 ## Published Papers
 
+1. Yan Sun, Yi Han, <strong>Jicong Fan</strong>*. Laplacian-based Cluster-Contractive t-SNE for High Dimensional Data Visualization. ACM Transactions on Knowledge Discovery from Data. 2023. <a href="https://arxiv.org/pdf/2207.12214.pdf"></a>
+   
 1. Yu Liu, Mingbo Zhao, Zhao Zhang, <strong>Jicong Fan</strong>, Yang Lou, Shuicheng Yan. Arbitrary Virtual Try-on Network: Characteristics Representation and Trade-off between Body and Clothing. ICLR 2023.
 
 1. <strong>Jicong Fan</strong>, Lijun Ding, Chengrun Yang, Zhao Zhang, Madeleine Udell. Euclidean-Norm-Induced Schatten-p Quasi-Norm Regularization for Low-Rank Tensor Completion and Tensor Robust Principal Component Analysis. Transactions on Machine Learning Research. January 2023. 
