@@ -5,10 +5,8 @@ author_profile: true
 ---
 
 - PhD students
-	- Yunhe Li (from HKUST)
 	- Ziheng Sun (from Zhejiang University)
 	- Dong Qiao (from Central South University)
-   - Zhiyu Chen (from NUS)
 
 - Master students
 	- Wenyao He (from University of International Business and Economics)
