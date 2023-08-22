@@ -27,6 +27,7 @@ My research interests include machine learning, computer vision, and optimizatio
 * process monitoring and fault diagnosis
 * machine learning for bioinformatics and healthcare
 * EEG and fMRI signal processing
+
 See the examples in "Resarch" page.
 
 Selectioned Publications
@@ -46,9 +47,10 @@ Selectioned Publications
 Academia Services
 ======
 
-* Conference PC Member: IJCAI, COLT, AISTATS, NeurIPS, CVPR, AAAI, KDD, ICML
+* Conference PC Member: COLT, AISTATS, NeurIPS, CVPR, AAAI, KDD, ICML
 * Journal Reviewer: IEEE TNNLS/TCYB/TIE/TII/TSP/TIP/TPAMI/TKDE, Pattern Recognition, Signal Processing, SIAM Journal on Mathematics of Data Science, Mathematical Programming
-* Associate Editor: Neural Processing Letters 
+* Associate Editor: Neural Processing Letters
+* Senior Member of IEEE
 
 
 Honors and Awards
