@@ -16,34 +16,39 @@ I am looking for PhD students, Postdocs, and Research Assistants. If you are int
 Research Interests
 ======
 My research interests include machine learning, computer vision, and optimization. I also worked on statistical process control and neuroscience signal/data processing. My research projects relate to:
-* matrix and tensor methods
-* algorithms for missing data, outlier, and noise
-* recommendation system
-* automated machine learning
-* clustering algorithms
-* learning with graphs
-* non-smooth optimization
-* anomaly/novelty detection
-* process monitoring and fault diagnosis
-* machine learning for bioinformatics and healthcare
+* Matrix and tensor methods
+* Algorithms for missing data, outlier, and noise
+* Recommendation system
+* Automated machine learning
+* Clustering algorithms
+* Learning with graphs
+* Non-smooth optimization
+* Anomaly/novelty detection
+* Process monitoring and fault diagnosis
+* Machine learning for bioinformatics and healthcare
 * EEG and fMRI signal processing
 
 See the examples in "Resarch" page.
 
-Selectioned Publications
+Selected Publications
 ======
 
 * <strong>Jicong Fan</strong>, Yiheng Tu, Zhao Zhang, Mingbo Zhao, Haijun Zhang. A Simple Approach to Automated Spectral Clustering. NeurIPS 2022.	
 * Jinyu Cai, <strong>Jicong Fan</strong>*. Perturbation Learning Based Anomaly Detection. NeurIPS 2022. 
 * <strong>Jicong Fan</strong>. Multi-Mode Deep Matrix and Tensor Factorization. ICLR 2022.
 * <strong>Jicong Fan</strong>. Large-Scale Subspace Clustering via k-Factorization. KDD'21 (The 27th ACM SIGKDD Conference on Knowledge Discovery and Data Mining). 2021. (acceptance rate=15.4%). 
-* <strong>Jicong Fan</strong>, Tommy W.S. Chow. Exactly robust kernel principal component analysis. IEEE Transactions on Neural Networks and Learning System, 2020, 31(3):749-761.
+* <strong>Jicong Fan</strong>, Tommy W.S. Chow. Exactly robust kernel principal component analysis. IEEE Transactions on Neural Networks and Learning Systems, 2020, 31(3):749-761.
 * <strong>Jicong Fan</strong>, Yuqian Zhang, Madeleine Udell. Polynomial matrix completion for missing data imputation and transductive learning. In The Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI-20), February 2020. Oral Presentation (acceptance rate=6%)
 * <strong>Jicong Fan</strong>, Lijun Ding, Yudong Chen, Madeleine Udell. Factor group sparse regularization for efficient low-rank matrix recovery. In The Thirty-third Conference on Neural Information Processing Systems (NeurIPS), December 2019. (acceptance rate=21.1%). 
 * <strong>Jicong Fan</strong>, Madeleine Udell. Online high-rank matrix completion. In The IEEE Conference on Computer Vision and Pattern Recognition (CVPR), June 2019. Oral Presentation (acceptance rate=5.6%). 
 
+Research Funds
+======
 
+* NSFC Youth Fund Programme, No.62106211, 2022.01-2024.12, PI.
+* NSFC General Programme, No.62376236, 2024.01-2027.12, PI.
 
+  
 Academia Services
 ======
 
