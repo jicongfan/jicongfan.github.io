@@ -60,6 +60,7 @@ Academia Services
 
 Honors and Awards
 ======
+* First Prize of the Natural Science Award of Chinese Association of Automation, 2023.10
 * CityU Outstanding Academic Performance Award / Research Tuition Scholarship, 2017.08
 * Outstanding graduates of Beijing University of Chemical Technology (5%), 2013.06
 * Excellent master's thesis award of Beijing University of Chemical Technology (5%), 2013.06
