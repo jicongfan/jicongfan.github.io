@@ -35,7 +35,7 @@ author_profile: true
 
 1. Dong Qiao, Chris Ding, <strong>Jicong Fan</strong>*. Federated Spectral Clustering via Secure Similarity Reconstruction. NeurIPS 2023.
 
-1. Fangchen Yu, Runze Zhao, Zhan Shi, Yiwen Lu, <strong>Jicong Fan</strong>*, Yicheng Zeng, Jianfeng Mao, Wenye Li.	
+1. Fangchen Yu, Runze Zhao, Zhan Shi, Yiwen Lu, <strong>Jicong Fan</strong>, Yicheng Zeng, Jianfeng Mao, Wenye Li.	
 Boosting Spectral Clustering on Incomplete Data via Kernel Correction and Affinity Learning. NeurIPS 2023.
 
 1. Yan Sun, Yi Han, <strong>Jicong Fan</strong>*. Laplacian-based Cluster-Contractive t-SNE for High Dimensional Data Visualization. ACM Transactions on Knowledge Discovery from Data. 2023. <a href="https://arxiv.org/pdf/2207.12214.pdf"></a>
