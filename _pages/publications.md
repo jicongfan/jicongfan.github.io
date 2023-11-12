@@ -20,9 +20,7 @@ author_profile: true
 			
 1. Wei Dai, <strong>Jicong Fan</strong>, Yiming Miao, Kai Hwang* . Deep Learning Model Compression with Rank Reduction in Tensor Decomposition. 2021. Submitted to IEEE TNNLS.
 	
-1.  <strong>Jicong Fan</strong>*, Rui Chen, Chris Ding. Neuron-Enhance Autoencoder based Collaborative Filtering: Theory and Practice. 2021.
-	
-1. Tongle Wu, <strong>Jicong Fan</strong>. Smooth Tensor Product for Tensor Completion. 2020. Submitted to IEEE TSP.
+1.  <strong>Jicong Fan</strong>*, Rui Chen, Zhao Zhang, Chris Ding. Neuron-Enhance Autoencoder based Collaborative Filtering: Theory and Practice. 2021.
 			
 1. Lijun Ding, <strong>Jicong Fan</strong>, Madeleine Udell. kFW: A Frank-Wolfe style algorithm with stronger subproblem oracles. 2021.
 	
@@ -30,6 +28,15 @@ author_profile: true
 	
 	
 ## Published Papers
+
+1. Ziheng Sun, Chris Ding, <strong>Jicong Fan</strong>*. Lovász Principle for Unsupervised Graph Representation Learning. NeurIPS 2023.
+
+1. Zhihao Wu, Zhao Zhang, <strong>Jicong Fan</strong>*. Graph Convolutional Kernel Machine versus Graph Convolutional Networks. NeurIPS 2023.
+
+1. Dong Qiao, Chris Ding, <strong>Jicong Fan</strong>*. Federated Spectral Clustering via Secure Similarity Reconstruction. NeurIPS 2023.
+
+1. Fangchen Yu, Runze Zhao, Zhan Shi, Yiwen Lu, <strong>Jicong Fan</strong>*, Yicheng Zeng, Jianfeng Mao, Wenye Li.	
+Boosting Spectral Clustering on Incomplete Data via Kernel Correction and Affinity Learning. NeurIPS 2023.
 
 1. Yan Sun, Yi Han, <strong>Jicong Fan</strong>*. Laplacian-based Cluster-Contractive t-SNE for High Dimensional Data Visualization. ACM Transactions on Knowledge Discovery from Data. 2023. <a href="https://arxiv.org/pdf/2207.12214.pdf"></a>
    
