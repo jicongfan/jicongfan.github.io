@@ -7,7 +7,7 @@ author_profile: true
 - PhD students
 	- Ziheng Sun (from Zhejiang University)
 	- Dong Qiao (from Central South University)
- 	- Zhiyu Chen (from NUS)
+	- Zhiyu Chen (from NUS)
 	- Yunhe Li (from HKUST)
 
 - Research assistants or visiting students
