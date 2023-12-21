@@ -7,6 +7,7 @@ author_profile: true
 - PhD students
 	- Ziheng Sun (from Zhejiang University)
 	- Dong Qiao (from Central South University)
+   
    	- Zhiyu Chen (from NUS)
 	- Yunhe Li (from HKUST)
 
@@ -16,7 +17,9 @@ author_profile: true
 	- Feng Xiao (from Jilin University)
 	- Haokun Zhao (CUHK-Shenzhen)
 	- Zixiao Wang (CUHK-Shenzhen)
+   
  	- Hua Tu (CUHK-Shenzhen)
+    
   	- Hang Zeng (CUHK-Shenzhen)
   	- Xuechun Hu (CUHK-Shenzhen)
   	- Chao Ouyang (HIT-Shenzhen)
