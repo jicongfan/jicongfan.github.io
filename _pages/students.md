@@ -16,10 +16,10 @@ author_profile: true
 	- Feng Xiao (from Jilin University)
 	- Haokun Zhao (CUHK-Shenzhen)
 	- Zixiao Wang (CUHK-Shenzhen)
- 	- Hua Tu (CUHK-Shenzhen)
-  	- Hang Zeng (CUHK-Shenzhen)
-  	- Xuechun Hu (CUHK-Shenzhen)
-  	- Chao Ouyang (HIT-Shenzhen)
+	- Hua Tu (CUHK-Shenzhen)
+	- Hang Zeng (CUHK-Shenzhen)
+	- Xuechun Hu (CUHK-Shenzhen)
+	- Chao Ouyang (HIT-Shenzhen)
 
 - Graduated students
 	- Yan Sun (NUS)
