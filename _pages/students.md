@@ -9,8 +9,9 @@ author_profile: true
 	- Dong Qiao (from Central South University) 2021 Autumn 
 	- Zhiyu Chen (from NUS) 2024 Spring
 	- Feng Xiao (from Jilin University) 2024 Spring
- 	- Dazhi Fu (from UESTC) 2024 Autumn
- 	- Zhihao Wu (from Fuzhou University) 2024 Autumn
+	- Dazhi Fu (from UESTC) 2024 Autumn
+	- Zhihao Wu (from Fuzhou University) 2024 Autumn
+
     	
 
 - Research assistants or visiting students
