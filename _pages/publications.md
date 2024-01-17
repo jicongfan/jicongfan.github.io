@@ -4,31 +4,21 @@ title: "Publications"
 author_profile: true
 ---
 
-## Submitted Papers
-	
-1.  Yunhe Zhang(co-first author), Yan Sun(co-first author), Jinyu Cai, <strong>Jicong Fan</strong>*. Deep Graph-Level Orthogonal Hypersphere Compression for Anomaly Detection. 2023. <a href="https://arxiv.org/abs/2302.06430">arxiv preprint</a> 
-
-1.  Shuqing He, <strong>Jicong Fan</strong>*, Tianwei Yu*. G3DC: a Gene-Graph-Guided selective Deep Clustering method for single cell RNA-seq data. bioRxiv 2023. <a href="https://www.biorxiv.org/content/10.1101/2023.01.15.524109v1.abstract">biorxiv preprint</a> 
-	
-1. Jinyu Cai, Yi Han, Wenzhong Guo*, <strong>Jicong Fan</strong>*. Deep Graph-Level Clustering Using Pseudo-Label-Guided Mutual Information Maximization Network. 2022. <a href="https://arxiv.org/pdf/2302.02369.pdf">arxiv preprint</a> 
-	
-1. Feng Xiao, Ruoyu Sun, <strong>Jicong Fan</strong>*. Restricted Generative Projection for One-Class Classification and Anomaly detection. 2022.
-			
-1. Ziheng Sun, Chris Ding*, <strong>Jicong Fan</strong>.  Feature Selection for k-means via Row-Sparse PCA using Improved ADMM. 2022. 
-	
-1. Jinyu Cai, Wenzhong Guo, <strong>Jicong Fan</strong>*. Deep Discriminative Graph Based Clustering. 2022. 	
-			
-1. Wei Dai, <strong>Jicong Fan</strong>, Yiming Miao, Kai Hwang* . Deep Learning Model Compression with Rank Reduction in Tensor Decomposition. 2021. Submitted to IEEE TNNLS.
-	
-1.  <strong>Jicong Fan</strong>*, Rui Chen, Zhao Zhang, Chris Ding. Neuron-Enhance Autoencoder based Collaborative Filtering: Theory and Practice. 2021.
-			
-1. Lijun Ding, <strong>Jicong Fan</strong>, Madeleine Udell. kFW: A Frank-Wolfe style algorithm with stronger subproblem oracles. 2021.
-	
 	
 	
 	
 ## Published Papers
 
+1. Yunhe Zhang(co-first author), Yan Sun(co-first author), Jinyu Cai, <strong>Jicong Fan</strong>*. Deep Orthogonal Hypersphere Compression for Anomaly Detection. ICLR 2024 (Spotlight, 5% acceptance rate).
+
+1. Yan Sun, <strong>Jicong Fan</strong>*. MMD Graph Kernel: Effective Metric Learning for Graphs via Maximum Mean Discrepancy. ICLR 2024 (Spotlight, 5% acceptance rate).
+
+1.  <strong>Jicong Fan</strong>, Rui Chen, Zhao Zhang, Chris Ding. Neuron-Enhanced Matrix Completion and Collaborative Filtering: Theory and Practice. ICLR 2024.
+
+1. Jinyu Cai, Yi Han, Wenzhong Guo*, <strong>Jicong Fan</strong>*. Deep Graph-Level Clustering Using Pseudo-Label-Guided Mutual Information Maximization Network. Accepted by Neural Computing and Applications. 2024. <a href="https://arxiv.org/pdf/2302.02369.pdf">arxiv preprint</a>
+   
+1. Dazhi Fu, Zhao Zhang, <strong>Jicong Fan</strong>*. Dense projection for Anomaly Detection. AAAI 2024.
+   
 1. Ziheng Sun, Chris Ding, <strong>Jicong Fan</strong>*. Lovász Principle for Unsupervised Graph Representation Learning. NeurIPS 2023.
 
 1. Zhihao Wu, Zhao Zhang, <strong>Jicong Fan</strong>*. Graph Convolutional Kernel Machine versus Graph Convolutional Networks. NeurIPS 2023.
@@ -37,6 +27,8 @@ author_profile: true
 
 1. Fangchen Yu, Runze Zhao, Zhan Shi, Yiwen Lu, <strong>Jicong Fan</strong>, Yicheng Zeng, Jianfeng Mao, Wenye Li.	
 Boosting Spectral Clustering on Incomplete Data via Kernel Correction and Affinity Learning. NeurIPS 2023.
+
+1. Wei Dai, <strong>Jicong Fan</strong>, Yiming Miao, Kai Hwang. Deep Learning Model Compression with Rank Reduction in Tensor Decomposition. Accepeted by IEEE TNNLS, 2023.
 
 1. Yan Sun, Yi Han, <strong>Jicong Fan</strong>*. Laplacian-based Cluster-Contractive t-SNE for High Dimensional Data Visualization. ACM Transactions on Knowledge Discovery from Data. 2023. <a href="https://arxiv.org/pdf/2207.12214.pdf"></a>
    
