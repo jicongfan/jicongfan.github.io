@@ -4,10 +4,6 @@ title: "Publications"
 author_profile: true
 ---
 
-	
-	
-	
-## Published Papers
 
 1. Yunhe Zhang(co-first author), Yan Sun(co-first author), Jinyu Cai, <strong>Jicong Fan</strong>*. Deep Orthogonal Hypersphere Compression for Anomaly Detection. ICLR 2024 (Spotlight, 5% acceptance rate).
 
