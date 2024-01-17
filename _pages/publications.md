@@ -9,7 +9,7 @@ author_profile: true
 
 1. Yan Sun, <strong>Jicong Fan</strong>*. MMD Graph Kernel: Effective Metric Learning for Graphs via Maximum Mean Discrepancy. ICLR 2024 (Spotlight, 5% acceptance rate).
 
-1.  <strong>Jicong Fan</strong>, Rui Chen, Zhao Zhang, Chris Ding. Neuron-Enhanced Matrix Completion and Collaborative Filtering: Theory and Practice. ICLR 2024.
+1.  <strong>Jicong Fan</strong>, Rui Chen, Zhao Zhang, Chris Ding. Neuron-Enhanced AutoEncoder Matrix Completion and Collaborative Filtering: Theory and Practice. ICLR 2024.
 
 1. Jinyu Cai, Yi Han, Wenzhong Guo*, <strong>Jicong Fan</strong>*. Deep Graph-Level Clustering Using Pseudo-Label-Guided Mutual Information Maximization Network. Accepted by Neural Computing and Applications. 2024. <a href="https://arxiv.org/pdf/2302.02369.pdf">arxiv preprint</a>
    
