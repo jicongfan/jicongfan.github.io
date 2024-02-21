@@ -45,14 +45,21 @@ Selected Publications
 * Ziheng Sun, Chris Ding, <strong>Jicong Fan</strong>*. Lovász Principle for Unsupervised Graph Representation Learning. NeurIPS 2023.
 * Zhihao Wu, Zhao Zhang, <strong>Jicong Fan</strong>*. Graph Convolutional Kernel Machine versus Graph Convolutional Networks. NeurIPS 2023.
 * Dong Qiao, Chris Ding, <strong>Jicong Fan</strong>*. Federated Spectral Clustering via Secure Similarity Reconstruction. NeurIPS 2023.
+* <strong>Jicong Fan</strong>, Lijun Ding, Chengrun Yang, Zhao Zhang, Madeleine Udell. Euclidean-Norm-Induced Schatten-p Quasi-Norm Regularization for Low-Rank Tensor Completion and Tensor Robust Principal Component Analysis. Transactions on Machine Learning Research. January 2023. 
 * <strong>Jicong Fan</strong>, Yiheng Tu, Zhao Zhang, Mingbo Zhao, Haijun Zhang. A Simple Approach to Automated Spectral Clustering. NeurIPS 2022.	
 * Jinyu Cai, <strong>Jicong Fan</strong>*. Perturbation Learning Based Anomaly Detection. NeurIPS 2022. 
 * <strong>Jicong Fan</strong>. Multi-Mode Deep Matrix and Tensor Factorization. ICLR 2022.
-* <strong>Jicong Fan</strong>. Large-Scale Subspace Clustering via k-Factorization. KDD'21 (The 27th ACM SIGKDD Conference on Knowledge Discovery and Data Mining). 2021. (acceptance rate=15.4%). 
+* <strong>Jicong Fan</strong>. Dynamic Nonlinear Matrix Completion for Time-Varying Data Imputation. In The Thirty-Six AAAI Conference on Artificial Intelligence (AAAI-22), February 2022. (acceptance rate=15%). 
+* <strong>Jicong Fan</strong>*, Tommy WS Chow, S Joe Qin. Kernel Based Statistical Process Monitoring and Fault Detection in the Presence of Missing Data. IEEE Transactions on Industrial Informatics, vol. 18, no.7, pp. 4477-4487, July 2022.
+* <strong>Jicong Fan</strong>. Large-Scale Subspace Clustering via k-Factorization. KDD'21 (The 27th ACM SIGKDD Conference on Knowledge Discovery and Data Mining). 2021. (acceptance rate=15.4%).
+* <strong>Jicong Fan</strong>*, Chengrun Yang, Madeleine Udell. Robust Non-Linear Matrix Factorization for Dictionary Learning, Denoising, and Clustering. IEEE Transactions on Signal Processing, 2021(69): 1755-1770.
 * <strong>Jicong Fan</strong>, Yuqian Zhang, Madeleine Udell. Polynomial matrix completion for missing data imputation and transductive learning. In The Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI-20), February 2020. Oral Presentation (acceptance rate=6%)
 * <strong>Jicong Fan</strong>, Lijun Ding, Yudong Chen, Madeleine Udell. Factor group sparse regularization for efficient low-rank matrix recovery. In The Thirty-third Conference on Neural Information Processing Systems (NeurIPS), December 2019. (acceptance rate=21.1%). 
-* <strong>Jicong Fan</strong>, Madeleine Udell. Online high-rank matrix completion. In The IEEE Conference on Computer Vision and Pattern Recognition (CVPR), June 2019. Oral Presentation (acceptance rate=5.6%). 
-
+* <strong>Jicong Fan</strong>, Madeleine Udell. Online high-rank matrix completion. In The IEEE Conference on Computer Vision and Pattern Recognition (CVPR), June 2019. Oral Presentation (acceptance rate=5.6%).
+* <strong>Jicong Fan</strong>, Tommy W.S. Chow. Exactly robust kernel principal component analysis. IEEE Transactions on Neural Networks and Learning Systems, 2020, 31(3):749-761.
+* <strong>Jicong Fan</strong>*, Jieyu Cheng. Matrix completion by deep matrix factorization. Neural Networks, 2018, 98: 34-41.
+* <strong>Jicong Fan</strong>, Tommy W.S. Chow. Matrix completion by least-square, low-rank, and sparse self-representations. Pattern Recognition, 2017, 71: 290-305.
+  
 Research Funds
 ======
 
