@@ -27,6 +27,16 @@ Boosting Spectral Clustering on Incomplete Data via Kernel Correction and Affini
 1. Wei Dai, <strong>Jicong Fan</strong>, Yiming Miao, Kai Hwang. Deep Learning Model Compression with Rank Reduction in Tensor Decomposition. Accepeted by IEEE TNNLS, 2023.
 
 1. Yan Sun, Yi Han, <strong>Jicong Fan</strong>*. Laplacian-based Cluster-Contractive t-SNE for High Dimensional Data Visualization. ACM Transactions on Knowledge Discovery from Data. 2023. <a href="https://arxiv.org/pdf/2207.12214.pdf"></a>
+
+1. Huan Zheng, Zhao Zhang, <strong>Jicong Fan</strong>, Richang Hong, Yi Yang, Shuicheng Yan. Decoupled Cross-Scale Cross-View Interaction for Stereo Image Enhancement in the Dark. ACM Multimedia 2023.
+
+1. Dongliang Zhou, Haijun Zhang, Jianghong Ma, <strong>Jicong Fan</strong>, Zhao Zhang. FCBoost-Net: A Generative Network for Synthesizing Multiple Collocated Outfits via Fashion Compatibility Boosting. ACM Multimedia 2023.
+
+1. Han Yan, Haijun Zhang, Xiangyu Mu, <strong>Jicong Fan</strong>, Zhao Zhang. FashionDiff: A Controllable Diffusion Model Using Pairwise Fashion Elements for Intelligent Design. ACM Multimedia 2023.
+
+1. Han Yan, Haijun Zhang, Jie Hou, <strong>Jicong Fan</strong>, Zhao Zhang. InspirNET: An Unsupervised Generative Adversarial Network with Controllable Fine-grained Texture Disentanglement for Fashion Generation. ACM Multimedia 2023.
+
+1. Yan Luo, Yangcheng Gao, Zhao Zhang*, <strong>Jicong Fan</strong>*, Haijun Zhang, Mingliang Xu. Long-range zero-shot generative deep network quantization. Neural Networks, 2023,166:683-691.
    
 1. Yu Liu, Mingbo Zhao, Zhao Zhang, <strong>Jicong Fan</strong>, Yang Lou, Shuicheng Yan. Arbitrary Virtual Try-on Network: Characteristics Representation and Trade-off between Body and Clothing. ICLR 2023.
 
@@ -54,15 +64,15 @@ Boosting Spectral Clustering on Incomplete Data via Kernel Correction and Affini
 	
 1. <strong>Jicong Fan</strong>. Dynamic Nonlinear Matrix Completion for Time-Varying Data Imputation. In The Thirty-Six AAAI Conference on Artificial Intelligence (AAAI-22), February 2022. (acceptance rate=15%). 
 	
-1. <strong>Jicong Fan</strong>*, Tommy WS Chow, S Joe Qin. Kernel Based Statistical Process Monitoring and Fault Detection in the Presence of Missing Data. IEEE Transactions on Industrial Informatics. 2021.
+1. <strong>Jicong Fan</strong>*, Tommy WS Chow, S Joe Qin. Kernel Based Statistical Process Monitoring and Fault Detection in the Presence of Missing Data. IEEE Transactions on Industrial Informatics, vol. 18, no.7, pp. 4477-4487, July 2022.
 	
 1. Jiahuan Ren, Zhao Zhang, <strong>Jicong Fan</strong>, Haijun Zhang, Mingliang Xu, and Meng Wang. Robust Low-rank Deep Feature Recovery in CNNs: Toward Low Information Loss and Fast Convergence. ICDM'21 (21st IEEE International Conference on Data Mining). 2021. (acceptance rate=9.9%, regular paper). 
 
 1. <strong>Jicong Fan</strong>. Large-Scale Subspace Clustering via k-Factorization. KDD'21 (The 27th ACM SIGKDD Conference on Knowledge Discovery and Data Mining). 2021. (acceptance rate=15.4%). 
 	
-1. <strong>Jicong Fan</strong>*, Chengrun Yang, Madeleine Udell. Robust Non-Linear Matrix Factorization for Dictionary Learning, Denoising, and Clustering. IEEE Transactions on Signal Processing, 2021(69): 1755-1770.</li>
+1. <strong>Jicong Fan</strong>*, Chengrun Yang, Madeleine Udell. Robust Non-Linear Matrix Factorization for Dictionary Learning, Denoising, and Clustering. IEEE Transactions on Signal Processing, 2021(69): 1755-1770.
 	
-1. M. Zhao, J. Liu, Z. Zhang, <strong>J. Fan</strong>. A scalable sub-graph regularization for efficient content based image retrieval with long-term relevance feedback enhancement. Knowledge-based systems, 2021(212): 106505.</li>
+1. M. Zhao, J. Liu, Z. Zhang, <strong>J. Fan</strong>. A scalable sub-graph regularization for efficient content based image retrieval with long-term relevance feedback enhancement. Knowledge-based systems, 2021(212): 106505.
 	
 1. Chengrun Yang, <strong>Jicong Fan</strong>, Ziyang Wu and Madeleine Udell. AutoML Pipeline Selection: Efficient Navigation of the Combinatorial Space. KDD'20 (The 26th ACM SIGKDD Conference on Knowledge Discovery and Data Mining). 2020. (acceptance rate=16.9%).
 	
@@ -70,7 +80,7 @@ Boosting Spectral Clustering on Incomplete Data via Kernel Correction and Affini
 	
 1. <strong>Jicong Fan</strong>, Lijun Ding, Yudong Chen, Madeleine Udell. Factor group sparse regularization for efficient low-rank matrix recovery. In The Thirty-third Conference on Neural Information Processing Systems (NeurIPS), December 2019. (acceptance rate=21.1%). 
 
-1. <strong>Jicong Fan</strong>, Tommy W.S. Chow*. Exactly robust kernel principal component analysis. IEEE Transactions on Neural Networks and Learning System, 2020, 31(3):749-761.
+1. <strong>Jicong Fan</strong>, Tommy W.S. Chow*. Exactly robust kernel principal component analysis. IEEE Transactions on Neural Networks and Learning Systems, 2020, 31(3):749-761.
 	
 1. <strong>Jicong Fan</strong>, Madeleine Udell. Online high-rank matrix completion. In The IEEE Conference on Computer Vision and Pattern Recognition (CVPR), June 2019. Oral Presentation (acceptance rate=5.6%). 
 	
