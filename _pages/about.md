@@ -8,40 +8,39 @@ redirect_from:
   - /about.html
 ---
 
-樊老师现为香港中文大学(深圳)数据科学学院助理教授。他于2018年在香港城市大学电子工程系获得博士学位，并分别于2013年和2010年在北京化工大学获得控制科学与工程硕士学位和自动化学士学位。在加入香港中文大学（深圳）之前，他是康奈尔大学的博士后。他还曾在美国威斯康星大学麦迪逊分校和香港大学担任研究职位。他的研究方向是人工智能和机器学习，他在矩阵/张量方法、聚类算法、图学习、异常/离群点/故障检测、深度学习和推荐系统等方面做了大量研究工作。他的研究成果曾在多个知名学术期刊与著名国际会议上发表，如IEEE TSP/TNNLS/TII、KDD、NeurIPS、CVPR、ICLR、AAAI。 他是IEEE高级会员，目前担任期刊Neural Processing Letters的副编辑，主持国家自然科学基金青年项目一项、面上项目一项，获得2023年中国自动化学会自然科学奖一等奖(第二完成人)，入选斯坦福大学2023年“全球Top 2% 科学家”榜单。
+樊老师现为香港中文大学(深圳)数据科学学院助理教授。他于2018年在香港城市大学电子工程系获得博士学位，并分别于2013年和2010年在北京化工大学获得控制科学与工程硕士学位和自动化学士学位。在加入香港中文大学（深圳）之前，他是康奈尔大学的博士后。他还曾在美国威斯康星大学麦迪逊分校和香港大学担任研究职位。他的研究方向是人工智能和机器学习，他在矩阵/张量方法、聚类算法、图学习、异常/离群点/故障检测、深度学习和推荐系统等方面做了大量研究工作。他的研究成果曾在多个知名学术期刊与著名国际会议上发表，如IEEE TSP/TNNLS/TII、KDD、NeurIPS、CVPR、ICLR、AAAI。 他是IEEE高级会员，目前担任期刊Neural Processing Letters的副编辑，主持国家自然科学基金青年项目一项、面上项目一项，获得2023年中国自动化学会自然科学奖一等奖，入选斯坦福大学2023年“全球Top 2% 科学家”榜单。
 
 樊老师目前招收博士生、博士后、研究助理以及访问学生。感兴趣的同学请发送简历及研究计划(如有)到邮箱。
 
-I am an Assistant Professor at the School of Data Science, The Chinese University of Hong Kong, Shenzhen. I am also affiliated with Shenzhen Research Institute of Big data, Shenzhen, China. I was a Postdoctoral Associate at the School of Operations Research and Information Engineering, Cornell University, Ithaca, USA. I completed my PhD at City University of Hong Kong in Electronic Engineering, 2018, under the supervision of Prof. Tommy W.S. Chow (FIEEE). During my PhD, I was a visiting scholar at the Department of Electrical and Computer Engineering, University of Wisconsin-Madison, USA. I was a Research Assistant at The University of Hong Kong from 2013 to 2015. I obtained my Bachelor (Automation) and Master (Control Science and Engineering, supervisor: Youqing Wang) degrees from Beijing University of Chemical Technology in 2010 and 2013 respectively.
+I am an Assistant Professor at the School of Data Science, The Chinese University of Hong Kong, Shenzhen. I am also affiliated with Shenzhen Research Institute of Big data, Shenzhen, China. I was a Postdoctoral Associate (advisor: Madeleine Udell) at the School of Operations Research and Information Engineering, Cornell University, Ithaca, USA. I completed my PhD at City University of Hong Kong in Electronic Engineering, 2018, under the supervision of Prof. Tommy W.S. Chow. During my PhD, I was a visiting scholar at the Department of Electrical and Computer Engineering, University of Wisconsin-Madison, USA. I was a Research Assistant at The University of Hong Kong from 2013 to 2015. I obtained my Bachelor (Automation) and Master (Control Science and Engineering, supervisor: Youqing Wang) degrees from Beijing University of Chemical Technology in 2010 and 2013 respectively.
 
 I am looking for PhD students, Postdocs, and Research Assistants. If you are interested in these positions, please send me your CV/resume. For PhD or Postdoc, please also send me your research plan.
 
 
 
-
-
 Research Interests
 ======
-My research interests include machine learning, computer vision, and optimization. I also worked on statistical process control and neuroscience signal/data processing. My research projects relate to:
+My research interests are Artificial Intelligence and Machine Learning. Some specific research topics of mine are as follows:
 * Matrix and tensor methods
 * Algorithms for missing data, outlier, and noise
 * Recommendation system
 * Automated machine learning
 * Clustering algorithms
 * Learning with graphs
+* Privacy and fairness in machine learning
 * Non-smooth optimization
 * Anomaly/novelty/fault detection
 * Process monitoring and fault diagnosis
 * Machine learning for bioinformatics and healthcare
 * EEG and fMRI signal processing
 
-See the examples in "Resarch" page.
+See the examples on the "Research" page.
 
 Selected Publications
 ======
 
-* Yunhe Zhang, Yan Sun, Jinyu Cai, <strong>Jicong Fan</strong>*. Deep Orthogonal Hypersphere Compression for Anomaly Detection. ICLR 2024 (Spotlight, 5% acceptance rate).
-* Yan Sun, <strong>Jicong Fan</strong>*. MMD Graph Kernel: Effective Metric Learning for Graphs via Maximum Mean Discrepancy. ICLR 2024 (Spotlight, 5% acceptance rate).
+* Yunhe Zhang, Yan Sun, Jinyu Cai, <strong>Jicong Fan</strong>*. Deep Orthogonal Hypersphere Compression for Anomaly Detection. ICLR 2024 (Spotlight, acceptance rate=5%).
+* Yan Sun, <strong>Jicong Fan</strong>*. MMD Graph Kernel: Effective Metric Learning for Graphs via Maximum Mean Discrepancy. ICLR 2024 (Spotlight, acceptance rate=5%).
 * <strong>Jicong Fan</strong>, Rui Chen, Zhao Zhang, Chris Ding. Neuron-Enhanced AutoEncoder Matrix Completion and Collaborative Filtering: Theory and Practice. ICLR 2024.    
 * Ziheng Sun, Chris Ding, <strong>Jicong Fan</strong>*. Lovász Principle for Unsupervised Graph Representation Learning. NeurIPS 2023.
 * Zhihao Wu, Zhao Zhang, <strong>Jicong Fan</strong>*. Graph Convolutional Kernel Machine versus Graph Convolutional Networks. NeurIPS 2023.
