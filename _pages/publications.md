@@ -12,7 +12,7 @@ author_profile: true
 
 1.  <strong>Jicong Fan</strong>, Rui Chen, Zhao Zhang, Chris Ding. Neuron-Enhanced AutoEncoder Matrix Completion and Collaborative Filtering: Theory and Practice. ICLR 2024.
 
-1. Jinyu Cai, Yi Han, Wenzhong Guo*, <strong>Jicong Fan</strong>*. Deep Graph-Level Clustering Using Pseudo-Label-Guided Mutual Information Maximization Network. Accepted by Neural Computing and Applications. 2024. <a href="https://arxiv.org/pdf/2302.02369.pdf">arxiv preprint</a>
+1. Jinyu Cai, Yi Han, Wenzhong Guo\*, <strong>Jicong Fan</strong>\*. Deep Graph-Level Clustering Using Pseudo-Label-Guided Mutual Information Maximization Network. Accepted by Neural Computing and Applications. 2024. <a href="https://arxiv.org/pdf/2302.02369.pdf">arxiv preprint</a>
    
 1. Dazhi Fu, Zhao Zhang, <strong>Jicong Fan</strong>*. Dense projection for Anomaly Detection. AAAI 2024.
    
