@@ -4,6 +4,7 @@ title: "Publications"
 author_profile: true
 ---
 
+1. Shuqing He, <strong>Jicong Fan*</strong>, Tianwei Yu*. G3DC: a Gene-Graph-Guided selective Deep Clustering method for single-cell RNA-seq data. Accepted by Big Data Mining and Analytics. 2024. 10.26599/BDMA.2024.9020011
 
 1. Yunhe Zhang, Yan Sun, Jinyu Cai, <strong>Jicong Fan</strong>*. Deep Orthogonal Hypersphere Compression for Anomaly Detection. ICLR 2024 (Spotlight, 5% acceptance rate).
 
