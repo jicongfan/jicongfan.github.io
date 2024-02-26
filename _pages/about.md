@@ -10,7 +10,7 @@ redirect_from:
 
 樊老师现为香港中文大学(深圳)数据科学学院助理教授。他于2018年在香港城市大学电子工程系获得博士学位，并分别于2013年和2010年在北京化工大学获得控制科学与工程硕士学位和自动化学士学位。在加入香港中文大学（深圳）之前，他是康奈尔大学的博士后。他还曾在美国威斯康星大学麦迪逊分校和香港大学担任研究职位。他的研究方向是人工智能和机器学习，他在矩阵/张量方法、聚类算法、图学习、异常/离群点/故障检测、深度学习和推荐系统等方面做了大量研究工作。他的研究成果曾在多个知名学术期刊与著名国际会议上发表，如IEEE TSP/TNNLS/TII、KDD、NeurIPS、CVPR、ICLR、AAAI。 他是IEEE高级会员，目前担任期刊Neural Processing Letters的副编辑，主持国家自然科学基金青年项目一项、面上项目一项，获得2023年中国自动化学会自然科学奖一等奖，入选斯坦福大学2023年“全球Top 2% 科学家”榜单。
 
-樊老师目前招收博士生、博士后、研究助理以及访问学生。感兴趣的同学请发送简历及研究计划(如有)到邮箱。
+<font color=DarkBlue>樊老师目前招收博士生、博士后、研究助理以及访问学生。感兴趣的同学请发送简历及研究计划(如有)到邮箱。</font>
 
 I am an Assistant Professor at the School of Data Science, The Chinese University of Hong Kong, Shenzhen. I am also affiliated with Shenzhen Research Institute of Big data, Shenzhen, China. I was a Postdoctoral Associate (advisor: Madeleine Udell) at the School of Operations Research and Information Engineering, Cornell University, Ithaca, USA. I completed my PhD at City University of Hong Kong in Electronic Engineering, 2018, under the supervision of Prof. Tommy W.S. Chow. During my PhD, I was a visiting scholar at the Department of Electrical and Computer Engineering, University of Wisconsin-Madison, USA. I was a Research Assistant at The University of Hong Kong from 2013 to 2015. I obtained my Bachelor (Automation) and Master (Control Science and Engineering, supervisor: Youqing Wang) degrees from Beijing University of Chemical Technology in 2010 and 2013 respectively.
 
@@ -39,27 +39,27 @@ See the examples on the "Research" page.
 Selected Publications
 ======
 
-* Yunhe Zhang, Yan Sun, Jinyu Cai, <strong>Jicong Fan</strong>*. Deep Orthogonal Hypersphere Compression for Anomaly Detection. <font color=DarkBlue>ICLR 2024</font>. <font color=red>(Spotlight, acceptance rate=5%) </font>
-* Yan Sun, <strong>Jicong Fan</strong>*. MMD Graph Kernel: Effective Metric Learning for Graphs via Maximum Mean Discrepancy. <font color=MidnightBlue>ICLR 2024</font>. <font color=red>(Spotlight, acceptance rate=5%) </font>
-* <strong>Jicong Fan</strong>, Rui Chen, Zhao Zhang, Chris Ding. Neuron-Enhanced AutoEncoder Matrix Completion and Collaborative Filtering: Theory and Practice. <font color=MidnightBlue>ICLR 2024</font>.
-* Dazhi Fu, Zhao Zhang, <strong>Jicong Fan</strong>*. Dense projection for Anomaly Detection. <font color=MidnightBlue>AAAI 2024</font>.   
-* Ziheng Sun, Chris Ding, <strong>Jicong Fan</strong>*. Lovász Principle for Unsupervised Graph Representation Learning. <font color=MidnightBlue> NeurIPS 2023</font>.
-* Zhihao Wu, Zhao Zhang, <strong>Jicong Fan</strong>*. Graph Convolutional Kernel Machine versus Graph Convolutional Networks. <font color=MidnightBlue>NeurIPS 2023</font>.
-* Dong Qiao, Chris Ding, <strong>Jicong Fan</strong>*. Federated Spectral Clustering via Secure Similarity Reconstruction. <font color=MidnightBlue>NeurIPS 2023</font>.
-* <strong>Jicong Fan</strong>, Lijun Ding, Chengrun Yang, Zhao Zhang, Madeleine Udell. Euclidean-Norm-Induced Schatten-p Quasi-Norm Regularization for Low-Rank Tensor Completion and Tensor Robust Principal Component Analysis. <font color=MidnightBlue>Transactions on Machine Learning Research 2023</font>. 
-* <strong>Jicong Fan</strong>, Yiheng Tu, Zhao Zhang, Mingbo Zhao, Haijun Zhang. A Simple Approach to Automated Spectral Clustering. <font color=MidnightBlue>NeurIPS 2022</font>.	
-* Jinyu Cai, <strong>Jicong Fan</strong>*. Perturbation Learning Based Anomaly Detection. <font color=MidnightBlue>NeurIPS 2022</font>. 
-* <strong>Jicong Fan</strong>. Multi-Mode Deep Matrix and Tensor Factorization. <font color=MidnightBlue>ICLR 2022</font>.
-* <strong>Jicong Fan</strong>. Dynamic Nonlinear Matrix Completion for Time-Varying Data Imputation. <font color=MidnightBlue>AAAI 2022</font>. (acceptance rate=15%) 
-* <strong>Jicong Fan</strong>*, Tommy WS Chow, S Joe Qin. Kernel Based Statistical Process Monitoring and Fault Detection in the Presence of Missing Data. <font color=MidnightBlue>IEEE TII 2022</font>.
-* <strong>Jicong Fan</strong>. Large-Scale Subspace Clustering via k-Factorization. <font color=MidnightBlue>KDD 2021</font>. (acceptance rate=15.4%)
-* <strong>Jicong Fan</strong>*, Chengrun Yang, Madeleine Udell. Robust Non-Linear Matrix Factorization for Dictionary Learning, Denoising, and Clustering. <font color=MidnightBlue>IEEE TSP 2021</font>.
-* <strong>Jicong Fan</strong>, Yuqian Zhang, Madeleine Udell. Polynomial matrix completion for missing data imputation and transductive learning. <font color=MidnightBlue>AAAI 2020</font>. <font color=red>(Oral, acceptance rate=6%)</font>
-* <strong>Jicong Fan</strong>, Lijun Ding, Yudong Chen, Madeleine Udell. Factor group sparse regularization for efficient low-rank matrix recovery. <font color=MidnightBlue>NeurIPS 2019</font>. (acceptance rate=21.1%)
-* <strong>Jicong Fan</strong>, Madeleine Udell. Online high-rank matrix completion. <font color=MidnightBlue>CVPR 2019</font> <font color=red>(Oral, acceptance rate=5.6%)</font>.
-* <strong>Jicong Fan</strong>, Tommy W.S. Chow. Exactly robust kernel principal component analysis. <font color=MidnightBlue>IEEE TNNLS 2020</font>.
-* <strong>Jicong Fan</strong>*, Jieyu Cheng. Matrix completion by deep matrix factorization. <font color=MidnightBlue>Neural Networks 2018</font>.
-* <strong>Jicong Fan</strong>, Tommy W.S. Chow. Matrix completion by least-square, low-rank, and sparse self-representations. <font color=MidnightBlue>Pattern Recognition 2017.</font>
+* Yunhe Zhang, Yan Sun, Jinyu Cai, <strong>Jicong Fan</strong>*. Deep Orthogonal Hypersphere Compression for Anomaly Detection. <font color=DarkBlue>ICLR 2024</font>. <font color=blue>(Spotlight, acceptance rate=5%) </font>
+* Yan Sun, <strong>Jicong Fan</strong>*. MMD Graph Kernel: Effective Metric Learning for Graphs via Maximum Mean Discrepancy. <font color=DarkBlue>ICLR 2024</font>. <font color=blue>(Spotlight, acceptance rate=5%) </font>
+* <strong>Jicong Fan</strong>, Rui Chen, Zhao Zhang, Chris Ding. Neuron-Enhanced AutoEncoder Matrix Completion and Collaborative Filtering: Theory and Practice. <font color=DarkBlue>ICLR 2024</font>.
+* Dazhi Fu, Zhao Zhang, <strong>Jicong Fan</strong>*. Dense projection for Anomaly Detection. <font color=DarkBlue>AAAI 2024</font>.   
+* Ziheng Sun, Chris Ding, <strong>Jicong Fan</strong>*. Lovász Principle for Unsupervised Graph Representation Learning. <font color=DarkBlue> NeurIPS 2023</font>.
+* Zhihao Wu, Zhao Zhang, <strong>Jicong Fan</strong>*. Graph Convolutional Kernel Machine versus Graph Convolutional Networks. <font color=DarkBlue>NeurIPS 2023</font>.
+* Dong Qiao, Chris Ding, <strong>Jicong Fan</strong>*. Federated Spectral Clustering via Secure Similarity Reconstruction. <font color=DarkBlue>NeurIPS 2023</font>.
+* <strong>Jicong Fan</strong>, Lijun Ding, Chengrun Yang, Zhao Zhang, Madeleine Udell. Euclidean-Norm-Induced Schatten-p Quasi-Norm Regularization for Low-Rank Tensor Completion and Tensor Robust Principal Component Analysis. <font color=DarkBlue>Transactions on Machine Learning Research 2023</font>. 
+* <strong>Jicong Fan</strong>, Yiheng Tu, Zhao Zhang, Mingbo Zhao, Haijun Zhang. A Simple Approach to Automated Spectral Clustering. <font color=DarkBlue>NeurIPS 2022</font>.	
+* Jinyu Cai, <strong>Jicong Fan</strong>*. Perturbation Learning Based Anomaly Detection. <font color=DarkBlue>NeurIPS 2022</font>. 
+* <strong>Jicong Fan</strong>. Multi-Mode Deep Matrix and Tensor Factorization. <font color=DarkBlue>ICLR 2022</font>.
+* <strong>Jicong Fan</strong>. Dynamic Nonlinear Matrix Completion for Time-Varying Data Imputation. <font color=DarkBlue>AAAI 2022</font>. (acceptance rate=15%) 
+* <strong>Jicong Fan</strong>*, Tommy WS Chow, S Joe Qin. Kernel Based Statistical Process Monitoring and Fault Detection in the Presence of Missing Data. <font color=DarkBlue>IEEE TII 2022</font>.
+* <strong>Jicong Fan</strong>. Large-Scale Subspace Clustering via k-Factorization. <font color=DarkBlue>KDD 2021</font>. (acceptance rate=15.4%)
+* <strong>Jicong Fan</strong>*, Chengrun Yang, Madeleine Udell. Robust Non-Linear Matrix Factorization for Dictionary Learning, Denoising, and Clustering. <font color=DarkBlue>IEEE TSP 2021</font>.
+* <strong>Jicong Fan</strong>, Yuqian Zhang, Madeleine Udell. Polynomial matrix completion for missing data imputation and transductive learning. <font color=DarkBlue>AAAI 2020</font>. <font color=blue>(Oral, acceptance rate=6%)</font>
+* <strong>Jicong Fan</strong>, Lijun Ding, Yudong Chen, Madeleine Udell. Factor group sparse regularization for efficient low-rank matrix recovery. <font color=DarkBlue>NeurIPS 2019</font>. (acceptance rate=21.1%)
+* <strong>Jicong Fan</strong>, Madeleine Udell. Online high-rank matrix completion. <font color=DarkBlue>CVPR 2019</font> <font color=blue>(Oral, acceptance rate=5.6%)</font>.
+* <strong>Jicong Fan</strong>, Tommy W.S. Chow. Exactly robust kernel principal component analysis. <font color=DarkBlue>IEEE TNNLS 2020</font>.
+* <strong>Jicong Fan</strong>*, Jieyu Cheng. Matrix completion by deep matrix factorization. <font color=DarkBlue>Neural Networks 2018</font>.
+* <strong>Jicong Fan</strong>, Tommy W.S. Chow. Matrix completion by least-square, low-rank, and sparse self-representations. <font color=DarkBlue>Pattern Recognition 2017.</font>
   
 Research Funds
 ======
