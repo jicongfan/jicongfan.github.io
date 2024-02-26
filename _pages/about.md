@@ -39,7 +39,7 @@ See the examples on the "Research" page.
 Selected Publications
 ======
 
-* Yunhe Zhang, Yan Sun, Jinyu Cai, <strong>Jicong Fan</strong>*. Deep Orthogonal Hypersphere Compression for Anomaly Detection. <font color=blue>ICLR 2024 </font> <font color=red>(Spotlight, acceptance rate=5%) </font>.
+* Yunhe Zhang, Yan Sun, Jinyu Cai, <strong>Jicong Fan</strong>*. Deep Orthogonal Hypersphere Compression for Anomaly Detection. <font color=#708090>ICLR 2024 </font> <font color=red>(Spotlight, acceptance rate=5%) </font>.
 * Yan Sun, <strong>Jicong Fan</strong>*. MMD Graph Kernel: Effective Metric Learning for Graphs via Maximum Mean Discrepancy. <font color=blue>ICLR 2024 </font> <font color=red>(Spotlight, acceptance rate=5%) </font>.
 * <strong>Jicong Fan</strong>, Rui Chen, Zhao Zhang, Chris Ding. Neuron-Enhanced AutoEncoder Matrix Completion and Collaborative Filtering: Theory and Practice. <font color=blue>ICLR 2024 </font>.
 * Dazhi Fu, Zhao Zhang, <strong>Jicong Fan</strong>*. Dense projection for Anomaly Detection. <font color=blue>AAAI 2024 </font>.   
@@ -56,7 +56,7 @@ Selected Publications
 * <strong>Jicong Fan</strong>*, Chengrun Yang, Madeleine Udell. Robust Non-Linear Matrix Factorization for Dictionary Learning, Denoising, and Clustering. <font color=blue>IEEE Transactions on Signal Processing</font>, 2021(69): 1755-1770.
 * <strong>Jicong Fan</strong>, Yuqian Zhang, Madeleine Udell. Polynomial matrix completion for missing data imputation and transductive learning. <font color=blue>AAAI 2020</font>. <font color=red>Oral Presentation (acceptance rate=6%)</font>
 * <strong>Jicong Fan</strong>, Lijun Ding, Yudong Chen, Madeleine Udell. Factor group sparse regularization for efficient low-rank matrix recovery. <font color=blue>NeurIPS 2019. (acceptance rate=21.1%)</font>. 
-* <strong>Jicong Fan</strong>, Madeleine Udell. Online high-rank matrix completion. <font color=blue>CVPR 2019</font> <font color=blue>(Oral, acceptance rate=5.6%)</font>.
+* <strong>Jicong Fan</strong>, Madeleine Udell. Online high-rank matrix completion. <font color=blue>CVPR 2019</font> <font color=red>(Oral, acceptance rate=5.6%)</font>.
 * <strong>Jicong Fan</strong>, Tommy W.S. Chow. Exactly robust kernel principal component analysis. <font color=blue>IEEE Transactions on Neural Networks and Learning Systems, 2020, 31(3):749-761.
 * <strong>Jicong Fan</strong>*, Jieyu Cheng. Matrix completion by deep matrix factorization. <font color=blue>Neural Networks, 2018, 98: 34-41.</font>
 * <strong>Jicong Fan</strong>, Tommy W.S. Chow. Matrix completion by least-square, low-rank, and sparse self-representations. <font color=blue>Pattern Recognition, 2017, 71: 290-305.</font>
