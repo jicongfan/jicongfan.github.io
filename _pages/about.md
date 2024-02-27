@@ -12,7 +12,7 @@ redirect_from:
 
 <font color=DarkBlue>樊老师目前招收博士生、博士后、研究助理以及访问学生。感兴趣的同学请发送简历及研究计划(如有)到邮箱。</font>
 
-
+---
 
 I am an Assistant Professor at the School of Data Science, The Chinese University of Hong Kong, Shenzhen. I am also affiliated with Shenzhen Research Institute of Big data, Shenzhen, China. I was a Postdoctoral Associate (advisor: Madeleine Udell) at the School of Operations Research and Information Engineering, Cornell University, Ithaca, USA. I completed my PhD at City University of Hong Kong in Electronic Engineering, 2018, under the supervision of Prof. Tommy W.S. Chow. During my PhD, I was a visiting scholar at the Department of Electrical and Computer Engineering, University of Wisconsin-Madison, USA. I was a Research Assistant at The University of Hong Kong from 2013 to 2015. I obtained my Bachelor (Automation) and Master (Control Science and Engineering, supervisor: Youqing Wang) degrees from Beijing University of Chemical Technology in 2010 and 2013 respectively.
 
