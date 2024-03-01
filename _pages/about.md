@@ -41,14 +41,15 @@ See the examples on the "Research" page.
 Selected Publications
 ======
 
-* Yunhe Zhang, Yan Sun, Jinyu Cai, <strong>Jicong Fan</strong>*. Deep Orthogonal Hypersphere Compression for Anomaly Detection. <font color=DarkBlue>ICLR 2024</font>. <font color=blue>(Spotlight, acceptance rate=5%) </font> <a href="https://openreview.net/pdf?id=cJs4oE4m9Q">paper preprint</a>
-* Yan Sun, <strong>Jicong Fan</strong>*. MMD Graph Kernel: Effective Metric Learning for Graphs via Maximum Mean Discrepancy. <font color=DarkBlue>ICLR 2024</font>. <font color=blue>(Spotlight, acceptance rate=5%) </font>
-* <strong>Jicong Fan</strong>, Rui Chen, Zhao Zhang, Chris Ding. Neuron-Enhanced AutoEncoder Matrix Completion and Collaborative Filtering: Theory and Practice. <font color=DarkBlue>ICLR 2024</font>.
+* Yunhe Zhang, Yan Sun, Jinyu Cai, <strong>Jicong Fan</strong>*. Deep Orthogonal Hypersphere Compression for Anomaly Detection. <font color=DarkBlue>ICLR 2024</font>. <font color=blue>(Spotlight, acceptance rate=5%) </font> <a href="https://openreview.net/pdf?id=cJs4oE4m9Q">[PDF]</a>
+* Yan Sun, <strong>Jicong Fan</strong>*. MMD Graph Kernel: Effective Metric Learning for Graphs via Maximum Mean Discrepancy. <font color=DarkBlue>ICLR 2024</font>. <font color=blue>(Spotlight, acceptance rate=5%) </font> <a href="https://openreview.net/pdf?id=GZ6AcZwA8r">[PDF]</a>
+* <strong>Jicong Fan</strong>, Rui Chen, Zhao Zhang, Chris Ding. Neuron-Enhanced AutoEncoder Matrix Completion and Collaborative Filtering: Theory and Practice. <font color=DarkBlue>ICLR 2024</font>. <a href="https://openreview.net/pdf?id=kPrxk6tUcg">[PDF]</a>
 * Dazhi Fu, Zhao Zhang, <strong>Jicong Fan</strong>*. Dense projection for Anomaly Detection. <font color=DarkBlue>AAAI 2024</font>.   
-* Ziheng Sun, Chris Ding, <strong>Jicong Fan</strong>*. Lovász Principle for Unsupervised Graph Representation Learning. <font color=DarkBlue> NeurIPS 2023</font>.
+* Ziheng Sun, Chris Ding, <strong>Jicong Fan</strong>*. Lovász Principle for Unsupervised Graph Representation Learning. <font color=DarkBlue> NeurIPS 2023</font>. <a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/b61da4f02b271cb7b5e3d538e2b78fb9-Paper-Conference.pdf">[PDF]</a>
 * Zhihao Wu, Zhao Zhang, <strong>Jicong Fan</strong>*. Graph Convolutional Kernel Machine versus Graph Convolutional Networks. <font color=DarkBlue>NeurIPS 2023</font>.
-* Dong Qiao, Chris Ding, <strong>Jicong Fan</strong>*. Federated Spectral Clustering via Secure Similarity Reconstruction. <font color=DarkBlue>NeurIPS 2023</font>.
-* <strong>Jicong Fan</strong>, Lijun Ding, Chengrun Yang, Zhao Zhang, Madeleine Udell. Euclidean-Norm-Induced Schatten-p Quasi-Norm Regularization for Low-Rank Tensor Completion and Tensor Robust Principal Component Analysis. <font color=DarkBlue>Transactions on Machine Learning Research 2023</font>. 
+<a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/3ec6c6fc9065aa57785eb05dffe7c3db-Paper-Conference.pdf">[PDF]</a>
+* Dong Qiao, Chris Ding, <strong>Jicong Fan</strong>*. Federated Spectral Clustering via Secure Similarity Reconstruction. <font color=DarkBlue>NeurIPS 2023</font>. <a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/3ec6c6fc9065aa57785eb05dffe7c3db-Paper-Conference.pdf">[PDF]</a>
+* <strong>Jicong Fan</strong>, Lijun Ding, Chengrun Yang, Zhao Zhang, Madeleine Udell. Euclidean-Norm-Induced Schatten-p Quasi-Norm Regularization for Low-Rank Tensor Completion and Tensor Robust Principal Component Analysis. <font color=DarkBlue>Transactions on Machine Learning Research 2023</font>. <a href="https://openreview.net/pdf?id=Grhi800jVz">[PDF]</a>
 * <strong>Jicong Fan</strong>, Yiheng Tu, Zhao Zhang, Mingbo Zhao, Haijun Zhang. A Simple Approach to Automated Spectral Clustering. <font color=DarkBlue>NeurIPS 2022</font>.	
 * Jinyu Cai, <strong>Jicong Fan</strong>*. Perturbation Learning Based Anomaly Detection. <font color=DarkBlue>NeurIPS 2022</font>. 
 * <strong>Jicong Fan</strong>. Multi-Mode Deep Matrix and Tensor Factorization. <font color=DarkBlue>ICLR 2022</font>.
