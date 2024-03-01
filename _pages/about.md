@@ -41,7 +41,7 @@ See the examples on the "Research" page.
 Selected Publications
 ======
 
-* Yunhe Zhang, Yan Sun, Jinyu Cai, <strong>Jicong Fan</strong>*. Deep Orthogonal Hypersphere Compression for Anomaly Detection. <font color=DarkBlue>ICLR 2024</font>. <font color=blue>(Spotlight, acceptance rate=5%) </font>
+* Yunhe Zhang, Yan Sun, Jinyu Cai, <strong>Jicong Fan</strong>*. Deep Orthogonal Hypersphere Compression for Anomaly Detection. <font color=DarkBlue>ICLR 2024</font>. <font color=blue>(Spotlight, acceptance rate=5%) </font> <a href="https://openreview.net/pdf?id=cJs4oE4m9Q">paper preprint</a>
 * Yan Sun, <strong>Jicong Fan</strong>*. MMD Graph Kernel: Effective Metric Learning for Graphs via Maximum Mean Discrepancy. <font color=DarkBlue>ICLR 2024</font>. <font color=blue>(Spotlight, acceptance rate=5%) </font>
 * <strong>Jicong Fan</strong>, Rui Chen, Zhao Zhang, Chris Ding. Neuron-Enhanced AutoEncoder Matrix Completion and Collaborative Filtering: Theory and Practice. <font color=DarkBlue>ICLR 2024</font>.
 * Dazhi Fu, Zhao Zhang, <strong>Jicong Fan</strong>*. Dense projection for Anomaly Detection. <font color=DarkBlue>AAAI 2024</font>.   
