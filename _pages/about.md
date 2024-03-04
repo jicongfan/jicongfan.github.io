@@ -38,7 +38,7 @@ My research interests are Artificial Intelligence and Machine Learning. Some spe
 
 See the examples on the "Research" page.
 
-Selected Publications <font size=3>(\* indicates corresponding author)</font>
+Selected Publications <font size=3>(* indicates corresponding author)</font>
 ======
 
 
