@@ -4,6 +4,11 @@ title: "Publications"
 author_profile: true
 ---
 
+1. Jiajun Yu, Zhihao Wu, Adele Jia*, Jinyu Cai, <strong>Jicong Fan</strong>*. Kernel Readout for Graph Neural Networks. IJCAI 2024.
+
+1. Jinyu Cai, Yunhe Zhang, <strong>Jicong Fan</strong>, Yali Du, Wenzhong Guo. Dual Contrastive Graph-Level Clustering with Multiple Cluster Perspectives Alignment. IJCAI 2024.
+
+1. Jinyu Cai, Yunhe Zhang, <strong>Jicong Fan</strong>*, See Kiong Ng. LG-FGAD: An Effective Federated Graph Anomaly Detection Framework. IJCAI 2024.
 
 1. Lei Zhao, Jiao Liu, Wenhui Zhao, Jie Chen, <strong>Jicong Fan</strong>, Tian Ge, Yiheng Tu. Morphological and genetic decoding shows heterogeneous patterns of brain aging in chronic musculoskeletal pain. Nature Mental Health. 2024.
 
