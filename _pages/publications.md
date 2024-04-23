@@ -4,7 +4,7 @@ title: "Publications"
 author_profile: true
 ---
 
-1. Jiajun Yu, Zhihao Wu, Adele Jia*, Jinyu Cai, <strong>Jicong Fan</strong>*. Kernel Readout for Graph Neural Networks. IJCAI 2024.
+1. Jiajun Yu, Zhihao Wu, Adele Jia\*, Jinyu Cai, <strong>Jicong Fan</strong>\*. Kernel Readout for Graph Neural Networks. IJCAI 2024.
 
 1. Jinyu Cai, Yunhe Zhang, <strong>Jicong Fan</strong>, Yali Du, Wenzhong Guo. Dual Contrastive Graph-Level Clustering with Multiple Cluster Perspectives Alignment. IJCAI 2024.
 
@@ -45,7 +45,7 @@ Boosting Spectral Clustering on Incomplete Data via Kernel Correction and Affini
 
 1. Han Yan, Haijun Zhang, Jie Hou, <strong>Jicong Fan</strong>, Zhao Zhang. InspirNET: An Unsupervised Generative Adversarial Network with Controllable Fine-grained Texture Disentanglement for Fashion Generation. ACM Multimedia 2023.
 
-1. Yan Luo, Yangcheng Gao, Zhao Zhang*, <strong>Jicong Fan</strong>*, Haijun Zhang, Mingliang Xu. Long-range zero-shot generative deep network quantization. Neural Networks, 2023,166:683-691.
+1. Yan Luo, Yangcheng Gao, Zhao Zhang\*, <strong>Jicong Fan</strong>\*, Haijun Zhang, Mingliang Xu. Long-range zero-shot generative deep network quantization. Neural Networks, 2023,166:683-691.
    
 1. Yu Liu, Mingbo Zhao, Zhao Zhang, <strong>Jicong Fan</strong>, Yang Lou, Shuicheng Yan. Arbitrary Virtual Try-on Network: Characteristics Representation and Trade-off between Body and Clothing. ICLR 2023.
 
@@ -63,7 +63,7 @@ Boosting Spectral Clustering on Incomplete Data via Kernel Correction and Affini
 	
 1. Yangcheng Gao, Zhang Zhao, Richang Hong, Haijun Zhang, <strong>Jicong Fan</strong>*, and Shuicheng Yan. Towards Feature Distribution Alignment and Diversity Enhancement for Data-Free Quantization. ICDM 2022.
 	
-1. Yanyan Wei, Zhao Zhang*, Mingliang Xu, Richang Hong, <strong>Jicong Fan</strong>*, Shuicheng Yan. Robust Attention Deraining Network for Synchronous Rain Streaks and Raindrops Removal. ACM Multimedia 2022.
+1. Yanyan Wei, Zhao Zhang\*, Mingliang Xu, Richang Hong, <strong>Jicong Fan</strong>\*, Shuicheng Yan. Robust Attention Deraining Network for Synchronous Rain Streaks and Raindrops Removal. ACM Multimedia 2022.
 	
 1. Shanchuan Gao, Fankai Zeng, Lu Cheng, <strong>Jicong Fan</strong>, Mingbo Zhao. Fashion Image Search via Anchor-Free Detector. In Proceedings of the 2022 International Conference on Multimedia Retrieval (ICMR’22). 
 		
