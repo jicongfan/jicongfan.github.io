@@ -78,7 +78,7 @@ Academia Services
 * Associate Editor of Pattern Recognition
 * Associate Editor of Neural Processing Letters
 * Senior Member of IEEE
-* Conference PC Member: COLT, AISTATS, NeurIPS, CVPR, AAAI, KDD, ICML
+* Conference PC Member: COLT, AISTATS, NeurIPS, ICLR, ICML, CVPR, AAAI, KDD, IJCAI
 * Journal Reviewer: IEEE TNNLS/TCYB/TIE/TII/TSP/TIP/TPAMI/TKDE, Pattern Recognition, Signal Processing, SIAM Journal on Mathematics of Data Science, Mathematical Programming
 
 
