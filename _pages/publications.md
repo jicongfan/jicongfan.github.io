@@ -4,6 +4,9 @@ title: "Publications"
 author_profile: true
 ---
 
+
+1. Ziheng Sun, Xudong Wang, Chris Ding, <strong>Jicong Fan</strong>*. Learning Graph Representation via Graph Entropy Maximization. ICML 2024.
+  
 1. Jiajun Yu, Zhihao Wu, Adele Jia\*, Jinyu Cai, <strong>Jicong Fan</strong>\*. Kernel Readout for Graph Neural Networks. IJCAI 2024.
 
 1. Jinyu Cai, Yunhe Zhang, <strong>Jicong Fan</strong>, Yali Du, Wenzhong Guo. Dual Contrastive Graph-Level Clustering with Multiple Cluster Perspectives Alignment. IJCAI 2024.
