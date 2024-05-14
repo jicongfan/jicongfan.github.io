@@ -33,4 +33,4 @@ author_profile: true
 	- Jinyu Cai (1 CVPR, 1 NeurIPS)
 	- Jiajun Yu (1 IJCAI)
    
- The publications listed above contain only the first-authored papers during the study or visit.
+ The publications listed above contain only the first-authored papers during the study or visit at CUHK-Shenzhen.
