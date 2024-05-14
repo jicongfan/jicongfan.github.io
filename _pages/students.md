@@ -1,6 +1,6 @@
 ---
 permalink: /students/
-title: "Students"
+title: "Students and their research output"
 author_profile: true
 ---
 
