@@ -257,7 +257,8 @@
   }
 
   strong {
-    margin-right: 10px;
+    margin-right: 0px;
+     // margin-right: 10px;
   }
 }
 
@@ -265,7 +266,7 @@
   display: inline-block;
   margin-right: 0px;
   margin-bottom: 8px;
-  padding: 5px 10px;
+  padding: 5px 5px;// 8
   text-decoration: none;
   border: 1px solid $light-gray;
   border-radius: $border-radius;
@@ -348,7 +349,7 @@
 
 .comment__content-wrapper {
   float: right;
-  width: calc(100% - 60px);
+  width: calc(100% - 100px);// 100 - 60
 
   @include breakpoint($large) {
     width: calc(100% - 100px);
