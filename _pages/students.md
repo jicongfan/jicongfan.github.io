@@ -31,6 +31,6 @@ author_profile: true
 - Former research assistants or visiting students
 	- Jinyu Cai 2022 (1 CVPR, 1 NeurIPS)
 	- Jiajun Yu 2023 (1 IJCAI)
-   	- Zhihao Wu 2023 (1 NeurIPS, 1 IJCAI)
+	- Zhihao Wu 2023 (1 NeurIPS, 1 IJCAI)
    
  The publications listed above contain only the first-authored papers during the study or visit at CUHK-Shenzhen.
