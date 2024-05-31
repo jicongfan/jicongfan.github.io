@@ -11,7 +11,6 @@ author_profile: true
 	- Zhiyu Chen (from NUS) 2024 Spring
 	- Feng Xiao (from Jilin University) 2024 Spring
 	- Dazhi Fu (from UESTC) 2024 Autumn (1 AAAI)
-	- Zhihao Wu (from Fuzhou University) 2024 Autumn (1 NeurIPS, 1 IJCAI)
 
     	
 
@@ -26,11 +25,12 @@ author_profile: true
 	- Chao Ouyang (HIT-Shenzhen)
 
 - Graduated students (undergraduate)
-	- Yan Sun (NUS) (1 TKDD, 1 ICLR spotlight)
-	- Yi Han (CMU)
+	- Yan Sun (NUS) 2023 (1 TKDD, 1 ICLR spotlight)
+	- Yi Han (CMU) 2023
    
 - Former research assistants or visiting students
-	- Jinyu Cai (1 CVPR, 1 NeurIPS)
-	- Jiajun Yu (1 IJCAI)
+	- Jinyu Cai 2022 (1 CVPR, 1 NeurIPS)
+	- Jiajun Yu 2023 (1 IJCAI)
+   	- Zhihao Wu 2023 (1 NeurIPS, 1 IJCAI)
    
  The publications listed above contain only the first-authored papers during the study or visit at CUHK-Shenzhen.
