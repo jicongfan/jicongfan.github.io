@@ -37,9 +37,7 @@ My research interests are Artificial Intelligence and Machine Learning. Some spe
 * Privacy and fairness in machine learning
 * Non-smooth optimization
 * Anomaly/novelty/fault detection
-* Process monitoring and fault diagnosis
 * Machine learning for bioinformatics and healthcare
-* EEG and fMRI signal processing
 
 See the examples on the "Research" page.
 
@@ -77,6 +75,10 @@ Research Funds
 * General Program of Natural Science Foundation of Guangdong Province (广东省面上项目), No.2024A1515011771, 2024.01-2026.12, PI.
 * NSFC General Programme (国自然面上项目), No.62376236, 2024.01-2027.12, PI.
 
+Patent
+======
+* ZL 202310513059.X 模型训练方法、聚类方法、设备及介质 Model training method, key method, equipment and media. 
+* ZL 202211733988.3 联邦谱聚类方法、装置及电子设备 Federated spectral clustering method, device and electronic equipment.
   
 Academia Services
 ======
