@@ -73,8 +73,9 @@ Selected Publications <font size=3>(* indicates corresponding author)</font>
 Research Funds
 ======
 
-* NSFC Youth Fund Programme, No.62106211, 2022.01-2024.12, PI.
-* NSFC General Programme, No.62376236, 2024.01-2027.12, PI.
+* NSFC Youth Fund Programme (国自然青年项目), No.62106211, 2022.01-2024.12, PI.
+* General Program of Natural Science Foundation of Guangdong Province (广东省面上项目), No.2024A1515011771, 2024.01-2026.12, PI.
+* NSFC General Programme (国自然面上项目), No.62376236, 2024.01-2027.12, PI.
 
   
 Academia Services
