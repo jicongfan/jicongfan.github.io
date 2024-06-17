@@ -21,7 +21,7 @@ author_profile: true
 
 1. Jinyu Cai, Yunhe Zhang, <strong>Jicong Fan</strong>, Yali Du, Wenzhong Guo. Dual Contrastive Graph-Level Clustering with Multiple Cluster Perspectives Alignment. IJCAI 2024.
 
-1. Jinyu Cai, Yi Han, Wenzhong Guo\*, <strong>Jicong Fan</strong>\*. Deep Graph-Level Clustering Using Pseudo-Label-Guided Mutual Information Maximization Network. Accepted by Neural Computing and Applications. 2024. <a href="https://arxiv.org/pdf/2302.02369.pdf">arxiv preprint</a>
+1. Jinyu Cai, Yi Han, Wenzhong Guo\*, <strong>Jicong Fan</strong>\*. Deep Graph-Level Clustering Using Pseudo-Label-Guided Mutual Information Maximization Network. Neural Computing and Applications. 2024.
 
 1. Dong Qiao, Chris Ding, <strong>Jicong Fan</strong>*. Federated Spectral Clustering via Secure Similarity Reconstruction. NeurIPS 2023.
 
@@ -36,7 +36,7 @@ Boosting Spectral Clustering on Incomplete Data via Kernel Correction and Affini
 
 1. <strong>Jicong Fan</strong>*, Zhaoyang Tian, Mingbo Zhao, Tommy W.S. Chow. Accelerated low-rank representation for subspace clustering and semi-supervised classification on large-scale data. Neural Networks, 2018, 100: 39-48.
 
-
+1.  <strong>Jicong Fan</strong>, Tommy W.S. Chow*. Sparse subspace clustering for data with missing entries and high-rank matrix completion. Neural Networks, 2017, 93: 36-44.
 
 
 <strong>Anomaly Detection</strong>
@@ -95,8 +95,6 @@ Boosting Spectral Clustering on Incomplete Data via Kernel Correction and Affini
 1. <strong>Jicong Fan</strong>, Tommy W.S. Chow*. Nonlinear matrix completion. Pattern Recognition, 2018, 77: 378-394.
 
 1. <strong>Jicong Fan</strong>, Tommy W.S. Chow*. Matrix completion by least-square, low-rank, and sparse self-representations. Pattern Recognition, 2017, 71: 290-305.
-	
-1.  <strong>Jicong Fan</strong>, Tommy W.S. Chow*. Sparse subspace clustering for data with missing entries and high-rank matrix completion. Neural Networks, 2017, 93: 36-44.
 	
 1. <strong>Jicong Fan</strong>*, Tommy W.S. Chow. Deep learning based matrix completion. Neurocomputing, 2017, 266: 540-549. 
 
