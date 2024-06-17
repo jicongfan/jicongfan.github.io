@@ -87,7 +87,6 @@ Boosting Spectral Clustering on Incomplete Data via Kernel Correction and Affini
 1. <strong>Jicong Fan</strong>, Tommy W.S. Chow*. Exactly robust kernel principal component analysis. IEEE Transactions on Neural Networks and Learning Systems, 2020, 31(3):749-761.
 	
 1. <strong>Jicong Fan</strong>, Madeleine Udell. Online high-rank matrix completion. In The IEEE Conference on Computer Vision and Pattern Recognition (CVPR), June 2019. Oral Presentation (acceptance rate=5.6%).
-
 	
 1. <strong>Jicong Fan</strong>*, Mingbo Zhao, Tommy W.S. Chow. Matrix completion by sparse factorization solved by accelerated proximal alternating linearized minimization. IEEE Transactions on Big Data, 2020, 6(1):119-130.
 	
@@ -113,11 +112,16 @@ Boosting Spectral Clustering on Incomplete Data via Kernel Correction and Affini
 
 1.  <strong>Jicong Fan</strong>, RT Cheung, LW Chu, Peter Chin Wan Fung, CQ Chang, HH Sik, MM Zhang, BJ Xie, Yeung Sam Hung, JL Gao. Age-related changes of EEG and its source in resting state. International Conference on Digital Signal Processing, 2014, Hong Kong. 
 
+<strong>Data Visualization</strong>
+
+1. Yan Sun, Yi Han, <strong>Jicong Fan</strong>*. Laplacian-based Cluster-Contractive t-SNE for High Dimensional Data Visualization. ACM Transactions on Knowledge Discovery from Data. 2023. <a href="https://arxiv.org/pdf/2207.12214.pdf"></a>
+
+1. <strong>Jicong Fan</strong>, Tommy W.S. Chow, Mingbo Zhao, John K.L. Ho. Nonlinear dimensionality reduction for data with disconnected neighborhood graph. Neural Processing Letters, 2018, 47: 697–716.
+
+
 
 
 <strong>Others</strong>
-
-1. Yan Sun, Yi Han, <strong>Jicong Fan</strong>*. Laplacian-based Cluster-Contractive t-SNE for High Dimensional Data Visualization. ACM Transactions on Knowledge Discovery from Data. 2023. <a href="https://arxiv.org/pdf/2207.12214.pdf"></a>
 
 1. Huan Zheng, Zhao Zhang, <strong>Jicong Fan</strong>, Richang Hong, Yi Yang, Shuicheng Yan. Decoupled Cross-Scale Cross-View Interaction for Stereo Image Enhancement in the Dark. ACM Multimedia 2023.
 
@@ -148,8 +152,6 @@ Boosting Spectral Clustering on Incomplete Data via Kernel Correction and Affini
 1. M. Zhao, J. Liu, Z. Zhang, <strong>J. Fan</strong>. A scalable sub-graph regularization for efficient content based image retrieval with long-term relevance feedback enhancement. Knowledge-based systems, 2021(212): 106505.
 	
 1. Chengrun Yang, <strong>Jicong Fan</strong>, Ziyang Wu and Madeleine Udell. AutoML Pipeline Selection: Efficient Navigation of the Combinatorial Space. KDD'20 (The 26th ACM SIGKDD Conference on Knowledge Discovery and Data Mining). 2020. (acceptance rate=16.9%).
-	
-1. <strong>Jicong Fan</strong>, Tommy W.S. Chow*, Mingbo Zhao, John K.L. Ho. Nonlinear dimensionality reduction for data with disconnected neighborhood graph. Neural Processing Letters, 2018, 47: 697–716. 
 
 1. X Ma, M Zhao, Z Zhang, <strong>J Fan</strong>, C Zhan. Anchored Projection Based Capped $\ell_{2,1}$-Norm Regression for Super-Resolution. Pacific Rim International Conference on Artificial Intelligence, 10-18, 2018. 
 	
