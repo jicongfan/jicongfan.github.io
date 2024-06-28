@@ -80,6 +80,8 @@ Boosting Spectral Clustering on Incomplete Data via Kernel Correction and Affini
 
 1. <strong>Jicong Fan</strong>*, Chengrun Yang, Madeleine Udell. Robust Non-Linear Matrix Factorization for Dictionary Learning, Denoising, and Clustering. IEEE Transactions on Signal Processing, 2021(69): 1755-1770.
 
+1. Chengrun Yang, <strong>Jicong Fan</strong>, Ziyang Wu and Madeleine Udell. AutoML Pipeline Selection: Efficient Navigation of the Combinatorial Space. KDD'20 (The 26th ACM SIGKDD Conference on Knowledge Discovery and Data Mining). 2020. (acceptance rate=16.9%).
+
 1. <strong>Jicong Fan</strong>, Yuqian Zhang, Madeleine Udell. Polynomial matrix completion for missing data imputation and transductive learning. In The Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI-20), February 2020. Oral Presentation (acceptance rate=6%). 
 	
 1. <strong>Jicong Fan</strong>, Lijun Ding, Yudong Chen, Madeleine Udell. Factor group sparse regularization for efficient low-rank matrix recovery. In The Thirty-third Conference on Neural Information Processing Systems (NeurIPS), December 2019. (acceptance rate=21.1%). 
@@ -104,6 +106,8 @@ Boosting Spectral Clustering on Incomplete Data via Kernel Correction and Affini
 
 1. Shuqing He, <strong>Jicong Fan</strong>\*, Tianwei Yu\*. G3DC: a Gene-Graph-Guided selective Deep Clustering method for single-cell RNA-seq data. Accepted by Big Data Mining and Analytics. 2024. 10.26599/BDMA.2024.9020011
 
+1. Junling Gao, Hang Kin Leung, <strong>Jicong Fan</strong>, Bonnie Wai Yan Wu, Hin Hung Sik. The neurophysiology of the intervention strategies of Awareness Training Program on emotion regulation. Frontiers in Psychology, 2022.07. 
+
 1. Junling Gao, <strong>Jicong Fan</strong>, Bonnie Wai Yan Wu, Zhiguo Zhang, Chunqi Chang, Yeung-Sam Hung, Peter Chin Wan Fung, Hin hung Sik. Entrainment of chaotic activities in brain and heart during MBSR mindfulness training. Neuroscience letters, 2016, 616: 218-223.
 	
 1. Junling Gao, <strong>Jicong Fan</strong>, Bonnie W Wu, Georgios T Halkias, Maggie Chau, Peter C Fung, Chunqi Chang, Zhiguo Zhang, Yeung-Sam Hung, Hinhung Sik. Repetitive religious chanting modulates the late-stage brain response to fear-and stress-provoking pictures. Frontiers in Psychology, 2016, 7: 2055.
@@ -119,7 +123,7 @@ Boosting Spectral Clustering on Incomplete Data via Kernel Correction and Affini
 
 
 
-<strong>Others</strong>
+<strong>Image and Multimedia Processing</strong>
 
 1. Huan Zheng, Zhao Zhang, <strong>Jicong Fan</strong>, Richang Hong, Yi Yang, Shuicheng Yan. Decoupled Cross-Scale Cross-View Interaction for Stereo Image Enhancement in the Dark. ACM Multimedia 2023.
 
@@ -132,8 +136,6 @@ Boosting Spectral Clustering on Incomplete Data via Kernel Correction and Affini
 1. Yan Luo, Yangcheng Gao, Zhao Zhang\*, <strong>Jicong Fan</strong>\*, Haijun Zhang, Mingliang Xu. Long-range zero-shot generative deep network quantization. Neural Networks, 2023,166:683-691.
    
 1. Yu Liu, Mingbo Zhao, Zhao Zhang, <strong>Jicong Fan</strong>, Yang Lou, Shuicheng Yan. Arbitrary Virtual Try-on Network: Characteristics Representation and Trade-off between Body and Clothing. ICLR 2023.
-	
-1. Junling Gao, Hang Kin Leung, <strong>Jicong Fan</strong>, Bonnie Wai Yan Wu, Hin Hung Sik. The neurophysiology of the intervention strategies of Awareness Training Program on emotion regulation. Frontiers in Psychology, 2022.07. 
 
 1. Wang Bo, Zhang Zhao, <strong>Jicong Fan</strong>, Mingbo Zhao, and Mingliang Xu. FineFormer: Fine-Grained Adaptive Object Transformer for Image Captioning. ICDM 2022.
 	
@@ -148,8 +150,6 @@ Boosting Spectral Clustering on Incomplete Data via Kernel Correction and Affini
 
 	
 1. M. Zhao, J. Liu, Z. Zhang, <strong>J. Fan</strong>. A scalable sub-graph regularization for efficient content based image retrieval with long-term relevance feedback enhancement. Knowledge-based systems, 2021(212): 106505.
-	
-1. Chengrun Yang, <strong>Jicong Fan</strong>, Ziyang Wu and Madeleine Udell. AutoML Pipeline Selection: Efficient Navigation of the Combinatorial Space. KDD'20 (The 26th ACM SIGKDD Conference on Knowledge Discovery and Data Mining). 2020. (acceptance rate=16.9%).
 
 1. X Ma, M Zhao, Z Zhang, <strong>J Fan</strong>, C Zhan. Anchored Projection Based Capped $\ell_{2,1}$-Norm Regression for Super-Resolution. Pacific Rim International Conference on Artificial Intelligence, 10-18, 2018. 
 	
