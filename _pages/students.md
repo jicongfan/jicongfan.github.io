@@ -12,16 +12,15 @@ author_profile: true
 	- Feng Xiao (from Jilin University) 2024 Spring
 	- Dazhi Fu (from UESTC) 2024 Autumn (1 AAAI)
 
-    	
 
 - Research assistants or visiting students
 	- Yangyang Qu (from University of Chinese Academy of Sciences)  
 	- Zixiao Wang (CUHK-Shenzhen)
 	- Hua Tu (CUHK-Shenzhen)
-	- Hang Zeng (CUHK-Shenzhen)
-   	- Xinxian Ma (CUHK-Shenzhen)
-	- Chao Ouyang (HIT-Shenzhen)
-   	- Ziyuan Chen (from Nanjing University)
+	- Hang Zeng (CUHK-Shenzhen) 
+	- Xinxian Ma (CUHK-Shenzhen)
+	- Chao Ouyang (HIT-Shenzhen) 
+	- Ziyuan Chen (from Nanjing University)
 	- Xianfei Li (from Nanjing University)
 
 - Graduated students (undergraduate)
