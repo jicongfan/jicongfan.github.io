@@ -15,22 +15,24 @@ author_profile: true
     	
 
 - Research assistants or visiting students
-	- Yangyang Qu (from University of Chinese Academy of Sciences) 
-	- Yunhe Zhang (from Fuzhou University) (1 ICLR spotlight)
-	- Haokun Zhao (CUHK-Shenzhen)
+	- Yangyang Qu (from University of Chinese Academy of Sciences)  
 	- Zixiao Wang (CUHK-Shenzhen)
 	- Hua Tu (CUHK-Shenzhen)
 	- Hang Zeng (CUHK-Shenzhen)
-	- Xuechun Hu (CUHK-Shenzhen)
+   	- Xinxian Ma (CUHK-Shenzhen)
 	- Chao Ouyang (HIT-Shenzhen)
+   	- Ziyuan Chen (from Nanjing University)
+	- Xianfei Li (from Nanjing University)
 
 - Graduated students (undergraduate)
 	- Yan Sun (NUS) 2023 (1 TKDD, 1 ICLR spotlight)
 	- Yi Han (CMU) 2023
+	- Haokun Zhao (UCSD) 2024
    
 - Former research assistants or visiting students
 	- Jinyu Cai 2022 (1 CVPR, 1 NeurIPS)
 	- Jiajun Yu 2023 (1 IJCAI)
 	- Zhihao Wu 2023 (1 NeurIPS, 1 IJCAI)
+ 	- Yunhe Zhang 2022-2024 (1 IJCAI, 1 ICLR spotlight)
    
- The publications listed above contain only the first-authored papers during the study or visit at CUHK-Shenzhen.
+ The publications listed above contain only the (co-) first-authored papers during the study or visit at CUHK-Shenzhen.
