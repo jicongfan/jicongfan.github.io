@@ -4,6 +4,10 @@ title: "Publications"
 author_profile: true
 ---
 
+<strong>Preprint</strong>
+
+1. Zixiao Wang, <strong>Jicong Fan</strong>*. Graph Classification via Reference Distribution Learning: Theory and Practice. https://arxiv.org/pdf/2408.11370
+
 <strong>Graph Learning</strong>
 
 1. Ziheng Sun, Xudong Wang, Chris Ding, <strong>Jicong Fan</strong>*. Learning Graph Representation via Graph Entropy Maximization. ICML 2024.
