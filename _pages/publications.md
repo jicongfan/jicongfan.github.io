@@ -6,7 +6,9 @@ author_profile: true
 
 <strong>Preprint</strong>
 
-1. Zixiao Wang, <strong>Jicong Fan</strong>*. Graph Classification via Reference Distribution Learning: Theory and Practice. https://arxiv.org/pdf/2408.11370
+1. Zixiao Wang, <strong>Jicong Fan</strong>*. Graph Classification via Reference Distribution Learning: Theory and Practice. <a href="https://arxiv.org/pdf/2408.11370">[PDF]</a>
+
+1. Zixiao Wang, Dong Qiao, <strong>Jicong Fan</strong>*. Spectral Clustering for Discrete Distributions. <a href="https://arxiv.org/pdf/2401.13913">[PDF]</a>
 
 <strong>Graph Learning</strong>
 
