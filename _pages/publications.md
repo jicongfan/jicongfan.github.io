@@ -47,6 +47,8 @@ Boosting Spectral Clustering on Incomplete Data via Kernel Correction and Affini
 
 <strong>Anomaly Detection</strong>
 
+1. Feng Xiao, Jianfeng Zhou, Kunpeng Han, Haoyuan Hu, <strong>Jicong Fan</strong>*. Unsupervised Anomaly Detection Using Inverse Generative Adversarial Network. Accepted by Information Sciences, 2024.
+
 1. Jinyu Cai, Yunhe Zhang, <strong>Jicong Fan</strong>*, See Kiong Ng. LG-FGAD: An Effective Federated Graph Anomaly Detection Framework. IJCAI 2024.
 
 1. Yunhe Zhang, Yan Sun, Jinyu Cai, <strong>Jicong Fan</strong>*. Deep Orthogonal Hypersphere Compression for Anomaly Detection. ICLR 2024 (Spotlight, 5% acceptance rate).
