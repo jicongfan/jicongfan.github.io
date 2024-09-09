@@ -81,8 +81,6 @@ Boosting Spectral Clustering on Incomplete Data via Kernel Correction and Affini
 
 1. Wang Bo, Zhang Zhao, <strong>Jicong Fan</strong>, Mingbo Zhao, and Mingliang Xu. FineFormer: Fine-Grained Adaptive Object Transformer for Image Captioning. ICDM 2022.
 	
-1. Yangcheng Gao, Zhang Zhao, Richang Hong, Haijun Zhang, <strong>Jicong Fan</strong>*, and Shuicheng Yan. Towards Feature Distribution Alignment and Diversity Enhancement for Data-Free Quantization. ICDM 2022.
-	
 1. Yanyan Wei, Zhao Zhang\*, Mingliang Xu, Richang Hong, <strong>Jicong Fan</strong>\*, Shuicheng Yan. Robust Attention Deraining Network for Synchronous Rain Streaks and Raindrops Removal. ACM Multimedia 2022.
 	
 1. Shanchuan Gao, Fankai Zeng, Lu Cheng, <strong>Jicong Fan</strong>, Mingbo Zhao. Fashion Image Search via Anchor-Free Detector. In Proceedings of the 2022 International Conference on Multimedia Retrieval (ICMR’22). 
@@ -112,8 +110,6 @@ Boosting Spectral Clustering on Incomplete Data via Kernel Correction and Affini
 1. Xiaohang Jin, <strong>Jicong Fan</strong>*, Tommy W.S. Chow. Fault detection for bearings using multivariate statistical process control. IEEE Transactions on Instrumentation and Measurement, vol. 68, no. 9, pp. 3128-3136, Sept. 2019.
 
 1. <strong>Jicong Fan</strong>*, Zhaoyang Tian, Mingbo Zhao, Tommy W.S. Chow. Accelerated low-rank representation for subspace clustering and semi-supervised classification on large-scale data. Neural Networks, 2018, 100: 39-48.
-
-1. X Ma, M Zhao, Z Zhang, <strong>J Fan</strong>, C Zhan. Anchored Projection Based Capped $\ell_{2,1}$-Norm Regression for Super-Resolution. Pacific Rim International Conference on Artificial Intelligence, 10-18, 2018. 
 
 1. <strong>Jicong Fan</strong>*, Jieyu Cheng. Matrix completion by deep matrix factorization. Neural Networks, 2018, 98: 34-41.
 
