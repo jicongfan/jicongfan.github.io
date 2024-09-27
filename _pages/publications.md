@@ -4,13 +4,16 @@ title: "Publications"
 author_profile: true
 ---
 
-<strong>Preprint</strong>
+<!-- <strong>Preprint</strong>
 
-1. Zixiao Wang, <strong>Jicong Fan</strong>*. Graph Classification via Reference Distribution Learning: Theory and Practice. <a href="https://arxiv.org/pdf/2408.11370">[PDF]</a>
 
 1. Zixiao Wang, Dong Qiao, <strong>Jicong Fan</strong>*. Spectral Clustering for Discrete Distributions. <a href="https://arxiv.org/pdf/2401.13913">[PDF]</a>
 
 <strong>Published or accepted papers</strong>
+-->
+1. Zixiao Wang, <strong>Jicong Fan</strong>*. Graph Classification via Reference Distribution Learning: Theory and Practice. Accepted by NeurIPS 2024. 
+
+1. Feng Xiao, <strong>Jicong Fan</strong>*. Unsupervised Anomaly Detection in The Presence of Missing Values. Accepted by NeurIPS 2024.
 
 1. Zhenhao Jiang, <strong>Jicong Fan</strong>*. DifFaiRec: Generative Fair Recommender with Conditional Diffusion Mode. Accepted by ICDM 2024.
 
