@@ -11,6 +11,9 @@ author_profile: true
 
 <strong>Published or accepted papers</strong>
 -->
+
+1. Xinyang Wang, Hongyu Chen, Jiayu Zhang, <strong>Jicong Fan</strong>*. Generative Adversarial Learning for Missing Data Imputation. Accepted by Neural Computing and Applications, 2024.
+
 1. Zixiao Wang, <strong>Jicong Fan</strong>*. Graph Classification via Reference Distribution Learning: Theory and Practice. Accepted by NeurIPS 2024. 
 
 1. Feng Xiao, <strong>Jicong Fan</strong>*. Unsupervised Anomaly Detection in The Presence of Missing Values. Accepted by NeurIPS 2024.
