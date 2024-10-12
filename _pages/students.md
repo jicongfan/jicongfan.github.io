@@ -19,8 +19,8 @@ author_profile: true
 	- Wei Dai (CUHK-Shenzhen)
 	- Jirui Dai (from CUHK-Shenzhen)
 	- Xianfei Li (from Nanjing University)
-  	- Xingliang Fan (from Central South University)
-    	- Ziyan Wang (from Southwestern University of Finance and Economics)
+	- Xingliang Fan (from Central South University)
+	- Ziyan Wang (from Southwestern University of Finance and Economics)
 	- Yangyang Qu (from University of Chinese Academy of Sciences)
 
 
