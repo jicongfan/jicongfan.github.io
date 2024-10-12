@@ -13,13 +13,16 @@ author_profile: true
 	- Dazhi Fu (from UESTC) 2024 Autumn (1 AAAI)
 
 
-- Research assistants or visiting students
-	- Yangyang Qu (from University of Chinese Academy of Sciences)  
+- Research assistants or visiting students 
 	- Zixiao Wang (CUHK-Shenzhen) (1 NeurIPS)
 	- Xinxian Ma (CUHK-Shenzhen)
-	- Ziyuan Chen (from Nanjing University)
+	- Wei Dai (CUHK-Shenzhen)
+	- Jirui Dai (from CUHK-Shenzhen)
 	- Xianfei Li (from Nanjing University)
-	- Wei Dai (CUHK-Shenzhen)  
+  	- Xingliang Fan (from Central South University)
+    	- Ziyan Wang (from Southwestern University of Finance and Economics)
+	- Yangyang Qu (from University of Chinese Academy of Sciences)
+
 
 - Graduated students (undergraduate)
 	- Yan Sun (NUS) 2023 (1 TKDD, 1 ICLR spotlight)
