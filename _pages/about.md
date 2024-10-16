@@ -44,6 +44,7 @@ See the examples on the "Research" page.
 Selected Publications <font size=3>(* indicates corresponding author)</font>
 ======
 
+* Tongle Wu, <strong>Jicong Fan</strong>*. Smooth Tensor Product for Tensor Completion. Accepted by <font color=DarkBlue>IEEE Transactions on Image Processing</font>, 2024.
 * Zixiao Wang, <strong>Jicong Fan</strong>*. Graph Classification via Reference Distribution Learning: Theory and Practice. <font color=DarkBlue>NeurIPS 2024</font>. <a href="https://arxiv.org/pdf/2408.11370">[PDF]</a>
 * Feng Xiao, <strong>Jicong Fan</strong>*. Unsupervised Anomaly Detection in The Presence of Missing Values. <font color=DarkBlue>NeurIPS 2024</font>. <a href="https://openreview.net/pdf?id=AoEeBqP8AD">[PDF]</a>
 * Ziheng Sun, Xudong Wang, Chris Ding, <strong>Jicong Fan</strong>*. Learning Graph Representation via Graph Entropy Maximization. <font color=DarkBlue>ICML 2024</font>. <a href="https://openreview.net/pdf?id=xwOENWCo46">[PDF]</a>
