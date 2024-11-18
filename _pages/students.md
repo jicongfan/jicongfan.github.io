@@ -35,6 +35,6 @@ author_profile: true
 	- Zhihao Wu 2023 (1 NeurIPS, 1 IJCAI)
 	- Zhenhao Jiang 2023 (1 ICDM)
 	- Yunhe Zhang 2022-2024 (1 IJCAI, 1 ICLR spotlight)
- 	- Yangyang Qu 2023-2024
+	- Yangyang Qu 2023-2024
    
  The publications listed above contain only the (co-) first-authored papers during the study or visit at CUHK-Shenzhen.
