@@ -12,7 +12,7 @@ author_profile: true
 <strong>Published or accepted papers</strong>
 -->
 
-1. Tongle Wu, Ying Sun*, <strong>Jicong Fan</strong>*. Non-Convex Tensor Recovery from Local Measurements. Accepted by AAAI 2025.
+1. Tongle Wu, Ying Sun\*, <strong>Jicong Fan</strong>\*. Non-Convex Tensor Recovery from Local Measurements. Accepted by AAAI 2025.
 
 1. Liangqi Xie, <strong>Jicong Fan</strong>*. Multi-Subspace Matrix Recovery from Permuted Data. Accepted by AAAI 2025.
    
