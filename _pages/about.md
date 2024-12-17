@@ -47,7 +47,7 @@ Selected Publications <font size=3>(* indicates corresponding author)</font>
 * Liangqi Xie, <strong>Jicong Fan</strong>*. Multi-Subspace Matrix Recovery from Permuted Data. Accepted by <font color=DarkBlue>AAAI 2025</font>.
 * Tongle Wu, Ying Sun\*, <strong>Jicong Fan</strong>\*. Non-Convex Tensor Recovery from Local Measurements. Accepted by <font color=DarkBlue>AAAI 2025</font>.
 * Dong Qiao, Xinxian Ma, <strong>Jicong Fan</strong>*. Federated t-SNE and UMAP for Distributed Data Visualization. Accepted by <font color=DarkBlue>AAAI 2025</font>. 
-* Wei Dai, Kai Hwang, <strong>Jicong Fan</strong>*. Unsupervised Anomaly Detection for Tabular Data Using Noise Evaluation. Accepted by <font color=DarkBlue>AAAI 2025</font>. 
+* Wei Dai, Kai Hwang, <strong>Jicong Fan</strong>*. Unsupervised Anomaly Detection for Tabular Data Using Noise Evaluation. Accepted by <font color=DarkBlue>AAAI 2025</font>. <a href="https://arxiv.org/pdf/2412.11461">[PDF]</a>
 * Tongle Wu, <strong>Jicong Fan</strong>*. Smooth Tensor Product for Tensor Completion. Accepted by <font color=DarkBlue>IEEE Transactions on Image Processing</font>, 2024. <a href="https://ieeexplore.ieee.org/document/10750255">[PDF]</a>
 * Zixiao Wang, <strong>Jicong Fan</strong>*. Graph Classification via Reference Distribution Learning: Theory and Practice. <font color=DarkBlue>NeurIPS 2024</font>. <a href="https://arxiv.org/pdf/2408.11370">[PDF]</a>
 * Feng Xiao, <strong>Jicong Fan</strong>*. Unsupervised Anomaly Detection in The Presence of Missing Values. <font color=DarkBlue>NeurIPS 2024</font>. <a href="https://openreview.net/pdf?id=AoEeBqP8AD">[PDF]</a>
