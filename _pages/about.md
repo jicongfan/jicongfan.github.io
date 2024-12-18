@@ -9,17 +9,17 @@ redirect_from:
 ---
 
 
-樊老师现为香港中文大学(深圳)数据科学学院助理教授。他于2018年在香港城市大学电子工程系获得博士学位，并分别于2013年和2010年在北京化工大学获得控制科学与工程硕士学位和自动化学士学位。在加入香港中文大学（深圳）之前，他是康奈尔大学的博士后。他还曾在美国威斯康星大学麦迪逊分校和香港大学担任研究职位。他的研究方向是人工智能和机器学习，他在矩阵/张量方法、聚类算法、图学习、异常/离群点/故障检测、深度学习和推荐系统等方面做了大量研究工作。他的研究成果发表在多个知名学术期刊和国际会议上，如IEEE TSP/TNNLS/TII、KDD、NeurIPS、CVPR、ICLR、ICML、AAAI。 他是IEEE高级会员，目前担任期刊《Pattern Recognition》（中科院一区）和《Neural Processing Letters》的副编辑，主持国家自然科学基金青年项目一项、面上项目一项、广东省面上项目一项，获得2023年中国自动化学会自然科学奖一等奖，入选斯坦福大学/爱思唯尔2023、2024年“全球Top 2% 科学家”榜单。
+樊老师现为香港中文大学(深圳)数据科学学院助理教授。他于2018年在香港城市大学电子工程系获得博士学位，并分别于2013年和2010年在北京化工大学获得控制科学与工程硕士学位和自动化学士学位。在加入香港中文大学（深圳）之前，他是康奈尔大学的博士后。他还曾在美国威斯康星大学麦迪逊分校和香港大学担任研究职位。他的研究方向是人工智能和机器学习，他在矩阵/张量方法、聚类算法、图学习、异常检测和推荐系统等方面做了大量研究工作。他的研究成果发表在多个知名学术期刊和国际会议上，如IEEE TSP/TNNLS/TII、KDD、NeurIPS、CVPR、ICLR、ICML、AAAI。 他是IEEE高级会员，目前担任期刊《Pattern Recognition》（中科院一区）和《Neural Processing Letters》的副编辑，主持国家自然科学基金青年项目一项、面上项目一项、广东省面上项目一项，获得2023年中国自动化学会自然科学奖一等奖，入选斯坦福大学/爱思唯尔2023、2024年“全球Top 2% 科学家”榜单。
 
 樊老师目前招收博士生、博士后、研究助理，感兴趣的同学请发送简历及研究计划(如有)到邮箱。一些要求如下：
 * <strong>博士生</strong> 为人诚实守信，工作认真负责，优先考虑满足以下任一条件的同学（本科或硕士）：1)本科毕业于985高校且成绩专业排名不低于前百分之二十；2)本科成绩专业排名前百分之五；3)以第一作者身份发表过CCFA/B类论文或者电子工程/自动化等领域同等水平论文（如果是硕士毕业，该条件必须满足)。本课题组为所有博士生提供全额奖学金和生活补贴。
 * <strong>博士后</strong> 为人诚实守信，工作认真负责，即将或者已经获得博士学位，以第一作者身份发表过两篇CCFA/B类论文或者电子工程/自动化等领域同等水平论文。待遇面议。
-* <strong>研究助理</strong> 为人诚实守信，工作认真负责，本硕在读或者已毕业均可，优先考虑满足以下任一条件的同学：1)本科毕业于985高校且成绩专业排名不低于前百分之三十；2)本科成绩专业排名前百分之十；3)以第一作者身份发表过CCFA/B类论文或者电子工程/自动化等领域同等水平论文。本课题组为所有研究助理提供每月3k-8k生活补贴。
+* <strong>研究助理</strong> 为人诚实守信，工作认真负责，本硕在读或者已毕业均可，优先考虑满足以下任一条件的同学：1)本科毕业于985高校且成绩专业排名不低于前百分之三十；2)本科成绩专业排名前百分之十；3)以第一作者身份发表过CCFA/B类论文或者电子工程/自动化等领域同等水平论文。本课题组为所有研究助理提供生活补贴。
 
 
 ---
 
-I am an Assistant Professor at the School of Data Science, The Chinese University of Hong Kong, Shenzhen. I am also affiliated with Shenzhen Research Institute of Big data, Shenzhen, China. I was a Postdoctoral Associate (advisor: Madeleine Udell) at the School of Operations Research and Information Engineering, Cornell University, Ithaca, USA. I completed my PhD at City University of Hong Kong in Electronic Engineering, 2018, under the supervision of Prof. Tommy W.S. Chow. During my PhD, I was a visiting scholar at the Department of Electrical and Computer Engineering, University of Wisconsin-Madison, USA. I was a Research Assistant at The University of Hong Kong from 2013 to 2015. I obtained my Bachelor (Automation) and Master (Control Science and Engineering, supervisor: Youqing Wang) degrees from Beijing University of Chemical Technology in 2010 and 2013 respectively.
+I am an Assistant Professor at the School of Data Science, The Chinese University of Hong Kong, Shenzhen. I was a Postdoctoral Associate (advisor: Madeleine Udell) at the School of Operations Research and Information Engineering, Cornell University, Ithaca, USA. I completed my PhD at City University of Hong Kong in Electronic Engineering, 2018, under the supervision of Prof. Tommy W.S. Chow. During my PhD, I was a visiting scholar at the Department of Electrical and Computer Engineering, University of Wisconsin-Madison, USA. I was a Research Assistant at The University of Hong Kong from 2013 to 2015. I obtained my Bachelor (Automation) and Master (Control Science and Engineering, supervisor: Youqing Wang) degrees from Beijing University of Chemical Technology in 2010 and 2013 respectively.
 
 I am looking for PhD students, Postdocs, and Research Assistants. If you are interested in these positions, please send me your CV/resume. For PhD or Postdoc, please also send me your research plan.
 
@@ -79,14 +79,10 @@ Selected Publications <font size=3>(* indicates corresponding author)</font>
 Research Funds
 ======
 
-* NSFC Youth Fund Programme (国自然青年项目), No.62106211, 2022.01-2024.12, PI.
-* General Program of Natural Science Foundation of Guangdong Province (广东省面上项目), No.2024A1515011771, 2024.01-2026.12, PI.
-* NSFC General Programme (国自然面上项目), No.62376236, 2024.01-2027.12, PI.
+* NSFC Youth Fund Programme (国自然青年项目), 2022.01-2024.12, PI.
+* General Program of Natural Science Foundation of Guangdong Province (广东省面上项目), 2024.01-2026.12, PI.
+* NSFC General Programme (国自然面上项目), 2024.01-2027.12, PI.
 
-Patent
-======
-* ZL 202310513059.X 模型训练方法、聚类方法、设备及介质 Model training method, key method, equipment and media. 
-* ZL 202211733988.3 联邦谱聚类方法、装置及电子设备 Federated spectral clustering method, device and electronic equipment.
   
 Academia Services
 ======
@@ -95,8 +91,7 @@ Academia Services
 * Associate Editor of Neural Processing Letters
 * Senior Member of IEEE
 * Conference PC Member: COLT, AISTATS, NeurIPS, ICLR, ICML, CVPR, AAAI, KDD, IJCAI
-* Journal Reviewer: IEEE TNNLS/TCYB/TIE/TII/TSP/TIP/TPAMI/TKDE, Pattern Recognition, Signal Processing, SIAM Journal on Mathematics of Data Science, Mathematical Programming, Journal of Scientific Computing.
-
+* Journal Reviewer: IEEE TNNLS/TII/TSP/TIP/TPAMI/TKDE, Pattern Recognition, SIAM Journal on Mathematics of Data Science, Mathematical Programming, Journal of Scientific Computing, etc.
 
 
 Honors and Awards
