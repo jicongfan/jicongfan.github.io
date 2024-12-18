@@ -44,7 +44,7 @@ See the examples on the "Research" page.
 Selected Publications <font size=3>(* indicates corresponding author)</font>
 ======
 
-* Liangqi Xie, <strong>Jicong Fan</strong>*. Multi-Subspace Matrix Recovery from Permuted Data. Accepted by <font color=DarkBlue>AAAI 2025</font>.
+* Liangqi Xie, <strong>Jicong Fan</strong>*. Multi-Subspace Matrix Recovery from Permuted Data. Accepted by <font color=DarkBlue>AAAI 2025</font>. <a href="https://arxiv.org/pdf/2412.12931">[PDF]</a>
 * Tongle Wu, Ying Sun\*, <strong>Jicong Fan</strong>\*. Non-Convex Tensor Recovery from Local Measurements. Accepted by <font color=DarkBlue>AAAI 2025</font>.
 * Dong Qiao, Xinxian Ma, <strong>Jicong Fan</strong>*. Federated t-SNE and UMAP for Distributed Data Visualization. Accepted by <font color=DarkBlue>AAAI 2025</font>. 
 * Wei Dai, Kai Hwang, <strong>Jicong Fan</strong>*. Unsupervised Anomaly Detection for Tabular Data Using Noise Evaluation. Accepted by <font color=DarkBlue>AAAI 2025</font>. <a href="https://arxiv.org/pdf/2412.11461">[PDF]</a>
