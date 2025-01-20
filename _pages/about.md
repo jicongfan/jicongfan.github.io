@@ -73,8 +73,7 @@ Selected Publications <font size=3>(* indicates corresponding author)</font>
 * <strong>Jicong Fan</strong>, Lijun Ding, Yudong Chen, Madeleine Udell. Factor group sparse regularization for efficient low-rank matrix recovery. <font color=DarkBlue>NeurIPS 2019</font>. (acceptance rate=21.1%) <a href="https://proceedings.neurips.cc/paper/2019/file/0fc170ecbb8ff1afb2c6de48ea5343e7-Paper.pdf">[PDF]</a>
 * <strong>Jicong Fan</strong>, Madeleine Udell. Online high-rank matrix completion. <font color=DarkBlue>CVPR 2019</font> <font color=blue>(Oral, acceptance rate=5.6%)</font>. <a href="https://openaccess.thecvf.com/content_CVPR_2019/papers/Fan_Online_High_Rank_Matrix_Completion_CVPR_2019_paper.pdf">[PDF]</a>
 * <strong>Jicong Fan</strong>, Tommy W.S. Chow. Exactly robust kernel principal component analysis. <font color=DarkBlue>IEEE TNNLS 2020</font>. <a href="https://ieeexplore.ieee.org/abstract/document/8701558">[PDF]</a>
-* <strong>Jicong Fan</strong>*, Jieyu Cheng. Matrix completion by deep matrix factorization. <font color=DarkBlue>Neural Networks 2018</font>. <a href="https://www.sciencedirect.com/science/article/pii/S0925231217309621">[PDF]</a>
-* <strong>Jicong Fan</strong>, Tommy W.S. Chow. Matrix completion by least-square, low-rank, and sparse self-representations. <font color=DarkBlue>Pattern Recognition 2017.</font> <a href="https://www.sciencedirect.com/science/article/pii/S0031320317302030">[PDF]</a>
+
   
 Research Funds
 ======
