@@ -43,7 +43,7 @@ See the examples on the "Research" page.
 
 Selected Publications <font size=3>(* indicates corresponding author)</font>
 ======
-
+* Wei Dai, <strong>Jicong Fan</strong>*. AutoUAD: Hyper-parameter Optimization for Unsupervised Anomaly Detection. Accepted by <font color=DarkBlue>ICLR 2025</font>. <a href="https://openreview.net/pdf?id=ErQPdaD5wJ">[PDF]</a>
 * Liangqi Xie, <strong>Jicong Fan</strong>*. Multi-Subspace Matrix Recovery from Permuted Data. Accepted by <font color=DarkBlue>AAAI 2025</font>. <a href="https://arxiv.org/pdf/2412.12931">[PDF]</a>
 * Tongle Wu, Ying Sun\*, <strong>Jicong Fan</strong>\*. Non-Convex Tensor Recovery from Local Measurements. Accepted by <font color=DarkBlue>AAAI 2025</font>. <a href="https://arxiv.org/pdf/2412.17281">[PDF]</a>
 * Dong Qiao, Xinxian Ma, <strong>Jicong Fan</strong>*. Federated t-SNE and UMAP for Distributed Data Visualization. Accepted by <font color=DarkBlue>AAAI 2025</font>. <a href="https://arxiv.org/pdf/2412.13495">[PDF]</a>
