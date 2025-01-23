@@ -35,6 +35,6 @@ author_profile: true
 	- Zhenhao Jiang 2023 (1 ICDM)
 	- Yunhe Zhang 2022-2024 (1 IJCAI, 1 ICLR spotlight)
 	- Yangyang Qu 2023-2024 
-	- Wei Dai 2022-2024 (1 TNNLS, 1 AAAI) 
+	- Wei Dai 2022-2024 (1 TNNLS, 1 AAAI, 1 ICLR) 
    
  The publications listed above contain only the (co-) first-authored papers during the study or visit at CUHK-Shenzhen.
