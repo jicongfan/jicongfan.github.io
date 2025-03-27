@@ -4,33 +4,37 @@ title: "Publications"
 author_profile: true
 ---
 
-<!-- <strong>Preprint</strong>
+<strong>Preprint</strong>
 
+1. Zixiao Wang, Dong Qiao, <strong>Jicong Fan</strong>*. Spectral Clustering for Discrete Distributions. arxiv 2024 <a href="https://arxiv.org/pdf/2401.13913">[PDF]</a>
 
-1. Zixiao Wang, Dong Qiao, <strong>Jicong Fan</strong>*. Spectral Clustering for Discrete Distributions. <a href="https://arxiv.org/pdf/2401.13913">[PDF]</a>
+1. Dong Qiao, <strong>Jicong Fan</strong>*. Mutual Regressin Distance. arxiv 2025 <a href="https://arxiv.org/abs/2501.10617">[PDF]</a>
+
+1. Jinyu Cai, Yunhe Zhang, <strong>Jicong Fan</strong>*. Self-discriminative modeling for anomalous graph detection. arxiv 2023 <a href="https://arxiv.org/pdf/2310.06261">[PDF]</a>
 
 <strong>Published or accepted papers</strong>
--->
 
-1. Tongle Wu, Ying Sun\*, <strong>Jicong Fan</strong>\*. Non-Convex Tensor Recovery from Local Measurements. Accepted by AAAI 2025.
+1. Wei Dai, <strong>Jicong Fan</strong>*. AutoUAD: Hyper-parameter Optimization for Unsupervised Anomaly Detection. <font color=DarkBlue>ICLR 2025</font>. <a href="https://openreview.net/pdf?id=ErQPdaD5wJ">[PDF]</a>
 
-1. Liangqi Xie, <strong>Jicong Fan</strong>*. Multi-Subspace Matrix Recovery from Permuted Data. Accepted by AAAI 2025.
+1. Tongle Wu, Ying Sun\*, <strong>Jicong Fan</strong>\*. Non-Convex Tensor Recovery from Local Measurements. AAAI 2025.
+
+1. Liangqi Xie, <strong>Jicong Fan</strong>*. Multi-Subspace Matrix Recovery from Permuted Data. AAAI 2025.
    
-1. Dong Qiao(co-first author), Xinxian Ma(co-first author), <strong>Jicong Fan</strong>*. Federated t-SNE and UMAP for Distributed Data Visualization. Accepted by AAAI 2025.
+1. Dong Qiao(co-first author), Xinxian Ma(co-first author), <strong>Jicong Fan</strong>*. Federated t-SNE and UMAP for Distributed Data Visualization. AAAI 2025.
 
-1. Wei Dai, Kai Hwang, <strong>Jicong Fan</strong>*. Unsupervised Anomaly Detection for Tabular Data Using Noise Evaluation. Accepted by AAAI 2025. 
+1. Wei Dai, Kai Hwang, <strong>Jicong Fan</strong>*. Unsupervised Anomaly Detection for Tabular Data Using Noise Evaluation. AAAI 2025. 
 
-1. Tongle Wu, <strong>Jicong Fan</strong>*. Smooth Tensor Product for Tensor Completion. Accepted by IEEE Transactions on Image Processing, 2024.
+1. Tongle Wu, <strong>Jicong Fan</strong>*. Smooth Tensor Product for Tensor Completion. IEEE Transactions on Image Processing, 2024.
 
-1. Xinyang Wang, Hongyu Chen, Jiayu Zhang, <strong>Jicong Fan</strong>*. Generative Adversarial Learning for Missing Data Imputation. Accepted by Neural Computing and Applications, 2024.
+1. Xinyang Wang, Hongyu Chen, Jiayu Zhang, <strong>Jicong Fan</strong>*. Generative Adversarial Learning for Missing Data Imputation. Neural Computing and Applications, 2024.
 
-1. Zixiao Wang, <strong>Jicong Fan</strong>*. Graph Classification via Reference Distribution Learning: Theory and Practice. Accepted by NeurIPS 2024. 
+1. Zixiao Wang, <strong>Jicong Fan</strong>*. Graph Classification via Reference Distribution Learning: Theory and Practice. NeurIPS 2024. 
 
-1. Feng Xiao, <strong>Jicong Fan</strong>*. Unsupervised Anomaly Detection in The Presence of Missing Values. Accepted by NeurIPS 2024.
+1. Feng Xiao, <strong>Jicong Fan</strong>*. Unsupervised Anomaly Detection in The Presence of Missing Values. NeurIPS 2024.
 
-1. Zhenhao Jiang, <strong>Jicong Fan</strong>*. DifFaiRec: Generative Fair Recommender with Conditional Diffusion Mode. Accepted by ICDM 2024.
+1. Zhenhao Jiang, <strong>Jicong Fan</strong>*. DifFaiRec: Generative Fair Recommender with Conditional Diffusion Mode. ICDM 2024.
 
-1. Feng Xiao, Jianfeng Zhou, Kunpeng Han, Haoyuan Hu, <strong>Jicong Fan</strong>*. Unsupervised Anomaly Detection Using Inverse Generative Adversarial Network. Accepted by Information Sciences, 2024.
+1. Feng Xiao, Jianfeng Zhou, Kunpeng Han, Haoyuan Hu, <strong>Jicong Fan</strong>*. Unsupervised Anomaly Detection Using Inverse Generative Adversarial Network. Information Sciences, 2024.
 
 1. Ziheng Sun, Xudong Wang, Chris Ding, <strong>Jicong Fan</strong>*. Learning Graph Representation via Graph Entropy Maximization. ICML 2024.
   
@@ -50,7 +54,7 @@ author_profile: true
 
 1. Lei Zhao, Jiao Liu, Wenhui Zhao, Jie Chen, <strong>Jicong Fan</strong>, Tian Ge, Yiheng Tu. Morphological and genetic decoding shows heterogeneous patterns of brain aging in chronic musculoskeletal pain. Nature Mental Health. 2024.
 
-1. Shuqing He, <strong>Jicong Fan</strong>\*, Tianwei Yu\*. G3DC: a Gene-Graph-Guided selective Deep Clustering method for single-cell RNA-seq data. Accepted by Big Data Mining and Analytics. 2024. 10.26599/BDMA.2024.9020011
+1. Shuqing He, <strong>Jicong Fan</strong>\*, Tianwei Yu\*. G3DC: a Gene-Graph-Guided selective Deep Clustering method for single-cell RNA-seq data. Big Data Mining and Analytics. 2024. 10.26599/BDMA.2024.9020011
 
 1. Dazhi Fu, Zhao Zhang, <strong>Jicong Fan</strong>*. Dense projection for Anomaly Detection. AAAI 2024.
 
@@ -63,7 +67,7 @@ author_profile: true
 1. Fangchen Yu, Runze Zhao, Zhan Shi, Yiwen Lu, <strong>Jicong Fan</strong>, Yicheng Zeng, Jianfeng Mao, Wenye Li.	
 Boosting Spectral Clustering on Incomplete Data via Kernel Correction and Affinity Learning. NeurIPS 2023.
 
-1. Wei Dai, <strong>Jicong Fan</strong>, Yiming Miao, Kai Hwang. Deep Learning Model Compression with Rank Reduction in Tensor Decomposition. Accepeted by IEEE TNNLS, 2023.
+1. Wei Dai, <strong>Jicong Fan</strong>, Yiming Miao, Kai Hwang. Deep Learning Model Compression with Rank Reduction in Tensor Decomposition. IEEE TNNLS, 2023.
 
 1. <strong>Jicong Fan</strong>, Lijun Ding, Chengrun Yang, Zhao Zhang, Madeleine Udell. Euclidean-Norm-Induced Schatten-p Quasi-Norm Regularization for Low-Rank Tensor Completion and Tensor Robust Principal Component Analysis. Transactions on Machine Learning Research. January 2023.
 
@@ -81,7 +85,7 @@ Boosting Spectral Clustering on Incomplete Data via Kernel Correction and Affini
    
 1. Yu Liu, Mingbo Zhao, Zhao Zhang, <strong>Jicong Fan</strong>, Yang Lou, Shuicheng Yan. Arbitrary Virtual Try-on Network: Characteristics Representation and Trade-off between Body and Clothing. ICLR 2023.
 
-1. Tongle Wu, Bin Gao, <strong>Jicong Fan</strong>, Jize Xue, and W. L. Woo. Low-Rank Tensor Completion Based on Self-Adaptive Learnable Transforms. 2022. Accepted by IEEE TNNLS.
+1. Tongle Wu, Bin Gao, <strong>Jicong Fan</strong>, Jize Xue, and W. L. Woo. Low-Rank Tensor Completion Based on Self-Adaptive Learnable Transforms. IEEE TNNLS 2022.
 
 1. <strong>Jicong Fan</strong>. Multi-Mode Deep Matrix and Tensor Factorization. ICLR 2022.
 	
@@ -98,8 +102,7 @@ Boosting Spectral Clustering on Incomplete Data via Kernel Correction and Affini
 1. Wang Bo, Zhang Zhao, <strong>Jicong Fan</strong>, Mingbo Zhao, and Mingliang Xu. FineFormer: Fine-Grained Adaptive Object Transformer for Image Captioning. ICDM 2022.
 	
 1. Yanyan Wei, Zhao Zhang\*, Mingliang Xu, Richang Hong, <strong>Jicong Fan</strong>\*, Shuicheng Yan. Robust Attention Deraining Network for Synchronous Rain Streaks and Raindrops Removal. ACM Multimedia 2022.
-	
-1. Shanchuan Gao, Fankai Zeng, Lu Cheng, <strong>Jicong Fan</strong>, Mingbo Zhao. Fashion Image Search via Anchor-Free Detector. In Proceedings of the 2022 International Conference on Multimedia Retrieval (ICMR’22). 
+
 
 1. Jinyu Cai, <strong>Jicong Fan</strong>*, Wenzhong Guo, Shiping Wang, Yunhe Zhang, Zhao Zhang.  Efficient Deep Embedded Subspace Clustering. CVPR 2022.
 
