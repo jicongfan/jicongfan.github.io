@@ -16,14 +16,17 @@ author_profile: true
    * Graph neural networks
    * Nonlinear dimensionality reduction and data visualization
    * Generative models (VAE, GAN, diffusion model)
+   * Foundation models
    * Causal machine learning
    * Privacy in machine learning
    * Fairness in machine learning
    * Interpretability in machine learning
-   * Course project presentation and review 
-    
+   * Course project presentation
+
+<!--
 #### Slides
 <a href="https://github.com/jicongfan/DDA4210-Advanced-Machine-Learning">PDF</a>
+-->
 
 ## DDA3020 Machine Learning
 #### Syllabus
