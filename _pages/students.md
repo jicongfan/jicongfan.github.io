@@ -6,7 +6,7 @@ author_profile: true
 
 
 - PhD students
-	- Ziheng Sun (BEng from Zhejiang University) 2020 Autumn (1 NeurIPS, 1 ICML)
+	- Ziheng Sun (BEng from Zhejiang University) 2020 Autumn (1 NeurIPS, 1 ICML， 1 IJCAI)
 	- Dong Qiao (MSc from Central South University) 2021 Autumn (1 NeurIPS, 1 AAAI)
 	- Zhiyu Chen (MSc from NUS) 2024 Spring
 	- Feng Xiao (MEng from Jilin University) 2024 Spring (1 NeurIPS, 1 Information Sciences)
