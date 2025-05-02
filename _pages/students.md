@@ -6,7 +6,7 @@ author_profile: true
 
 
 - PhD students
-	- Ziheng Sun (BEng from Zhejiang University) 2020 Autumn (1 NeurIPS, 1 ICML， 1 IJCAI)
+	- Ziheng Sun (BEng from Zhejiang University) 2020 Autumn (1 NeurIPS, 1 ICML, 1 IJCAI)
 	- Dong Qiao (MSc from Central South University) 2021 Autumn (1 NeurIPS, 1 AAAI)
 	- Zhiyu Chen (MSc from NUS) 2024 Spring
 	- Feng Xiao (MEng from Jilin University) 2024 Spring (1 NeurIPS, 1 Information Sciences)
@@ -23,9 +23,8 @@ author_profile: true
 	- Yan Sun (NUS) 2023 (1 TKDD, 1 ICLR spotlight)
 	- Yi Han (CMU) 2023
 	- Haokun Zhao (UCSD) 2024
-        - Zixiao Wang (1 NeurIPS)
 	- Xinxian Ma (1 AAAI)
-   
+	- Zixiao Wang (1 NeurIPS)   
 - Former research assistants or visiting students
 	- Jinyu Cai 2022 (1 CVPR, 1 NeurIPS)
 	- Jiajun Yu 2023 (1 IJCAI) 
