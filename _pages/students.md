@@ -23,7 +23,7 @@ author_profile: true
 	- Yan Sun (NUS) 2023 (1 TKDD, 1 ICLR spotlight)
 	- Yi Han (CMU) 2023
 	- Haokun Zhao (UCSD) 2024
- 	- Zixiao Wang (1 NeurIPS)
+        - Zixiao Wang (1 NeurIPS)
 	- Xinxian Ma (1 AAAI)
    
 - Former research assistants or visiting students
