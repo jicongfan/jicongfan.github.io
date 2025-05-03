@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-樊老师现为香港中文大学(深圳)数据科学学院助理教授。他于2018年在香港城市大学电子工程系获得博士学位，并分别于2013年和2010年在北京化工大学获得控制科学与工程硕士学位和自动化学士学位。在加入香港中文大学（深圳）之前，他是康奈尔大学的博士后。他还曾在美国威斯康星大学麦迪逊分校和香港大学担任研究职位。他的研究方向是人工智能和机器学习，他在矩阵/张量方法、聚类算法、图学习、异常检测和推荐系统等方面做了大量研究工作。他的研究成果发表在多个知名学术期刊和国际会议上，如IEEE TSP/TNNLS/TII、KDD、NeurIPS、CVPR、ICLR、ICML、AAAI。 他是IEEE高级会员，目前担任国际期刊《Pattern Recognition》（中科院一区）和《Neural Processing Letters》的副编辑，担任国际人工智能/机器学习会议ICML和NeurIPS领域主席、IJCAI高级程序委员会成员，主持国家自然科学基金青年项目、面上项目、广东省面上项目，获得2023年中国自动化学会自然科学奖一等奖，入选斯坦福大学/爱思唯尔2023、2024年“全球Top 2% 科学家”榜单。
+樊老师现为香港中文大学(深圳)数据科学学院助理教授。在此之前，他是康奈尔大学的博士后(advisor:Madeleine Udell)。他在香港城市大学电子工程系取得博士学位(导师:Tommy W.S. Chow)，在北京化工大学获得控制科学与工程硕士学位(导师:王友清)和自动化学士学位。他曾是美国威斯康星大学麦迪逊分校访问学生和香港大学研究助理。他的研究方向是人工智能和机器学习，他在矩阵/张量方法、聚类算法、图学习、异常检测和推荐系统等方面做了大量研究工作。他的研究成果发表在多个知名学术期刊和国际会议上，如IEEE TSP/TNNLS/TII、KDD、NeurIPS、CVPR、ICLR、ICML、AAAI。 他是IEEE高级会员，目前担任国际期刊《Pattern Recognition》（中科院一区）和《Neural Processing Letters》的副编辑，担任国际人工智能/机器学习会议ICML和NeurIPS领域主席、IJCAI高级程序委员会成员，主持国家自然科学基金青年项目、面上项目、广东省面上项目，获得2023年中国自动化学会自然科学奖一等奖，入选斯坦福大学/爱思唯尔2023、2024年“全球Top 2% 科学家”榜单。
 
 樊老师目前招收博士生、博士后、研究助理，感兴趣的同学请发送简历及研究计划(如有)到邮箱。一些要求如下：
 * <strong>博士生</strong> 为人诚实守信，工作认真负责，优先考虑满足以下任一条件的同学（本科或硕士）：1)本科毕业于985高校且成绩专业排名不低于前百分之二十；2)本科成绩专业排名前百分之五；3)以第一作者身份发表过CCFA/B类论文或者电子工程/自动化等领域同等水平论文（如果是硕士毕业，该条件必须满足)。本课题组为所有博士生提供全额奖学金和生活补贴。
@@ -19,7 +19,7 @@ redirect_from:
 
 ---
 
-I am an Assistant Professor at the School of Data Science, The Chinese University of Hong Kong, Shenzhen. I was a Postdoctoral Associate (advisor: Madeleine Udell) at the School of Operations Research and Information Engineering, Cornell University, Ithaca, USA. I completed my PhD at City University of Hong Kong in Electronic Engineering, 2018, under the supervision of Prof. Tommy W.S. Chow. During my PhD, I was a visiting scholar at the Department of Electrical and Computer Engineering, University of Wisconsin-Madison, USA. I was a Research Assistant at The University of Hong Kong from 2013 to 2015. I obtained my Bachelor (Automation) and Master (Control Science and Engineering, supervisor: Youqing Wang) degrees from Beijing University of Chemical Technology in 2010 and 2013 respectively.
+I am an Assistant Professor at the School of Data Science, The Chinese University of Hong Kong, Shenzhen. Before joining CUHK-Shenzhen, I was a Postdoctoral Associate (advisor: Madeleine Udell) at the School of Operations Research and Information Engineering, Cornell University, Ithaca, USA. I completed my PhD at City University of Hong Kong in Electronic Engineering under the supervision of Prof. Tommy W.S. Chow. During my PhD, I was a visiting scholar at the Department of Electrical and Computer Engineering, University of Wisconsin-Madison, USA. I obtained my Bachelor (Automation) and Master (Control Science and Engineering, supervisor: Youqing Wang) degrees from Beijing University of Chemical Technology. After that, I was a Research Assistant at The University of Hong Kong. 
 
 I am looking for PhD students, Postdocs, and Research Assistants. If you are interested in these positions, please send me your CV/resume. For PhD or Postdoc, please also send me your research plan.
 
@@ -44,14 +44,14 @@ See the examples on the "Research" page.
 Selected Publications <font size=3>(* indicates corresponding author)</font>
 ======
 * Jinyu Cai, Yunhe Zhang, <strong>Jicong Fan</strong>*. Self-Discriminative Modeling for Anomalous Graph Detection. Accepted by <font color=DarkBlue>ICML 2025</font>.
-* <strong>Jicong Fan</strong>*. Graph Minimum Factor Distance and Its Application to Large-Scale Graph Data Clustering. Accepted by <font color=DarkBlue>ICML 2025</font>.
+* <strong>Jicong Fan</strong>. Graph Minimum Factor Distance and Its Application to Large-Scale Graph Data Clustering. Accepted by <font color=DarkBlue>ICML 2025</font>.
 * Xudong Wang, Ziheng Sun, Chris Ding, <strong>Jicong Fan</strong>*. Explainable Graph Representation Learning via Graph Pattern Analysis. Accepted by <font color=DarkBlue>IJCAI 2025</font>.
-* Wei Dai, <strong>Jicong Fan</strong>*. AutoUAD: Hyper-parameter Optimization for Unsupervised Anomaly Detection. Accepted by <font color=DarkBlue>ICLR 2025</font>. <a href="https://openreview.net/pdf?id=ErQPdaD5wJ">[PDF]</a>
-* Liangqi Xie, <strong>Jicong Fan</strong>*. Multi-Subspace Matrix Recovery from Permuted Data. Accepted by <font color=DarkBlue>AAAI 2025</font>. <a href="https://arxiv.org/pdf/2412.12931">[PDF]</a>
-* Tongle Wu, Ying Sun\*, <strong>Jicong Fan</strong>\*. Non-Convex Tensor Recovery from Local Measurements. Accepted by <font color=DarkBlue>AAAI 2025</font>. <a href="https://arxiv.org/pdf/2412.17281">[PDF]</a>
-* Dong Qiao, Xinxian Ma, <strong>Jicong Fan</strong>*. Federated t-SNE and UMAP for Distributed Data Visualization. Accepted by <font color=DarkBlue>AAAI 2025</font>. <a href="https://arxiv.org/pdf/2412.13495">[PDF]</a>
-* Wei Dai, Kai Hwang, <strong>Jicong Fan</strong>*. Unsupervised Anomaly Detection for Tabular Data Using Noise Evaluation. Accepted by <font color=DarkBlue>AAAI 2025</font>. <a href="https://arxiv.org/pdf/2412.11461">[PDF]</a>
-* Tongle Wu, <strong>Jicong Fan</strong>*. Smooth Tensor Product for Tensor Completion. Accepted by <font color=DarkBlue>IEEE Transactions on Image Processing</font>, 2024. <a href="https://ieeexplore.ieee.org/document/10750255">[PDF]</a>
+* Wei Dai, <strong>Jicong Fan</strong>*. AutoUAD: Hyper-parameter Optimization for Unsupervised Anomaly Detection. <font color=DarkBlue>ICLR 2025</font>. <a href="https://openreview.net/pdf?id=ErQPdaD5wJ">[PDF]</a>
+* Liangqi Xie, <strong>Jicong Fan</strong>*. Multi-Subspace Matrix Recovery from Permuted Data. <font color=DarkBlue>AAAI 2025</font>. <a href="https://arxiv.org/pdf/2412.12931">[PDF]</a>
+* Tongle Wu, Ying Sun\*, <strong>Jicong Fan</strong>\*. Non-Convex Tensor Recovery from Local Measurements. <font color=DarkBlue>AAAI 2025</font>. <a href="https://arxiv.org/pdf/2412.17281">[PDF]</a>
+* Dong Qiao, Xinxian Ma, <strong>Jicong Fan</strong>*. Federated t-SNE and UMAP for Distributed Data Visualization. <font color=DarkBlue>AAAI 2025</font>. <a href="https://arxiv.org/pdf/2412.13495">[PDF]</a>
+* Wei Dai, Kai Hwang, <strong>Jicong Fan</strong>*. Unsupervised Anomaly Detection for Tabular Data Using Noise Evaluation. <font color=DarkBlue>AAAI 2025</font>. <a href="https://arxiv.org/pdf/2412.11461">[PDF]</a>
+* Tongle Wu, <strong>Jicong Fan</strong>*. Smooth Tensor Product for Tensor Completion. <font color=DarkBlue>IEEE Transactions on Image Processing</font>, 2024. <a href="https://ieeexplore.ieee.org/document/10750255">[PDF]</a>
 * Zixiao Wang, <strong>Jicong Fan</strong>*. Graph Classification via Reference Distribution Learning: Theory and Practice. <font color=DarkBlue>NeurIPS 2024</font>. <a href="https://arxiv.org/pdf/2408.11370">[PDF]</a>
 * Feng Xiao, <strong>Jicong Fan</strong>*. Unsupervised Anomaly Detection in The Presence of Missing Values. <font color=DarkBlue>NeurIPS 2024</font>. <a href="https://openreview.net/pdf?id=AoEeBqP8AD">[PDF]</a>
 * Ziheng Sun, Xudong Wang, Chris Ding, <strong>Jicong Fan</strong>*. Learning Graph Representation via Graph Entropy Maximization. <font color=DarkBlue>ICML 2024</font>. <a href="https://openreview.net/pdf?id=xwOENWCo46">[PDF]</a>
@@ -92,6 +92,7 @@ Academia Services
 
 * Associate Editor of Pattern Recognition
 * Associate Editor of Neural Processing Letters
+* Area Chair of ICML and NeurIPS
 * Senior Member of IEEE
 * Conference PC Member: COLT, AISTATS, NeurIPS, ICLR, ICML, CVPR, AAAI, KDD, IJCAI
 * Journal Reviewer: IEEE TNNLS/TII/TSP/TIP/TPAMI/TKDE, Pattern Recognition, SIAM Journal on Mathematics of Data Science, Mathematical Programming, Journal of Scientific Computing, etc.
