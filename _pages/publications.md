@@ -10,9 +10,15 @@ author_profile: true
 
 1. Dong Qiao, <strong>Jicong Fan</strong>*. Mutual Regressin Distance. arxiv 2025 <a href="https://arxiv.org/abs/2501.10617">[PDF]</a>
 
-1. Jinyu Cai, Yunhe Zhang, <strong>Jicong Fan</strong>*. Self-discriminative modeling for anomalous graph detection. arxiv 2023 <a href="https://arxiv.org/pdf/2310.06261">[PDF]</a>
-
 <strong>Published or accepted papers</strong>
+
+1. Feng Xiao, Youqing Wang, S Joe Qin, <strong>Jicong Fan</strong>*. Semi-Supervised Anomaly Detection Using Restricted Distribution Transformation. IEEE TNNLS, 2025
+   
+1. Jinyu Cai, Yunhe Zhang, <strong>Jicong Fan</strong>*. Self-Discriminative Modeling for Anomalous Graph Detection. ICML 2025.
+   
+1. <strong>Jicong Fan</strong>. Graph Minimum Factor Distance and Its Application to Large-Scale Graph Data Clustering. ICML 2025.
+   
+1. Xudong Wang, Ziheng Sun, Chris Ding, <strong>Jicong Fan</strong>*. Explainable Graph Representation Learning via Graph Pattern Analysis. IJCAI 2025.
 
 1. Wei Dai, <strong>Jicong Fan</strong>*. AutoUAD: Hyper-parameter Optimization for Unsupervised Anomaly Detection. <font color=DarkBlue>ICLR 2025</font>. <a href="https://openreview.net/pdf?id=ErQPdaD5wJ">[PDF]</a>
 
