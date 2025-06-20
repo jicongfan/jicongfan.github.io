@@ -43,6 +43,7 @@ See the examples on the "Research" page.
 
 Selected Publications <font size=3>(* indicates corresponding author)</font>
 ======
+* Feng Xiao, Youqing Wang, S Joe Qin, <strong>Jicong Fan</strong>*. Semi-Supervised Anomaly Detection Using Restricted Distribution Transformation. Accepted by <font color=DarkBlue>IEEE TNNLS 2025</font>.
 * Jinyu Cai, Yunhe Zhang, <strong>Jicong Fan</strong>*. Self-Discriminative Modeling for Anomalous Graph Detection. Accepted by <font color=DarkBlue>ICML 2025</font>.
 * <strong>Jicong Fan</strong>. Graph Minimum Factor Distance and Its Application to Large-Scale Graph Data Clustering. Accepted by <font color=DarkBlue>ICML 2025</font>.
 * Xudong Wang, Ziheng Sun, Chris Ding, <strong>Jicong Fan</strong>*. Explainable Graph Representation Learning via Graph Pattern Analysis. Accepted by <font color=DarkBlue>IJCAI 2025</font>.
