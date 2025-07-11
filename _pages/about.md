@@ -43,10 +43,10 @@ See the examples on the "Research" page.
 
 Selected Publications <font size=3>(* indicates corresponding author)</font>
 ======
-* Feng Xiao, Youqing Wang, S Joe Qin, <strong>Jicong Fan</strong>*. Semi-Supervised Anomaly Detection Using Restricted Distribution Transformation. Accepted by <font color=DarkBlue>IEEE TNNLS 2025</font>.
-* Jinyu Cai, Yunhe Zhang, <strong>Jicong Fan</strong>*. Self-Discriminative Modeling for Anomalous Graph Detection. Accepted by <font color=DarkBlue>ICML 2025</font>.
-* <strong>Jicong Fan</strong>. Graph Minimum Factor Distance and Its Application to Large-Scale Graph Data Clustering. Accepted by <font color=DarkBlue>ICML 2025</font>.
-* Xudong Wang, Ziheng Sun, Chris Ding, <strong>Jicong Fan</strong>*. Explainable Graph Representation Learning via Graph Pattern Analysis. Accepted by <font color=DarkBlue>IJCAI 2025</font>.
+* Feng Xiao, Youqing Wang, S Joe Qin, <strong>Jicong Fan</strong>*. Semi-Supervised Anomaly Detection Using Restricted Distribution Transformation. <font color=DarkBlue>IEEE TNNLS 2025</font>. <a href="https://ieeexplore.ieee.org/document/11071974">[PDF]</a>
+* Jinyu Cai, Yunhe Zhang, <strong>Jicong Fan</strong>*. Self-Discriminative Modeling for Anomalous Graph Detection. <font color=DarkBlue>ICML 2025</font>. <a href="https://arxiv.org/pdf/2310.06261">[PDF]</a>
+* <strong>Jicong Fan</strong>. Graph Minimum Factor Distance and Its Application to Large-Scale Graph Data Clustering. <font color=DarkBlue>ICML 2025</font>.
+* Xudong Wang, Ziheng Sun, Chris Ding, <strong>Jicong Fan</strong>*. Explainable Graph Representation Learning via Graph Pattern Analysis. <font color=DarkBlue>IJCAI 2025</font>.
 * Wei Dai, <strong>Jicong Fan</strong>*. AutoUAD: Hyper-parameter Optimization for Unsupervised Anomaly Detection. <font color=DarkBlue>ICLR 2025</font>. <a href="https://openreview.net/pdf?id=ErQPdaD5wJ">[PDF]</a>
 * Liangqi Xie, <strong>Jicong Fan</strong>*. Multi-Subspace Matrix Recovery from Permuted Data. <font color=DarkBlue>AAAI 2025</font>. <a href="https://arxiv.org/pdf/2412.12931">[PDF]</a>
 * Tongle Wu, Ying Sun\*, <strong>Jicong Fan</strong>\*. Non-Convex Tensor Recovery from Local Measurements. <font color=DarkBlue>AAAI 2025</font>. <a href="https://arxiv.org/pdf/2412.17281">[PDF]</a>
