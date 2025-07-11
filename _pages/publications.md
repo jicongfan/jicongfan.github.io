@@ -10,6 +10,8 @@ author_profile: true
 
 1. Dong Qiao, <strong>Jicong Fan</strong>*. Mutual Regressin Distance. arxiv 2025 <a href="https://arxiv.org/abs/2501.10617">[PDF]</a>
 
+1. Dazhi Fu, <strong>Jicong Fan</strong>*. UniOD: A Universal Model for Outlier Detection across Diverse Domains. arxiv 2025 <a href="https://arxiv.org/pdf/2507.06624">[PDF]</a>
+
 <strong>Published or accepted papers</strong>
 
 1. Feng Xiao, Youqing Wang, S Joe Qin, <strong>Jicong Fan</strong>*. Semi-Supervised Anomaly Detection Using Restricted Distribution Transformation. IEEE TNNLS, 2025
