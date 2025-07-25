@@ -20,7 +20,7 @@ author_profile: true
    
 1. Jinyu Cai, Yunhe Zhang, <strong>Jicong Fan</strong>*. Self-Discriminative Modeling for Anomalous Graph Detection. ICML 2025.
    
-1. <strong>Jicong Fan</strong>. Graph Minimum Factor Distance and Its Application to Large-Scale Graph Data Clustering. ICML 2025.
+1. <strong>Jicong Fan</strong>. Graph Minimum Factorization Distance and Its Application to Large-Scale Graph Data Clustering. ICML 2025.
    
 1. Xudong Wang, Ziheng Sun, Chris Ding, <strong>Jicong Fan</strong>*. Explainable Graph Representation Learning via Graph Pattern Analysis. IJCAI 2025.
 
