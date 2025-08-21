@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-樊老师现为香港中文大学(深圳)数据科学学院助理教授、博士生导师、校长青年学者。在此之前，他是康奈尔大学的博士后(advisor:Madeleine Udell)。他在香港城市大学电子工程系取得博士学位(导师:Tommy W.S. Chow)，在北京化工大学获得控制科学与工程硕士学位(导师:王友清)和自动化学士学位。他曾是美国威斯康星大学麦迪逊分校访问学生和香港大学研究助理。他的研究方向是人工智能和机器学习，他在矩阵/张量方法、聚类算法、图学习、异常检测和推荐系统等方面做了大量研究工作。他的研究成果发表在多个知名学术期刊和国际会议上，如IEEE TSP/TNNLS/TII、KDD、NeurIPS、CVPR、ICLR、ICML、AAAI。 他是IEEE高级会员，目前担任国际期刊《Pattern Recognition》（中科院一区）和《Neural Processing Letters》的副编辑，担任国际人工智能/机器学习会议ICML和NeurIPS领域主席、IJCAI高级程序委员会成员，主持国家自然科学基金青年项目、面上项目、广东省面上项目，获得2023年中国自动化学会自然科学奖一等奖，入选斯坦福大学/爱思唯尔2023、2024年“全球Top 2% 科学家”榜单。
+樊老师现为香港中文大学(深圳)数据科学学院助理教授、博士生导师、校长青年学者。在此之前，他是康奈尔大学的博士后(advisor:Madeleine Udell)。他在香港城市大学电子工程系取得博士学位(导师:Tommy W.S. Chow)，在北京化工大学获得控制科学与工程硕士学位(导师:王友清)和自动化学士学位。他曾是美国威斯康星大学麦迪逊分校访问学生和香港大学研究助理。他的研究方向是人工智能和机器学习，他在矩阵/张量方法、聚类算法、图学习、异常检测和推荐系统等方面做了大量研究工作，在知名学术期刊和国际会议上，如IEEE TSP/TNNLS/TII、NeurIPS、ICLR、ICML、CVPR、KDD、AAAI，发表论文50余篇。 他是IEEE高级会员，目前担任国际期刊《Pattern Recognition》（中科院一区）和《Neural Processing Letters》的副编辑，担任国际人工智能/机器学习会议ICML、NeurIPS和ICLR领域主席、IJCAI高级程序委员会成员，主持国家自然科学基金青年项目、面上项目、广东省面上项目，获得2023年中国自动化学会自然科学奖一等奖，入选斯坦福大学/爱思唯尔2023、2024年“全球Top 2% 科学家”榜单。
 
 樊老师课题组目前主要研究以下问题：
 
@@ -103,7 +103,8 @@ Academia Services
 
 * Associate Editor of Pattern Recognition
 * Associate Editor of Neural Processing Letters
-* Area Chair of ICML and NeurIPS
+* Area Chair of ICML, NeurIPS, and ICLR
+* Senior Program Committee Member of IJCAI
 * Senior Member of IEEE
 * Conference PC Member: COLT, AISTATS, NeurIPS, ICLR, ICML, CVPR, AAAI, KDD, IJCAI
 * Journal Reviewer: IEEE TNNLS/TII/TSP/TIP/TPAMI/TKDE, Pattern Recognition, SIAM Journal on Mathematics of Data Science, Mathematical Programming, Journal of Scientific Computing, etc.
