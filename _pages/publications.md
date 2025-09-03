@@ -16,6 +16,8 @@ author_profile: true
 
 <strong>Published or accepted papers</strong>
 
+1. Jinyu Cai, Wenzhong Guo, Yunhe Zhang, <strong>Jicong Fan</strong>*. discDC: Unsupervised Discriminative Deep Image Clustering via Confidence-Driven Self-Labeling. Pattern Recognition, 2025.
+
 1. Feng Xiao, Youqing Wang, S Joe Qin, <strong>Jicong Fan</strong>*. Semi-Supervised Anomaly Detection Using Restricted Distribution Transformation. IEEE TNNLS, 2025
    
 1. Jinyu Cai, Yunhe Zhang, <strong>Jicong Fan</strong>*. Self-Discriminative Modeling for Anomalous Graph Detection. ICML 2025.
