@@ -11,14 +11,7 @@ redirect_from:
 
 樊继聪老师现为香港中文大学(深圳)数据科学学院助理教授、博士生导师、校长青年学者。在此之前，他是康奈尔大学的博士后(advisor:Madeleine Udell)。他在香港城市大学电子工程系取得博士学位(导师:Tommy W.S. Chow)，在北京化工大学获得控制科学与工程硕士学位(导师:王友清)和自动化学士学位。他曾是美国威斯康星大学麦迪逊分校访问学生和香港大学研究助理。他的研究方向是人工智能和机器学习，他在矩阵/张量方法、聚类算法、图学习、异常检测和推荐系统等方面做了大量研究工作，在知名学术期刊和国际会议上，如IEEE TSP/TNNLS/TII、NeurIPS、ICLR、ICML、CVPR、KDD、AAAI，发表论文50余篇。 他是IEEE高级会员，目前担任国际期刊《Pattern Recognition》（中科院一区）和《Neural Processing Letters》的副编辑，担任国际人工智能/机器学习会议ICML、NeurIPS和ICLR领域主席、IJCAI高级程序委员会成员，主持国家自然科学基金青年项目、面上项目、广东省面上项目，获得2023年中国自动化学会自然科学奖一等奖，入选斯坦福大学/爱思唯尔2023、2024年“全球Top 2% 科学家”榜单。
 
-樊老师课题组目前主要研究以下问题：
-
-* 图基础模型
-* 表格数据大模型
-* 异常检测大模型
-* 无监督自动机器学习
-* 人工智能在生命科学、化学和化工中的应用
-* 基于大数据的健康监测和疾病诊断系统
+樊老师课题组目前主要研究以下问题：1)图基础模型; 2)异常检测大模型; 3)无监督自动机器学习; 4)人工智能在生命科学、化学和化工中的应用; 5)基于大数据的健康监测和疾病诊断系统。
   
 
 樊老师课题组目前招收博士生、博士后、研究助理，感兴趣的同学请发送简历及研究计划(如有)到邮箱。一些要求如下：
@@ -53,6 +46,7 @@ See the examples on the "Research" page.
 
 Selected Publications <font size=3>(* indicates corresponding author)</font>
 ======
+* Feng Xiao, Xiaoying Tang, <strong>Jicong Fan</strong>*. Fairness-aware Anomaly Detection via Fair Projection. <font color=DarkBlue>NeurIPS 2025</font>. <a href="https://ieeexplore.ieee.org/document/11071974">[PDF]</a>
 * Feng Xiao, Youqing Wang, S Joe Qin, <strong>Jicong Fan</strong>*. Semi-Supervised Anomaly Detection Using Restricted Distribution Transformation. <font color=DarkBlue>IEEE TNNLS 2025</font>. <a href="https://ieeexplore.ieee.org/document/11071974">[PDF]</a>
 * Jinyu Cai, Yunhe Zhang, <strong>Jicong Fan</strong>*. Self-Discriminative Modeling for Anomalous Graph Detection. <font color=DarkBlue>ICML 2025</font>. <a href="https://arxiv.org/pdf/2310.06261">[PDF]</a>
 * <strong>Jicong Fan</strong>. Graph Minimum Factorization Distance and Its Application to Large-Scale Graph Data Clustering. <font color=DarkBlue>ICML 2025</font>. <a href="https://openreview.net/pdf?id=hyPWP38j5k">[PDF]</a>
