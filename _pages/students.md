@@ -8,14 +8,12 @@ author_profile: true
 - PhD students
 	- Dong Qiao (MSc from Central South University) 2021 Autumn (1 NeurIPS, 1 AAAI)
 	- Zhiyu Chen (MSc from NUS) 2024 Spring
-	- Feng Xiao (MEng from Jilin University) 2024 Spring (1 NeurIPS, 1 Information Sciences， 1 TNNLS)
+	- Feng Xiao (MEng from Jilin University) 2024 Spring (2 NeurIPS, 1 Information Sciences， 1 TNNLS)
 	- Dazhi Fu (BEng from UESTC) 2024 Autumn (1 AAAI)
 	- Qi Feng (BSc from HIT-Shenzhen) 2025 Autumn
 
 - Research assistants or visiting students 
 	- Jirui Dai (BEng from CUHK-Shenzhen)
-	- Xianfei Li (BEng from Nanjing University)
-	- Ziyan Wang (BSc from Southwestern University of Finance and Economics)
 	- Zeyang Ding (BSc/MSc from Southern University of Science and Technology)
 
 - Graduated students
@@ -32,7 +30,8 @@ author_profile: true
 	- Zhihao Wu 2023 (1 NeurIPS, 1 IJCAI)
 	- Zhenhao Jiang 2023 (1 ICDM)
 	- Yunhe Zhang 2022-2024 (1 IJCAI, 1 ICLR spotlight)
-	- Yangyang Qu 2023-2024 
+	- Yangyang Qu 2023-2024
+	- Ziyan Wang 2024-2025
 	- Wei Dai 2022-2024 (1 TNNLS, 1 AAAI, 1 ICLR)
 
    
