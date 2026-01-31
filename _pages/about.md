@@ -48,6 +48,8 @@ See the examples on the "Research" page.
 
 Selected Publications <font size=3>(* indicates corresponding author)</font>
 ======
+* Dazhi Fu, <strong>Jicong Fan</strong>*. UniOD: A Universal Model for Outlier Detection across Diverse Domains. ICLR 2026 <a href="https://openreview.net/pdf?id=Eu25AOvORb">[PDF]</a>
+* Wei Dai, <strong>Jicong Fan</strong>*. AutoDV: An End-to-End Deep Learning Model for High-Dimensional Data Visualization. ICLR 2026 <a href="https://openreview.net/pdf?id=vaflHrZhlY">[PDF]</a>
 * Feng Xiao, Xiaoying Tang, <strong>Jicong Fan</strong>*. Fairness-aware Anomaly Detection via Fair Projection. <font color=DarkBlue>NeurIPS 2025</font>. <a href="https://openreview.net/pdf?id=gjjsDmlQRW">[PDF]</a>
 * Feng Xiao, Youqing Wang, S Joe Qin, <strong>Jicong Fan</strong>*. Semi-Supervised Anomaly Detection Using Restricted Distribution Transformation. <font color=DarkBlue>IEEE TNNLS 2025</font>. <a href="https://ieeexplore.ieee.org/document/11071974">[PDF]</a>
 * Jinyu Cai, Yunhe Zhang, <strong>Jicong Fan</strong>*. Self-Discriminative Modeling for Anomalous Graph Detection. <font color=DarkBlue>ICML 2025</font>. <a href="https://arxiv.org/pdf/2310.06261">[PDF]</a>
