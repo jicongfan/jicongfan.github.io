@@ -8,13 +8,15 @@ author_profile: true
 
 1. Feng Xiao, <strong>Jicong Fan</strong>*. Text-ADBench: Text Anomaly Detection Benchmark based on LLMs Embedding. arxiv 2025 <a href="https://arxiv.org/pdf/2507.12295">[PDF]</a>
 
-1. Dazhi Fu, <strong>Jicong Fan</strong>*. UniOD: A Universal Model for Outlier Detection across Diverse Domains. arxiv 2025 <a href="https://arxiv.org/pdf/2507.06624">[PDF]</a>
-
 1. Dong Qiao, <strong>Jicong Fan</strong>*. Mutual Regressin Distance. arxiv 2025 <a href="https://arxiv.org/abs/2501.10617">[PDF]</a>
 
 1. Zixiao Wang, Dong Qiao, <strong>Jicong Fan</strong>*. Spectral Clustering for Discrete Distributions. arxiv 2024 <a href="https://arxiv.org/pdf/2401.13913">[PDF]</a>
 
 <strong>Published or accepted papers</strong>
+
+1. Dazhi Fu, <strong>Jicong Fan</strong>*. UniOD: A Universal Model for Outlier Detection across Diverse Domains. ICLR 2026 <a href="https://openreview.net/pdf?id=Eu25AOvORb">[PDF]</a>
+
+1. Wei Dai, <strong>Jicong Fan</strong>*. AutoDV: An End-to-End Deep Learning Model for High-Dimensional Data Visualization. ICLR 2026 <a href="https://openreview.net/pdf?id=vaflHrZhlY">[PDF]</a>
 
 1. Jinyu Cai, Wenzhong Guo, Yunhe Zhang, <strong>Jicong Fan</strong>*. discDC: Unsupervised Discriminative Deep Image Clustering via Confidence-Driven Self-Labeling. Pattern Recognition, 2025.
 
