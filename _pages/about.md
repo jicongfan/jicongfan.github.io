@@ -48,6 +48,7 @@ See the examples on the "Research" page.
 
 Preprints <font size=3>
 ======
+* Qi Feng, <strong>Jicong Fan</strong>*. Training A Foundation Model to Represent Graphs as Vectors. <font color=DarkBlue>arXiv 2026</font>. <a href="https://arxiv.org/pdf/2602.04244">[PDF]</a> 
 * <strong>Jicong Fan</strong>. An Interdisciplinary and Cross-Task Review on Missing Data Imputation. <font color=DarkBlue>arXiv 2025</font>. <a href="https://arxiv.org/pdf/2511.01196">[PDF]</a>
 * Feng Xiao, <strong>Jicong Fan</strong>*. Text-ADBench: Text Anomaly Detection Benchmark based on LLMs Embedding. <font color=DarkBlue>arXiv 2025</font>. <a href="https://arxiv.org/pdf/2507.12295">[PDF]</a>
 * Dong Qiao, <strong>Jicong Fan</strong>*. Mutual Regressin Distance. <font color=DarkBlue>arXiv 2025</font>. <a href="https://arxiv.org/abs/2501.10617">[PDF]</a>
