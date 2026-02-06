@@ -48,7 +48,10 @@ See the examples on the "Research" page.
 
 Preprints <font size=3>
 ======
-* Jicong Fan. An Interdisciplinary and Cross-Task Review on Missing Data Imputation. <font color=DarkBlue>arXiv 2025</font>. <a href="https://arxiv.org/pdf/2511.01196">[PDF]</a>
+* <strong>Jicong Fan</strong>. An Interdisciplinary and Cross-Task Review on Missing Data Imputation. <font color=DarkBlue>arXiv 2025</font>. <a href="https://arxiv.org/pdf/2511.01196">[PDF]</a>
+* Feng Xiao, <strong>Jicong Fan</strong>*. Text-ADBench: Text Anomaly Detection Benchmark based on LLMs Embedding. <font color=DarkBlue>arXiv 2025</font>. <a href="https://arxiv.org/pdf/2507.12295">[PDF]</a>
+* Dong Qiao, <strong>Jicong Fan</strong>*. Mutual Regressin Distance. <font color=DarkBlue>arXiv 2025</font>. <a href="https://arxiv.org/abs/2501.10617">[PDF]</a>
+* Zixiao Wang, Dong Qiao, <strong>Jicong Fan</strong>*. Spectral Clustering for Discrete Distributions. <font color=DarkBlue>arXiv 2024</font>. <a href="https://arxiv.org/pdf/2401.13913">[PDF]</a>
 
 Selected Publications <font size=3>(* indicates corresponding author)</font>
 ======
@@ -115,7 +118,7 @@ Academia Services
 
 Honors and Awards
 ======
-* First Prize of the Natural Science Award of Chinese Association of Automation, 2023.10
+* First Prize of the Natural Science Award of the Chinese Association of Automation, 2023.10
 * CityU Outstanding Academic Performance Award / Research Tuition Scholarship, 2017.08
 * Outstanding graduates of Beijing University of Chemical Technology (5%), 2013.06
 * Excellent master's thesis award of Beijing University of Chemical Technology (5%), 2013.06
