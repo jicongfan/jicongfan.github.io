@@ -14,6 +14,10 @@ author_profile: true
 
 1. Wei Dai, <strong>Jicong Fan</strong>*. AutoDV: An End-to-End Deep Learning Model for High-Dimensional Data Visualization. ICLR 2026 <a href="https://openreview.net/pdf?id=vaflHrZhlY">[PDF]</a>
 
+1. Chao Ouyang, Haijun Zhang\*, <strong>Jicong Fan</strong>\*. BOGK: Bayesian Optimization-Driven Graph Kernel Ensemble for Graph-level Clustering. <font color=DarkBlue>IEEE TKDE 2026</font>.
+
+1. Feng Xiao, Xiaoying Tang, <strong>Jicong Fan</strong>*. Fairness-aware Anomaly Detection via Fair Projection. <font color=DarkBlue>NeurIPS 2025</font>. <a href="https://openreview.net/pdf?id=gjjsDmlQRW">[PDF]</a>
+
 1. Jinyu Cai, Wenzhong Guo, Yunhe Zhang, <strong>Jicong Fan</strong>*. discDC: Unsupervised Discriminative Deep Image Clustering via Confidence-Driven Self-Labeling. Pattern Recognition, 2025.
 
 1. Feng Xiao, Youqing Wang, S Joe Qin, <strong>Jicong Fan</strong>*. Semi-Supervised Anomaly Detection Using Restricted Distribution Transformation. IEEE TNNLS, 2025
