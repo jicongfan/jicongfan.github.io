@@ -6,9 +6,9 @@ author_profile: true
 
 1. Yangyang Qu, Dazhi FU, <strong>Jicong Fan</strong>*. Subject Information Extraction for Novelty Detection with Domain Shifts. PAKDD 2026. [[PDF]](/papers/pakdd2026_fm.pdf)
 
-1. Feng Xiao, <strong>Jicong Fan</strong>*. Evaluation Metrics for Data Valuation Methods. PAKDD 2026. [[PDF]](/papers/pakdd2026_fm.pdf)
+1. Feng Xiao, <strong>Jicong Fan</strong>*. Foundation Model-energized Anomaly Detection and Outlier Detection: A Survey. PAKDD 2026. [[PDF]](/papers/pakdd2026_fm.pdf)
 
-1. Zhiyu Chen, <strong>Jicong Fan</strong>*. Foundation Model-energized Anomaly Detection and Outlier Detection: A Survey. PAKDD 2026. [[PDF]](/papers/pakdd2026_eva.pdf)
+1. Zhiyu Chen, <strong>Jicong Fan</strong>*. Evaluation Metrics for Data Valuation Methods. PAKDD 2026. [[PDF]](/papers/pakdd2026_eva.pdf)
 
 1. Dazhi Fu, <strong>Jicong Fan</strong>*. UniOD: A Universal Model for Outlier Detection across Diverse Domains. ICLR 2026 <a href="https://openreview.net/pdf?id=Eu25AOvORb">[PDF]</a>
 
