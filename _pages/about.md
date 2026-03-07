@@ -110,6 +110,7 @@ Academia Services
 
 * Associate Editor of Pattern Recognition
 * Associate Editor of Neural Processing Letters
+* Action Editor of Transactions on Machine Learning Research
 * Area Chair of ICML, NeurIPS, and ICLR
 * Senior Program Committee Member of IJCAI
 * Senior Member of IEEE
