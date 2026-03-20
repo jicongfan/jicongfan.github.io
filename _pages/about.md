@@ -9,42 +9,26 @@ redirect_from:
 ---
 
 
-樊继聪老师现为香港中文大学(深圳)数据科学学院助理教授、博士生导师、校长青年学者。在此之前，他是康奈尔大学的博士后(advisor:Madeleine Udell)。他在香港城市大学电子工程系取得博士学位(导师:Tommy W.S. Chow)，在北京化工大学获得控制科学与工程硕士学位(导师:王友清)和自动化学士学位。他曾是美国威斯康星大学麦迪逊分校访问学生和香港大学研究助理。他的研究方向是人工智能和机器学习，他在矩阵/张量方法、聚类算法、图学习、异常检测和推荐系统等方面做了大量研究工作，在知名学术期刊和国际会议上，如IEEE TSP/TNNLS/TII、NeurIPS、ICLR、ICML、CVPR、KDD、AAAI，发表论文50余篇。 他是IEEE高级会员，目前担任国际期刊《Pattern Recognition》（中科院一区）和《Neural Processing Letters》的副编辑，担任国际人工智能/机器学习会议ICML、NeurIPS和ICLR领域主席、IJCAI高级程序委员会成员，主持国家自然科学基金青年项目、面上项目、广东省面上项目，获得2023年中国自动化学会自然科学奖一等奖，入选斯坦福大学/爱思唯尔2023、2024、2025(年度/终身)“全球Top 2% 科学家”榜单。
+樊继聪老师现为香港中文大学(深圳)数据科学学院助理教授、博士生导师、校长青年学者。在此之前，他是康奈尔大学的博士后(advisor:Madeleine Udell)。他在香港城市大学电子工程系取得博士学位(导师:Tommy W.S. Chow)，在北京化工大学获得控制科学与工程硕士学位(导师:王友清)和自动化学士学位。他曾是美国威斯康星大学麦迪逊分校访问学生和香港大学研究助理。他的研究方向是人工智能和机器学习，他在矩阵/张量方法、聚类算法、图学习、异常检测和推荐系统等方面做了大量研究工作，在知名学术期刊和国际会议上，如IEEE TSP/TNNLS/TII、NeurIPS、ICLR、ICML、CVPR、KDD、AAAI，发表论文60余篇。 他是IEEE高级会员，目前担任国际期刊《Pattern Recognition》（中科院一区）、《Neural Processing Letters》、《Transactions on Machine Learning Research》的副编辑/执行编辑，担任国际人工智能/机器学习会议ICML、NeurIPS和ICLR领域主席，主持国家自然科学基金青年项目、面上项目、广东省面上项目等，获得2023年中国自动化学会自然科学奖一等奖，入选斯坦福大学/爱思唯尔2023、2024、2025(年度/终身)“全球Top 2% 科学家”榜单。
 
-樊老师课题组目前主要研究以下问题：1)图基础模型; 2)异常检测大模型; 3)无监督自动机器学习; 4)人工智能在生命科学、化学和化工中的应用; 5)基于大数据的健康监测和疾病诊断系统。
+樊老师课题组目前主要研究以下问题：1)图机器学习; 2)异常检测; 3)自动机器学习; 4)人工智能在生命科学、化学和化工中的应用; 5)基于大数据的健康监测和疾病诊断系统。
   
-<!--
+
 樊老师课题组目前招收博士生、博士后、研究助理，感兴趣的同学请发送简历及研究计划(如有)到邮箱。一些要求如下：
 * <strong>博士生</strong> 为人诚实守信，工作认真负责，优先考虑满足以下任一条件的同学（本科或硕士）：1)本科毕业于985高校且成绩专业排名不低于前百分之二十；2)本科成绩专业排名前百分之五；3)以第一作者身份发表过CCFA/B类论文或者电子工程/自动化等领域同等水平论文（如果是硕士毕业，该条件必须满足)。本课题组为所有博士生提供全额奖学金和生活补贴。
 * <strong>博士后</strong> 为人诚实守信，工作认真负责，即将或者已经获得博士学位，以第一作者身份发表过两篇CCFA/B类论文或者电子工程/自动化等领域同等水平论文。待遇面议。
 * <strong>研究助理</strong> 为人诚实守信，工作认真负责，本硕在读或者已毕业均可，优先考虑满足以下任一条件的同学：1)本科毕业于985高校且成绩专业排名不低于前百分之三十；2)本科成绩专业排名前百分之十；3)以第一作者身份发表过CCFA/B类论文或者电子工程/自动化等领域同等水平论文。
--->
+
 
 ---
 
+I am an Assistant Professor at the School of Data Science, The Chinese University of Hong Kong, Shenzhen. Before joining CUHK-Shenzhen, I was a Postdoctoral Associate (advisor: Madeleine Udell) at the School of Operations Research and Information Engineering, Cornell University, Ithaca, USA. I completed my PhD at City University of Hong Kong in Electronic Engineering under the supervision of Prof. Tommy W.S. Chow. During my PhD, I was a visiting scholar at the Department of Electrical and Computer Engineering, University of Wisconsin-Madison, USA. I obtained my Bachelor's (Automation) and Master's (Control Science and Engineering, supervisor: Youqing Wang) degrees from Beijing University of Chemical Technology. After that, I was a Research Assistant at The University of Hong Kong. 
+My research focuses on artificial intelligence and machine learning, with extensive work in matrix/tensor methods, clustering algorithms, graph learning, anomaly detection, and recommender systems. I have published over 60 papers in prestigious academic journals and international conferences, including IEEE TSP, TNNLS, TII, NeurIPS, ICLR, ICML, CVPR, KDD, and AAAI. I'm a Senior Member of IEEE and currently serve as an Associate/Action Editor for international journals such as Pattern Recognition, Neural Processing Letters, and Transactions on Machine Learning Research. I also act as an Area Chair for international AI/machine learning conferences including ICML, NeurIPS, and ICLR. I have led research projects funded by the National Natural Science Foundation of China (Young Scientists Fund and General Program) and the Guangdong Provincial Natural Science Foundation (General Program). I was awarded the First Prize of the Natural Science Award by the Chinese Association of Automation in 2023.
 
-I am an Assistant Professor at the School of Data Science, The Chinese University of Hong Kong, Shenzhen. Before joining CUHK-Shenzhen, I was a Postdoctoral Associate (advisor: Madeleine Udell) at the School of Operations Research and Information Engineering, Cornell University, Ithaca, USA. I completed my PhD at City University of Hong Kong in Electronic Engineering under the supervision of Prof. Tommy W.S. Chow. During my PhD, I was a visiting scholar at the Department of Electrical and Computer Engineering, University of Wisconsin-Madison, USA. I obtained my Bachelor (Automation) and Master (Control Science and Engineering, supervisor: Youqing Wang) degrees from Beijing University of Chemical Technology. After that, I was a Research Assistant at The University of Hong Kong. 
 
-<!--
+
 I am looking for PhD students, Postdocs, and Research Assistants. If you are interested in these positions, please send me your CV/resume. For PhD or Postdoc, please also send me your research plan.
--->
 
-
-Research Interests
-======
-My research interests are Artificial Intelligence and Machine Learning. Some specific research topics of mine are as follows:
-* Matrix and tensor methods
-* Algorithms for missing data, outlier, and noise
-* Recommendation system
-* Automated machine learning
-* Clustering algorithms
-* Learning with graphs
-* Privacy and fairness in machine learning
-* Non-smooth optimization
-* Anomaly/novelty/fault detection
-* Machine learning for bioinformatics and healthcare
-
-See the examples on the "Research" page.
 
 Preprints <font size=3>
 ======
@@ -96,15 +80,8 @@ Selected Publications <font size=3>(* indicates corresponding author)</font>
 * <strong>Jicong Fan</strong>, Madeleine Udell. Online high-rank matrix completion. <font color=DarkBlue>CVPR 2019</font> <font color=blue>(Oral, acceptance rate=5.6%)</font>. <a href="https://openaccess.thecvf.com/content_CVPR_2019/papers/Fan_Online_High_Rank_Matrix_Completion_CVPR_2019_paper.pdf">[PDF]</a>
 
 
-  
-Research Funds
-======
 
-* NSFC Youth Fund Programme (国自然青年项目), 2022.01-2024.12, PI.
-* General Program of Natural Science Foundation of Guangdong Province (广东省面上项目), 2024.01-2026.12, PI.
-* NSFC General Programme (国自然面上项目), 2024.01-2027.12, PI.
-
-  
+<!--
 Academia Services
 ======
 
@@ -125,6 +102,7 @@ Honors and Awards
 * Outstanding graduates of Beijing University of Chemical Technology (5%), 2013.06
 * Excellent master's thesis award of Beijing University of Chemical Technology (5%), 2013.06
 * Zhang Zhong-Jun Academician Outstanding Paper Award (1%), 2012.08	
+-->
 
 
 
