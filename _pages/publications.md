@@ -4,6 +4,12 @@ title: "Publications"
 author_profile: true
 ---
 
+1.  <strong>Jicong Fan</strong>. An Interdisciplinary and Cross-Task Review on Missing Data Imputation. Foundations and Trends in Signal Processing (2026) 20 (3): 185–317. <a href="https://arxiv.org/pdf/2511.01196">[PDF]</a>
+
+1.  Dazhi Fu, Zhao Zhang, <strong>Jicong Fan</strong>*. Noise-Robust Density Estimation for Tabular Data Anomaly Detection. <font color=DarkBlue>ICML 2026</font>. <a href="https://openreview.net/pdf?id=S51EtVGlui">[PDF]</a>
+
+1.  Xudong Wang, Ziheng Sun, Chris Ding, <strong>Jicong Fan</strong>*. Learnable Kernel Density Estimation for Graphs and Its Application to Graph-Level Anomaly Detection. <font color=DarkBlue>ICML 2026</font>. <a href="https://openreview.net/pdf?id=G1M4rBPtlP">[PDF]</a>
+
 1. Yangyang Qu, Dazhi FU, <strong>Jicong Fan</strong>*. Subject Information Extraction for Novelty Detection with Domain Shifts. PAKDD 2026. [[PDF]](/papers/pakdd2026_fm.pdf)
 
 1. Feng Xiao, <strong>Jicong Fan</strong>*. Foundation Model-energized Anomaly Detection and Outlier Detection: A Survey. PAKDD 2026. [[PDF]](/papers/pakdd2026_fm.pdf)
