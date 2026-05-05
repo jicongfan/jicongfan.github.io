@@ -33,13 +33,15 @@ I am looking for PhD students, Postdocs, and Research Assistants. If you are int
 Preprints <font size=3>
 ======
 * Qi Feng, <strong>Jicong Fan</strong>*. Training A Foundation Model to Represent Graphs as Vectors. <font color=DarkBlue>arXiv 2026</font>. <a href="https://arxiv.org/pdf/2602.04244">[PDF]</a> 
-* <strong>Jicong Fan</strong>. An Interdisciplinary and Cross-Task Review on Missing Data Imputation. <font color=DarkBlue>arXiv 2025</font>. <a href="https://arxiv.org/pdf/2511.01196">[PDF]</a>
 * Feng Xiao, <strong>Jicong Fan</strong>*. Text-ADBench: Text Anomaly Detection Benchmark based on LLMs Embedding. <font color=DarkBlue>arXiv 2025</font>. <a href="https://arxiv.org/pdf/2507.12295">[PDF]</a>
 * Dong Qiao, <strong>Jicong Fan</strong>*. Mutual Regressin Distance. <font color=DarkBlue>arXiv 2025</font>. <a href="https://arxiv.org/abs/2501.10617">[PDF]</a>
 * Zixiao Wang, Dong Qiao, <strong>Jicong Fan</strong>*. Spectral Clustering for Discrete Distributions. <font color=DarkBlue>arXiv 2024</font>. <a href="https://arxiv.org/pdf/2401.13913">[PDF]</a>
 
 Selected Publications <font size=3>(* indicates corresponding author)</font>
 ======
+* <strong>Jicong Fan</strong>. An Interdisciplinary and Cross-Task Review on Missing Data Imputation. Foundations and Trends in Signal Processing (2026) 20 (3): 185–317. <a href="https://arxiv.org/pdf/2511.01196">[PDF]</a>
+* Dazhi Fu, Zhao Zhang, <strong>Jicong Fan</strong>*. Noise-Robust Density Estimation for Tabular Data Anomaly Detection. <font color=DarkBlue>ICML 2026</font>. <a href="https://openreview.net/pdf?id=S51EtVGlui">[PDF]</a>
+* Xudong Wang, Ziheng Sun, Chris Ding, <strong>Jicong Fan</strong>*. Learnable Kernel Density Estimation for Graphs and Its Application to Graph-Level Anomaly Detection. <font color=DarkBlue>ICML 2026</font>. <a href="https://openreview.net/pdf?id=G1M4rBPtlP">[PDF]</a>
 * Dazhi Fu, <strong>Jicong Fan</strong>*. UniOD: A Universal Model for Outlier Detection across Diverse Domains. <font color=DarkBlue>ICLR 2026</font>. <a href="https://openreview.net/pdf?id=Eu25AOvORb">[PDF]</a>
 * Wei Dai, <strong>Jicong Fan</strong>*. AutoDV: An End-to-End Deep Learning Model for High-Dimensional Data Visualization. <font color=DarkBlue>ICLR 2026</font>. <a href="https://openreview.net/pdf?id=vaflHrZhlY">[PDF]</a>
 * Chao Ouyang, Haijun Zhang\*, <strong>Jicong Fan</strong>\*. BOGK: Bayesian Optimization-Driven Graph Kernel Ensemble for Graph-level Clustering. <font color=DarkBlue>IEEE TKDE 2026</font>.
