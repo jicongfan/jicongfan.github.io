@@ -8,6 +8,18 @@ redirect_from:
   - /about.html
 ---
 
+I am an Assistant Professor at the School of Data Science, The Chinese University of Hong Kong, Shenzhen. Before joining CUHK-Shenzhen, I was a Postdoctoral Associate (advisor: Madeleine Udell) at the School of Operations Research and Information Engineering, Cornell University, Ithaca, USA. I completed my PhD at City University of Hong Kong in Electronic Engineering under the supervision of Prof. Tommy W.S. Chow. During my PhD, I was a visiting scholar at the Department of Electrical and Computer Engineering, University of Wisconsin-Madison, USA. I obtained my Bachelor's (Automation) and Master's (Control Science and Engineering, supervisor: Youqing Wang) degrees from Beijing University of Chemical Technology. After that, I was a Research Assistant at The University of Hong Kong. 
+
+Here is my <a href="https://sds.cuhk.edu.cn/en/teacher/331">personal page</a> on my university website.
+
+
+My research focuses on artificial intelligence and machine learning, with extensive work in matrix/tensor methods, clustering algorithms, graph learning, anomaly detection, and recommender systems. I have published over 70 papers in prestigious academic journals and international conferences, including IEEE TSP, TNNLS, TII, NeurIPS, ICLR, ICML, CVPR, KDD, and AAAI. I'm a Senior Member of IEEE and currently serve as an Associate/Action Editor for international journals such as Pattern Recognition, Neural Processing Letters, and Transactions on Machine Learning Research. I also act as an Area Chair for international AI/machine learning conferences, including ICML, NeurIPS, and ICLR. I have led research projects funded by the National Natural Science Foundation of China (Young Scientists Fund and General Program) and the Guangdong Provincial Natural Science Foundation (General Program). I was awarded the First Prize of the Natural Science Award by the Chinese Association of Automation in 2023.
+
+I am looking for PhD students, Postdocs, and Research Assistants. If you are interested in these positions, please send me your CV/resume. For PhD or Postdoc, please also send me your research plan.
+
+
+---
+
 
 樊继聪老师现为香港中文大学(深圳)数据科学学院助理教授、博士生导师、校长青年学者。在此之前，他是康奈尔大学的博士后(advisor:Madeleine Udell)。他在香港城市大学电子工程系取得博士学位(导师:Tommy W.S. Chow)，在北京化工大学获得控制科学与工程硕士学位(导师:王友清)和自动化学士学位。他曾是美国威斯康星大学麦迪逊分校访问学生和香港大学研究助理。他的研究方向是人工智能和机器学习，他在矩阵/张量方法、聚类算法、图学习、异常检测和推荐系统等方面做了大量研究工作，在知名学术期刊和国际会议上，如IEEE TSP/TNNLS/TII、NeurIPS、ICLR、ICML、CVPR、KDD、AAAI，发表论文60余篇。 他是IEEE高级会员，目前担任国际期刊《Pattern Recognition》（中科院一区）、《Neural Processing Letters》、《Transactions on Machine Learning Research》的副编辑/执行编辑，担任国际人工智能/机器学习会议ICML、NeurIPS和ICLR领域主席，主持国家自然科学基金青年项目、面上项目、广东省面上项目等，获得2023年中国自动化学会自然科学奖一等奖，入选斯坦福大学/爱思唯尔2023、2024、2025(年度/终身)“全球Top 2% 科学家”榜单。
 
@@ -20,14 +32,10 @@ redirect_from:
 * <strong>研究助理</strong> 为人诚实守信，工作认真负责，本硕在读或者已毕业均可，优先考虑满足以下任一条件的同学：1)本科毕业于985高校且成绩专业排名不低于前百分之三十；2)本科成绩专业排名前百分之十；3)以第一作者身份发表过CCFA/B类论文或者电子工程/自动化等领域同等水平论文。
 
 
----
-
-I am an Assistant Professor at the School of Data Science, The Chinese University of Hong Kong, Shenzhen. Before joining CUHK-Shenzhen, I was a Postdoctoral Associate (advisor: Madeleine Udell) at the School of Operations Research and Information Engineering, Cornell University, Ithaca, USA. I completed my PhD at City University of Hong Kong in Electronic Engineering under the supervision of Prof. Tommy W.S. Chow. During my PhD, I was a visiting scholar at the Department of Electrical and Computer Engineering, University of Wisconsin-Madison, USA. I obtained my Bachelor's (Automation) and Master's (Control Science and Engineering, supervisor: Youqing Wang) degrees from Beijing University of Chemical Technology. After that, I was a Research Assistant at The University of Hong Kong. 
-My research focuses on artificial intelligence and machine learning, with extensive work in matrix/tensor methods, clustering algorithms, graph learning, anomaly detection, and recommender systems. I have published over 60 papers in prestigious academic journals and international conferences, including IEEE TSP, TNNLS, TII, NeurIPS, ICLR, ICML, CVPR, KDD, and AAAI. I'm a Senior Member of IEEE and currently serve as an Associate/Action Editor for international journals such as Pattern Recognition, Neural Processing Letters, and Transactions on Machine Learning Research. I also act as an Area Chair for international AI/machine learning conferences including ICML, NeurIPS, and ICLR. I have led research projects funded by the National Natural Science Foundation of China (Young Scientists Fund and General Program) and the Guangdong Provincial Natural Science Foundation (General Program). I was awarded the First Prize of the Natural Science Award by the Chinese Association of Automation in 2023.
 
 
 
-I am looking for PhD students, Postdocs, and Research Assistants. If you are interested in these positions, please send me your CV/resume. For PhD or Postdoc, please also send me your research plan.
+
 
 
 Preprints <font size=3>
