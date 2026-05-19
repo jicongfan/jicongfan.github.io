@@ -35,7 +35,11 @@ I am looking for PhD students, Postdocs, and Research Assistants. If you are int
 
 
 
-
+Survey, Tutorial, and Workshop <font size=3>
+======
+* <strong>Jicong Fan</strong>. An Interdisciplinary and Cross-Task Review on Missing Data Imputation. Foundations and Trends in Signal Processing (2026) 20 (3): 185–317. <a href="https://arxiv.org/pdf/2511.01196">[PDF]</a>
+* <strong>Jicong Fan</strong>, Xudong Wang, Qi Feng, Chris Ding. Foundations and Recent Advances of Graph Learning: A Perspective from Distances and Representations. PAKDD 2026 Tutorial, Hong Kong, 2026 June. <a href="https://www.pakdd2026.org/tutorial">[Web]</a>
+* <strong>Jicong Fan</strong>, Qibin Zhao, Chris Ding. LLM for Tensor Analysis & Tensor for LLM Advancement (LLMTenA 2026). ICDM 2026 Workshop, Shenyang, 2026 November. <a href="https://researchyes.github.io/ICDM2026-Workshop-LLMTenA/">[Call for Papers]</a>
 
 
 Preprints <font size=3>
@@ -48,7 +52,6 @@ Preprints <font size=3>
 Selected Publications <font size=3>(* indicates corresponding author)</font>
 ======
 * Feng Xiao, Dazhi Fu, Chris Ding, <strong>Jicong Fan</strong>*. CLUBench: A Clustering Benchmark. <font color=DarkBlue>KDD 2026</font>. <a href="https://openreview.net/pdf?id=hBvjNfaYbV">[PDF]</a>
-* <strong>Jicong Fan</strong>. An Interdisciplinary and Cross-Task Review on Missing Data Imputation. Foundations and Trends in Signal Processing (2026) 20 (3): 185–317. <a href="https://arxiv.org/pdf/2511.01196">[PDF]</a>
 * Dazhi Fu, Zhao Zhang, <strong>Jicong Fan</strong>*. Noise-Robust Density Estimation for Tabular Data Anomaly Detection. <font color=DarkBlue>ICML 2026</font>. <a href="https://openreview.net/pdf?id=S51EtVGlui">[PDF]</a>
 * Xudong Wang, Ziheng Sun, Chris Ding, <strong>Jicong Fan</strong>*. Learnable Kernel Density Estimation for Graphs and Its Application to Graph-Level Anomaly Detection. <font color=DarkBlue>ICML 2026</font>. <a href="https://openreview.net/pdf?id=G1M4rBPtlP">[PDF]</a>
 * Dazhi Fu, <strong>Jicong Fan</strong>*. UniOD: A Universal Model for Outlier Detection across Diverse Domains. <font color=DarkBlue>ICLR 2026</font>. <a href="https://openreview.net/pdf?id=Eu25AOvORb">[PDF]</a>
