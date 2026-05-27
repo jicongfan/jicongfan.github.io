@@ -33,6 +33,29 @@ I am looking for PhD students, Postdocs, and Research Assistants. If you are int
 
 
 
+Academia Services
+======
+
+* Associate Editor of Pattern Recognition
+* Associate Editor of Neural Processing Letters
+* Action Editor of Transactions on Machine Learning Research
+* Area Chair of ICML, NeurIPS, and ICLR
+* Senior Program Committee Member of IJCAI
+* Senior Member of IEEE
+* Conference PC Member: COLT, AISTATS, NeurIPS, ICLR, ICML, CVPR, AAAI, KDD, IJCAI
+* Journal Reviewer: IEEE TNNLS/TII/TSP/TIP/TPAMI/TKDE, Pattern Recognition, SIAM Journal on Mathematics of Data Science, Mathematical Programming, Journal of Scientific Computing, etc.
+
+
+Honors and Awards
+======
+* Editorial Contribution Award of Neural Processing Letters, 2026.05
+* NeurIPS Top 10% Area Chair, 2025.11
+* First Prize of the Natural Science Award of the Chinese Association of Automation, 2023.10
+* CityU Outstanding Academic Performance Award / Research Tuition Scholarship, 2017.08
+* Outstanding graduates of Beijing University of Chemical Technology (5%), 2013.06
+* Excellent master's thesis award of Beijing University of Chemical Technology (5%), 2013.06
+* Zhang Zhong-Jun Academician Outstanding Paper Award (1%), 2012.08	
+
 
 
 Survey, Tutorial, and Workshop <font size=3>
@@ -95,28 +118,7 @@ Selected Publications <font size=3>(* indicates corresponding author)</font>
 
 
 
-<!--
-Academia Services
-======
 
-* Associate Editor of Pattern Recognition
-* Associate Editor of Neural Processing Letters
-* Action Editor of Transactions on Machine Learning Research
-* Area Chair of ICML, NeurIPS, and ICLR
-* Senior Program Committee Member of IJCAI
-* Senior Member of IEEE
-* Conference PC Member: COLT, AISTATS, NeurIPS, ICLR, ICML, CVPR, AAAI, KDD, IJCAI
-* Journal Reviewer: IEEE TNNLS/TII/TSP/TIP/TPAMI/TKDE, Pattern Recognition, SIAM Journal on Mathematics of Data Science, Mathematical Programming, Journal of Scientific Computing, etc.
-
-
-Honors and Awards
-======
-* First Prize of the Natural Science Award of the Chinese Association of Automation, 2023.10
-* CityU Outstanding Academic Performance Award / Research Tuition Scholarship, 2017.08
-* Outstanding graduates of Beijing University of Chemical Technology (5%), 2013.06
-* Excellent master's thesis award of Beijing University of Chemical Technology (5%), 2013.06
-* Zhang Zhong-Jun Academician Outstanding Paper Award (1%), 2012.08	
--->
 
 
 
