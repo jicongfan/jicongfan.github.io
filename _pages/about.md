@@ -61,6 +61,7 @@ Honors and Awards
 Survey, Tutorial, and Workshop <font size=3>
 ======
 * <strong>Jicong Fan</strong>. An Interdisciplinary and Cross-Task Review on Missing Data Imputation. Foundations and Trends in Signal Processing (2026) 20 (3): 185–317. <a href="https://arxiv.org/pdf/2511.01196">[PDF]</a>
+* Chunguang Li and <strong>Jicong Fan</strong>. 学习高维数据中潜在图结构的原则化框架及其应用 (A principled framework for learning latent graph structures in high-dimensional data and its applications). 第二届CCF图机器学习会议 (The Second CCF Conference on Graph Machine Learning），中国长春，2025.5.30.
 * <strong>Jicong Fan</strong>, Xudong Wang, Qi Feng, Chris Ding. Foundations and Recent Advances of Graph Learning: A Perspective from Distances and Representations. PAKDD 2026 Tutorial, Hong Kong, 2026 June. <a href="https://www.pakdd2026.org/tutorial">[Web]</a>
 * <strong>Jicong Fan</strong>, Qibin Zhao, Chris Ding. LLM for Tensor Analysis & Tensor for LLM Advancement (LLMTenA 2026). ICDM 2026 Workshop, Shenyang, 2026 November. <a href="https://researchyes.github.io/ICDM2026-Workshop-LLMTenA/">[Call for Papers]</a>
 
