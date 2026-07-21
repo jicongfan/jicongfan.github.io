@@ -40,7 +40,7 @@ Academia Services
 * Associate Editor of Neural Processing Letters
 * Action Editor of Transactions on Machine Learning Research
 * Area Chair of ICML, NeurIPS, and ICLR
-* Senior Program Committee Member of IJCAI
+* Senior Program Committee Member of AAAI, IJCAI, WSDM, and PAKDD.
 * Senior Member of IEEE
 * Conference PC Member: COLT, AISTATS, NeurIPS, ICLR, ICML, CVPR, AAAI, KDD, IJCAI
 * Journal Reviewer: IEEE TNNLS/TII/TSP/TIP/TPAMI/TKDE, Pattern Recognition, SIAM Journal on Mathematics of Data Science, Mathematical Programming, Journal of Scientific Computing, etc.
@@ -48,13 +48,13 @@ Academia Services
 
 Honors and Awards
 ======
-* Editorial Contribution Award of Neural Processing Letters, 2026.05
-* NeurIPS Top 10% Area Chair, 2025.11
-* First Prize of the Natural Science Award of the Chinese Association of Automation, 2023.10
-* CityU Outstanding Academic Performance Award / Research Tuition Scholarship, 2017.08
-* Outstanding graduates of Beijing University of Chemical Technology (5%), 2013.06
-* Excellent master's thesis award of Beijing University of Chemical Technology (5%), 2013.06
-* Zhang Zhong-Jun Academician Outstanding Paper Award (1%), 2012.08	
+* Editorial Contribution Award of Neural Processing Letters, May 2026.
+* NeurIPS Top 10% Area Chair, Nov 2025.
+* First Prize of the Natural Science Award of the Chinese Association of Automation, Oct 2023
+* CityU Outstanding Academic Performance Award / Research Tuition Scholarship, Aug 2017.
+* Outstanding graduates of Beijing University of Chemical Technology (5%), Jun 2013.
+* Excellent master's thesis award of Beijing University of Chemical Technology (5%), Jun 2013.
+* Zhang Zhong-Jun Academician Outstanding Paper Award (1%), Aug 2012.	
 
 
 
