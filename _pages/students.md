@@ -8,8 +8,8 @@ author_profile: true
 - PhD students
 	- Dong Qiao (MSc from Central South University) 2021 Autumn (1 NeurIPS, 1 AAAI)
 	- Zhiyu Chen (MSc from NUS) 2024 Spring
-	- Feng Xiao (MEng from Jilin University) 2024 Spring (2 NeurIPS, 1 Information Sciences，1 TNNLS, 1 KDD)
-	- Dazhi Fu (BEng from UESTC) 2024 Autumn (1 AAAI, 1 ICLR, 1 ICML)
+	- Feng Xiao (MEng from Jilin University) 2024 Spring (2 NeurIPS, 1 Information Sciences，2 IEEE TNNLS, 1 KDD)
+	- Dazhi Fu (BEng from UESTC) 2024 Autumn (1 AAAI, 1 ICLR, 1 ICML,  1KDD)
 	- Qi Feng (BSc from HIT-Shenzhen) 2025 Autumn
 
 - Master students
