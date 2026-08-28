@@ -69,12 +69,12 @@ Survey, Tutorial, and Workshop <font size=3>
 Preprints <font size=3>
 ======
 * Qi Feng, <strong>Jicong Fan</strong>*. Training A Foundation Model to Represent Graphs as Vectors. <font color=DarkBlue>arXiv 2026</font>. <a href="https://arxiv.org/pdf/2602.04244">[PDF]</a> 
-* Feng Xiao, <strong>Jicong Fan</strong>*. Text-ADBench: Text Anomaly Detection Benchmark based on LLMs Embedding. <font color=DarkBlue>arXiv 2025</font>. <a href="https://arxiv.org/pdf/2507.12295">[PDF]</a>
-* Dong Qiao, <strong>Jicong Fan</strong>*. Mutual Regressin Distance. <font color=DarkBlue>arXiv 2025</font>. <a href="https://arxiv.org/abs/2501.10617">[PDF]</a>
+* Dong Qiao, <strong>Jicong Fan</strong>*. Mutual Regression Distance. <font color=DarkBlue>arXiv 2025</font>. <a href="https://arxiv.org/abs/2501.10617">[PDF]</a>
 * Zixiao Wang, Dong Qiao, <strong>Jicong Fan</strong>*. Spectral Clustering for Discrete Distributions. <font color=DarkBlue>arXiv 2024</font>. <a href="https://arxiv.org/pdf/2401.13913">[PDF]</a>
 
 Selected Publications <font size=3>(* indicates corresponding author)</font>
 ======
+* Feng Xiao, <strong>Jicong Fan</strong>*. Text-ADBench: Text Anomaly Detection Benchmark Based on LLM Embeddings. <font color=DarkBlue>IEEE TNNLS 2026</font>. <a href="https://arxiv.org/pdf/2507.12295">[PDF]</a>
 * Feng Xiao, Dazhi Fu, Chris Ding, <strong>Jicong Fan</strong>*. CLUBench: A Clustering Benchmark. <font color=DarkBlue>KDD 2026</font>. <a href="https://openreview.net/pdf?id=hBvjNfaYbV">[PDF]</a>
 * Dazhi Fu, Zhao Zhang, <strong>Jicong Fan</strong>*. Noise-Robust Density Estimation for Tabular Data Anomaly Detection. <font color=DarkBlue>ICML 2026</font>. <a href="https://openreview.net/pdf?id=S51EtVGlui">[PDF]</a>
 * Xudong Wang, Ziheng Sun, Chris Ding, <strong>Jicong Fan</strong>*. Learnable Kernel Density Estimation for Graphs and Its Application to Graph-Level Anomaly Detection. <font color=DarkBlue>ICML 2026</font>. <a href="https://openreview.net/pdf?id=G1M4rBPtlP">[PDF]</a>
