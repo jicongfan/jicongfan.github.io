@@ -18,7 +18,7 @@ author_profile: true
   - Xuyan Liu
   
 - Research assistants or visiting students 
-	- Zeyang Ding (BSc/MSc from Southern University of Science and Technology)
+	- Zeyang Ding (BSc/MSc from Southern University of Science and Technology) (2 NeurIPS)
     - Zixian Tang (BSc from Chongqing University)
 
 - Graduated students
